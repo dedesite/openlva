@@ -1,0 +1,864 @@
+1_A;;A;1;Noir;extrémité du pied;AV;besoin de se surpasser, de se prouver
+2_A;;A;2;Noir;phalange distale;AV;besoin d’affronter, besoin de passer à l'action
+3_A;;A;3;Noir;phalange moyenne;AR; besoin de se préserver, instinct de conservation
+4_A;;A;4;Noir;phalange proximale;AR;besoin de se sentir vivant
+8_A;;A;8;Noir;voûte plantaire;AV;besoin de se sentir vivant
+14_A;;A;14;Noir;calcanéum;AV;besoin de stabilité, de réalisations, d'avancer dans la vie 
+15_A;;A;15;Noir;talons;AR;besoin d’être en groupe, besoin de sécurité
+25_A;;A;25;Noir;cous-de-pied;AV;besoin d’être en groupe, besoin de sécurité
+54_A;;A;54;Noir;malléoles;AR;besoin de soutenir les autres ou d'être soutenu, besoin de choisir et de décider 
+60_A;;A;60;Brun;tendons d'Achille;AR;besoin de stabilité, de réalisations concrètes, capacité à supporter 
+64_A;;A;64;Brun;tibias/péronés;AV;besoin de soutien, besoin de se positionner 
+76_A;;A;76;Brun;mollets/veines;AR;besoin de régler le passé, se mettre la pression pour la famille
+93_A;;A;93;Brun;ligaments croisés;AV;besoin de stabilité, de sécurité, d'assumer
+98_A;;A;98;Mauve;arrière des genoux;AR;besoin de régler le passé familial, enracinement 
+100_A;;A;100;Mauve;rotules;AV;besoin de se sentir fort, de résister, d'encaisser 
+105_A;;A;105;Mauve;cuisses;AV;besoin d'aller de l'avant, d'être responsable 
+112_A;;A;112;Ecarlate;testicules;AV;besoin de créer, besoin d'exprimer son potentiel 
+114_A;;A;114;Ecarlate;périnée;AR;besoin de s'aimer, de se faire plaisir 
+116_A;;A;116;Rouge;anus/rectum;AR;besoin de retenir à l'intérieur, de garder pour soi 
+118_A;;A;118;Rouge;côlon sigmoïde;AR;besoin d’argent, besoin d'être valorisé
+119_A;;A;119;Rouge;coccyx3;AR;besoin d'assumer, d'être différent 
+120_A;;A;120;Rouge;coccyx2;AR;besoin de réaliser, besoin d'exprimer son potentiel, stagnation, reporter à plus tard 
+121_A;;A;121;Rouge;coccyx1;AR;besoin d'avoir sa place, besoin de répondre à ses attentes 
+123_A;;A;123;Orange;prostate;AV;besoin de réaliser son potentiel, reporter à plus tard 
+124_A;;A;124;Orange;vessie;AV;besoin d'avoir sa place, avoir des attentes inassouvies, enthousiasme 
+127_A;;A;127;Orange;intestin grêle;AV;besoin de contrôler, besoin de décider, reporter une décision à plus tard 
+131_A;;A;131;Orange;utérus;AV;besoin de réaliser son potentiel, reporter à plus tard 
+135_A;;A;135;Orange;côlon ascendant et descendant;AV;besoin de garder à l’intérieur, de digérer une situation
+137_A;;A;137;Orange;S5;AR;besoin de stabilité, de sécurité 
+138_A;;A;138;Orange;S4;AR;besoin de s'amuser, de se reposer 
+139_A;;A;139;Orange;S3;AR;besoin d'être différent des autres, besoin de se poser 
+140_A;;A;140;Orange;S2;AR;besoin de digérer une situation 
+141_A;;A;141;Orange;S1;AR;besoin d'avoir des projets, envie d'un enfant, besoin de sécurité 
+144_A;;A;144;Jaune;ovaires;AV;besoin de créer, besoin d'exprimer son potentiel
+147_A;;A;147;Jaune;côlon transverse;AV;besoin de digérer une situation, besoin de faire un choix, besoin d’avoir sa place
+151_A;;A;151;Jaune;nombril;AV;besoin de trouver sa place, mère envahissante 
+153_A;;A;153;Jaune;estomac;AV;besoin de trouver sa place, endurer 
+158_A;;A;158;Jaune;L5;AR;besoin d'être valorisé, besoin d'être différent 
+159_A;;A;159;Jaune;L4;AR;besoin de se libérer de son passé, besoin d'avancer dans la vie 
+160_A;;A;160;Jaune;L3;AR;besoin d'être soutenu, besoin d'aide 
+161_A;;A;161;Jaune;L2;AR;besoin de s'amuser, d'être accepté ou respecté 
+162_A;;A;162;Jaune;L1;AR;besoin de répondre à ses besoins, à ses attentes, besoin de pouvoir décider et changer les choses 
+164_A;;A;164;Vert Pomme;rate;AV;besoin de terminer quelque chose, besoin d'exigences
+166_A;;A;166;Vert Pomme;pancréas;;besoin de vivre à fond, parents absents 
+168_A;;A;168;Vert Pomme;vésicule biliaire;AV;besoin de garder les émotions pour soi : soucis, rancune, rancœur, colère 
+170_A;;A;170;Vert Pomme;foie;AV;besoin de se positionner, jugement de soi et des autres, colère contenue
+173_A;;A;173;Vert Pomme;reins;AR;besoin d'être soutenu, besoin d'aide 
+175_A;;A;175;Vert Pomme;surrénales;AR;besoin d’émotions fortes
+176_A;;A;176;Vert Pomme;D12;AR;besoin d'avoir son espace vital, sa liberté de choix 
+178_A;;A;178;Vert Pomme;D11;AR;besoin de soutien, de compréhension 
+180_A;;A;180;Vert Pomme;D10;AR;besoin d'avoir sa place, de prendre une décision 
+181_A;;A;181;Vert Pomme;D9;AR;besoin de positionnement, d'être à la hauteur, d'une direction à prendre
+190_A;;A;190;Vert;poitrine;AV;besoin de se sentir vivant, de s'engager, de prendre sa place sociale 
+210_A;;A;210;Vert;diaphragme;AV;besoin de garder son énergie pour quelque chose, de contenir ses émotions 
+220_A;;A;220;Vert;aorte descendante;AV;besoin de bouger, être plein d'énergie 
+231_A;;A;231;Vert;D8;AR;besoin de régler les problèmes 
+234_A;;A;234;Vert;D7;AR;besoin de contrôler sa vie, de se donner les moyens 
+237_A;;A;237;Vert;D6;AR;besoin de passer à l'action, affirmation de soi 
+246_A;;A;246;Vert;nœud sinusal;AV;besoin de se mettre la pression 
+248_A;;A;248;Vert;nœud atrioventriculaire;AV;besoin d'en faire trop, de se mettre la pression, être plein d'obligations 
+253_A;;A;253;Vert;péricarde;AV;besoin de se sentir en sécurité émotionnelle, besoin de relâcher
+260_A;;A;260;Turquoise;poumons;AV;besoin de se sentir vivant, besoin d'être libre, d'espace 
+276_A;;A;276;Turquoise;thymus;AV;besoin de se protéger de l'environnement 
+283_A;;A;283;Turquoise;D5;AR;contrôle émotionnel, contrôle sur la situation 
+284_A;;A;284;Turquoise;D4;AR;besoins non comblés, besoin de retenir ses émotions 
+285_A;;A;285;Turquoise;D3;AR;besoin de fixer une limite, de dire non 
+286_A;;A;286;Turquoise;D2;AR;besoin de prendre sur soi, d'être responsable 
+287_A;;A;287;Turquoise;D1;AR;besoin de protection, de sécurité, de mettre une limite 
+300_A;;A;300;Turquoise;clavicules;AV;besoin d'aller de l'avant, de prendre ses responsabilités 
+320_A;;A;320;Turquoise;œsophage;AV;besoin d'intégrer les expériences, garder ses émotions pour soi, appréhension, angoisse
+340_A;;A;340;Cyan;C7;AR;besoin de temps, d'écouter son corps 
+345_A;;A;345;Cyan;C6;AR;besoin de se sacrifier pour les autres, d'en faire trop pour les autres 
+350_A;;A;350;Cyan;thyroïde;AV;besoin d'exprimer ce qui est important, reporter à plus tard, besoin de temps, délai passé 
+380_A;;A;380;Cyan;gorge;AV;besoin d'acceptation du vécu, de passer à la suite 
+385_A;;A;385;Cyan;"trachée; larynx";AV;besoin de liberté, d'autonomie 
+400_A;;A;400;Cyan;C5;AR;besoin de s'écouter, de décider, de trouver une solution 
+405_A;;A;405;Cyan;ganglions;AV;besoin de se sentir protégé, en sécurité 
+420_A;;A;420;Bleu;menton;AV;besoin de commander, avoir une forte volonté 
+440_A;;A;440;Bleu;dents;AV;besoin de prendre sa place, besoin de maintenir sa décision ou sa position 
+450_A;;A;450;Bleu;"bouche; langue";AV;besoin d'ouverture à l'environnement, aux autres, aux plaisirs de la vie 
+455_A;;A;455;Bleu;C4;AR;besoin d'en faire trop, culpabiliser si l'on en fait pas assez 
+460_A;;A;460;Bleu;machoire;AV;besoin de stabilité, de faire sa place, de tenir le coup 
+470_A;;A;470;Bleu;sinus;AV;besoin d'avoir son espace vital, de se sentir protégé 
+480_A;;A;480;Bleu;nez;AV;besoin de se sentir en sécurité, intuition active 
+490_A;;A;490;Bleu;oreilles;AV;besoin d'être à l'écoute de soi et des autres 
+495_A;;A;495;Bleu;C3;AR;besoin d'être dans sa bulle 
+500_A;;A;500;Bleu;C2;AR;besoin de tenir le coup, sentiment de vivre une injustice 
+510_A;;A;510;Indigo;atlas;AR;besoin d'assumer des charges, besoin d'avoir un but dans la vie
+515_A;;A;515;Indigo;C1;AR;besoin d'assumer des charges, besoin d'avoir un but dans la vie
+520_A;;A;520;Indigo;cervelet;AR;besoin de ressenti intérieur et extérieur accrus
+530_A;;A;530;Indigo;lobe occipital;AR;besoin de prendre du recul, de voir toutes les possibilités, intuition active
+560_A;;A;560;Indigo;épiphyse;AR;besoin de voir ses priorités, de prendre du recul, d'être patient, perceptions actives 
+580_A;;A;580;Indigo;tempes;AV;besoin de changement, de voir des possibles pour la suite 
+590_A;;A;590;Indigo;yeux;AV;besoin de voir les choses en face, voir les possibilités 
+610_A;;A;610;Indigo;sourcils;AV;besoin de se concentrer sur un objectif à atteindre 
+620_A;;A;620;Indigo;front;AV;besoin d'affronter la réalité, de tenir face à l'extérieur ou face aux autres
+630_A;;A;630;Indigo;hypophyse;AV;besoin de passer à l'acte, avoir de la volonté, choisir, clarté du mental 
+640_A;;A;640;Indigo;hypothalamus;AV;forte volonté, être l'autorité, capacité de décision 
+660_A;;A;660;Indigo;lobes temporaux;AV;besoin d'exprimer certaines émotions, ne pas les contrôler 
+690_A;;A;690;Pourpre;lobes pariétaux;AR;besoin de sensations, aimer percevoir par le corps 
+740_A;;A;740;Pourpre;corps calleux;AR;besoin d’être cohérent, besoin de sentir son corps répondre 
+780_A;;A;780;Pourpre;thalamus;AV;besoin de prendre sa vie en main, de spontanéité, d'émotivité accrue 
+810_A;;A;810;Magenta;lobe frontal;AV;besoin de changer de vie, ne pas se limiter, voir plus grand, penser autrement 
+840_A;;A;840;Magenta;fontanelle;AV;besoin de se transformer, de trouver un sens à sa vie, de donner du sens à tout, sens de l'innovation 
+900_A;;A;900;Ecarlate;rose;;besoin de passer à une autre étape, besoin de tout avoir immédiatement, fuite dans le virtuel ou vers d’autres réalités
+995_A;;A;995;Rouge;rose;;besoin de voir et de structurer la suite (plan d’action, méthode, structure), visionnaire, générer des synchronicités
+1055_A;;A;1055;Rouge;rose;;besoin de visualiser la suite et de passer à autre chose, perception de l’astralité (au-delà et collectif)
+1100_A;;A;1100;Orange;cuivre;;besoin d'exprimer son potentiel, sa différence, son individualité 
+1140_A;;A;1140;Orange;cuivre;;besoin d'accepter, de relâcher, de libérer, constater des synchronicités, se laisser inspirer
+1210_A;;A;1210;Orange;cuivre;;besoin de communiquer avec tous les règnes, connection avec la conscience collective
+1260_A;;A;1260;Jaune;bronze;;besoin d'agir (par devoir ou par obligation), forte volonté
+1300_A;;A;1300;Jaune;bronze;;besoin d'être dans son corps, de se sentir dense, sans peurs
+1385_A;;A;1385;Jaune;bronze;;besoin de mettre une limite incontestable, affirmer sa puissance
+1470_A;;A;1470;Jaune;bronze;;besoin de gérer des informations, imaginaire et claire-information active, clarté mentale
+1570_A;;A;1570;Vert pomme;bronze;;besoin d'affirmer son autorité
+1620_A;;A;1620;Vert pomme;bronze;;besoin de laisser faire, de suivre les autres, être influençable, accepter le rapport de force
+1680_A;;A;1680;Vert pomme;bronze;;besoin d'agrandir son cercle d'influence, s'étendre
+1740_A;;A;1740;Vert pomme;bronze;;besoin de décider, besoin d'ordre ou de remise en ordre, clarté mentale
+1820_A;;A;1820;Vert;argent;;besoin d'agir, d'extérioriser
+1900_A;;A;1900;Vert;argent;;besoin d'être efficace et bien organisé, idées claires, flash intuitif, saisir rapidement les concepts, direction claire
+1960_A;;A;1960;Vert;argent;;besoin de déléguer, mais ne pas le faire
+2020_A;;A;2020;Vert;argent;;besoin d'une présence féminine douce, se sentir accompagné
+2100_A;;A;2100;Turquoise;argent;;besoin de se protéger de l'environnement
+2190_A;;A;2190;Turquoise;argent;;besoin de se sentir entouré avec douceur, besoin d'entourer les autres, énergie mariale, compassion, dévotion
+2250_A;;A;2250;Turquoise;argent;;besoin d'être responsable de quelqu'un
+2310_A;;A;2310;Turquoise;argent;;besoin d'avoir une autorité naturelle, ne pas être contesté, intouchable, paroles justes et percutantes
+2410_A;;A;2410;Cyan;Or;;besoin de se mettre la pression pour affirmer son autorité
+2510_A;;A;2510;Cyan;Or;;besoin de défendre une cause, d'agir pour le collectif
+2560_A;;A;2560;Cyan;Or;;besoin d'aller jusqu'au bout
+2655_A;;A;2655;Cyan;Or;;besoin d'être une force tranquille, pensées constructives et concrètes, stabilité, constance
+2850_A;;A;2850;Bleu;Or;;besoin d'être libre de s’exprimer, être plein d'énergie
+2920_A;;A;2920;Bleu;Or;;besoin d'exprimer ses idées
+3000_A;;A;3000;Bleu;Or;;besoin d'agir concrètement, sens amplifiés (surtout ouïe, nez, corps)
+3160_A;;A;3160;Indigo;Cristal;;besoin de connaître, d'apprendre
+3290_A;;A;3290;Indigo;Cristal;;besoin de se connecter au champ quantique, intérêt pour les nombres, les formes, la géométrie sacrée
+3390_A;;A;3390;Indigo;Cristal;;besoin de structurer l'information
+3500_A;;A;3500;Indigo;Cristal;;besoin de détachement, de prendre de la distance
+3680_A;;A;3680;Pourpre;Cristal;;besoin d'intégrer les expériences vécues dans son corps
+3785_A;;A;3785;Pourpre;Cristal;;besoin de densité du corps, capacité à se régénérer, capacité à ne plus générer de pensées
+4000_A;;A;4000;Pourpre;Cristal;;besoin de faire une pause, cesser de reporter à plus tard, faire un « reset » , repousser les limites
+4220_A;;A;4220;Magenta;diamant;;besoin de voir tous les possibles, lucidité
+4500_A;;A;4500;Magenta;diamant;;besoin d'être complètement dans son corps, sensation de puissance, présence en soi
+4800_A;;A;4800;Noir;diamant;;besoin de se sentir en totale sécurité, densité énergétique, protection spirituelle 
+5100_A;;A;5100;Noir;diamant;;besoin de se connecter au champ quantique, d'en ramener des informations utiles, lecture d’information dans tous les plans
+5280_A;;A;5280;Brun;Blanc;;besoin de prendre du recul sur le passé
+5460_A;;A;5460;Brun;Blanc;;besoin prendre du recul pour écouter les besoins, ne pas agir dans l'urgence, diminuer les tensions
+5630_A;;A;5630;Brun;Blanc;;besoin d'être plein d'énergie pour la suite
+5890_A;;A;5890;Brun;Blanc;;besoin d'être en accord avec ce que l'on fait, complètement absorbé par ce que l'on fait
+6145_A;;A;6145;Bordeaux;Blanc;;besoin de s'engager, d'utiliser sa force intérieure
+6450_A;;A;6450;Bordeaux;Blanc;;besoin de percevoir les perturbations physiques et subtiles, sens de l'orientation, sensible aux ondes de forme
+6750_A;;A;6750;Bordeaux;Blanc;;besoin de se positionner
+7050_A;;A;7050;Bordeaux;Blanc;;besoin de bouger, de passer à l'action
+7350_A;;A;7350;Ecarlate;Blanc;;besoin d'agir de manière indépendante
+7650_A;;A;7650;Ecarlate;Blanc;;besoin de se sentir en sécurité, l'attention se porte où il y a un son ou un bruit, être aux aguets
+8250_A;;A;8250;Rouge;Blanc;;besoin de sortir des limitations, de faire le fou, le bouffon
+8530_A;;A;8530;Rouge;Blanc;;besoin d'assumer pour se sentir vivant
+8850_A;;A;8850;Rouge;Blanc;;besoin du temps et de l'espace pour soi, pour créer
+9150_A;;A;9150;Orange;Blanc;;besoin de ressentir les besoins de son corps
+9450_A;;A;9450;Orange;Blanc;;besoin d'être en conflit avec les autres
+9750_A;;A;9750;Orange;Blanc;;besoin de stabilité psychologique et spirituelle
+10050_A;;A;10050;Orange;Blanc;;besoin de décider, quitte à encaisser et à subir
+10350_A;;A;10350;Jaune;Blanc;;besoin d'avoir sa place sur Terre, d'être utile
+10650_A;;A;10650;Jaune;Blanc;;besoin d'endurer pour avoir sa place
+10950_A;;A;10950;Jaune;Blanc;;besoin d'être le centre de l'univers, de créer pour montrer son individualité
+11250_A;;A;11250;Jaune;Blanc;;besoin de répondre à ses attentes, de combler ses besoins
+11550_A;;A;11550;Vert Pomme;Blanc;;besoin d'être dur avec soi, dureté de l'existence
+11850_A;;A;11850;Vert Pomme;Blanc;;besoin d'être soutenu par l'univers, besoin d'une remise en ordre intérieure
+1_D;;D;1;Noir;extrémité du pied;AV;incapacité d’agir, manque de courage
+2_D;;D;2;Noir;phalange distale;AV;se sentir menacé, chercher à se protéger, se mettre en retrait, éviter la confrontation
+3_D;;D;3;Noir;phalange moyenne;AR;vulnérabilité, absence de protection, manque de densité énergétique
+4_D;;D;4;Noir;phalange proximale;AR;peur de la mort, peur du manque de nourriture
+8_D;;D;8;Noir;voûte plantaire;AV;mal-être, souffrance, sensation de subir, se résigner, ne pas voir de suite agréable
+14_D;;D;14;Noir;calcanéum;AV;incertitudes, insécurité, être vulnérable
+15_D;;D;15;Noir;talons;AR;self-control pour ne pas se sentir vulnérable ou par insécurité
+25_D;;D;25;Noir;cous-de-pied;AV;solitude imposée ou mal vécue, empêchement d’avancer
+54_D;;D;54;Noir;malléoles;AR;manque de soutien, besoin d'aide, ne rien décider
+60_D;;D;60;Brun;tendons d'Achille;AR;vulnérabilité, rupture avec les parents ou avec les enfants
+64_D;;D;64;Brun;tibias/péronés;AV;sentiment de subir, se sentir dévalorisé ou impuissant
+76_D;;D;76;Brun;mollets/veines;AR;manque de retour dans ses actions, vide dans la vie, absence de liens familiaux
+93_D;;D;93;Brun;ligaments croisés;AV;refus de l'autorité parentale
+98_D;;D;98;Mauve;arrière des genoux;AR;refus de l'autorité parentale
+100_D;;D;100;Mauve;rotules;AV;être sur les rotules, être fatigué
+105_D;;D;105;Mauve;cuisses;AV;vouloir moins de charges, moins de responsabilités
+112_D;;D;112;Ecarlate;testicules;AV;potentiel réprimé, projets en panne, introversion
+114_D;;D;114;Ecarlate;périnée;AR;ne pas se faire plaisir, honte de s'offrir à soi-même, juger le plaisir personnel
+116_D;;D;116;Rouge;anus/rectum;AR;peur de vivre de l'insécurité, peur de manquer, a vécu des manques
+118_D;;D;118;Rouge;côlon sigmoïde;AR;manques, dévalorisation, indifférence, maltraitance
+119_D;;D;119;Rouge;coccyx3;AR;manque de contact avec la famille, insatisfaction, vide dans la vie, peur de souffrir
+120_D;;D;120;Rouge;coccyx2;AR;peur d'être exclu, d'être seul pour assumer, soucis
+121_D;;D;121;Rouge;coccyx1;AR;peur d'être abandonné, peur d'être soi-même
+123_D;;D;123;Orange;prostate;AV;devoir obéir, peur d'être seul, soucis divers, maltraitance
+124_D;;D;124;Orange;vessie;AV;ne pas être à sa place, être incompris, vivre de l'insécurité
+127_D;;D;127;Orange;intestin grêle;AV;manque de confiance en soi , ne pas accepter la situation
+131_D;;D;131;Orange;utérus;AV;devoir obéir, peur d'être seul, soucis divers, maltraitance
+135_D;;D;135;Orange;côlon ascendant et descendant;AV;garder les problèmes pour soi, tout  garder à l'intérieur
+137_D;;D;137;Orange;S5;AR;manque d'enthousiasme et de temps pour faire ce que l'on aime, fatigue, manque de stabilité et de sécurité
+138_D;;D;138;Orange;S4;AR;manque de temps pour soi, pour s'amuser, fatigue, encaisser et garder pour soi, rester quand même 
+139_D;;D;139;Orange;S3;AR;être incompris, ne pas être à sa place, vivre de l'insécurité
+140_D;;D;140;Orange;S2;AR;pas assez d'argent, pas assez d'énergie, ne pas trouver d'issue, manque de décision claire
+141_D;;D;141;Orange;S1;AR;manque de base solide, vivre de l'insécurité,  être dépendant des autres, manque de projets
+144_D;;D;144;Jaune;ovaires;AV;potentiel réprimé, projets en panne, introversion
+147_D;;D;147;Jaune;côlon transverse;AV;difficulté à choisir, manque de confiance en soi, pas eu le choix
+151_D;;D;151;Jaune;nombril;AV;problématique de place, difficulté à choisir
+153_D;;D;153;Jaune;estomac;AV;s'interdire les plaisirs, culpabilité, intransigeance
+158_D;;D;158;Jaune;L5;AR;ne pas faire un choix, indifférence, frustrations, stagnation, manque d'enthousiasme
+159_D;;D;159;Jaune;L4;AR;beaucoup de manques, se sentir exclu ou rejeté, stagnation
+160_D;;D;160;Jaune;L3;AR;peur de ne pas y arriver, peur de ne pas être soutenu ou respecté
+161_D;;D;161;Jaune;L2;AR;manquer de confiance en soi, manque de valorisation
+162_D;;D;162;Jaune;L1;AR;manque de tendresse, peur du mauvais choix
+164_D;;D;164;Vert Pomme;rate;AV;mauvaise estime de soi, peur de l'échec ou peur du succès, peur de passer à côté de quelque chose
+166_D;;D;166;Vert Pomme;pancréas;;manque de tendresse, dureté, résistance, père absent
+168_D;;D;168;Vert Pomme;vésicule biliaire;AV;manque de courage, ne pas faire face, inquiétude
+170_D;;D;170;Vert Pomme;foie;AV;s'interdir d'être en colère, ne pas mettre de limite
+173_D;;D;173;Vert Pomme;reins;AR;peur de ne pas y arriver, peur de ne pas être soutenu ou respecté
+175_D;;D;175;Vert Pomme;surrénales;AR;se sentir victime, stressé 
+176_D;;D;176;Vert Pomme;D12;AR;manque de confiance en soi, de reconnaissance, peur d'être jugé ou trahi
+178_D;;D;178;Vert Pomme;D11;AR;se mettre dans sa bulle, peur de l'échec ou peur du succès, peur de passer à côté de quelque chose
+180_D;;D;180;Vert Pomme;D10;AR;manque de soutien, de décision, d'énergie, peur de prendre sa place, de passer à l'action, de décider
+181_D;;D;181;Vert Pomme;D9;AR;questionnement pour la suite, réprimer sa colère, peur du mauvais choix, du stress
+190_D;;D;190;Vert;poitrine;AV;prendre de la distance, envie de déléguer
+210_D;;D;210;Vert;diaphragme;AV;trop de tensions internes, favoriser la détente
+220_D;;D;220;Vert;aorte descendante;AV;trop de pression, favoriser la détente
+231_D;;D;231;Vert;D8;AR;manque de confiance, sentiment de ne pas être à la hauteur
+234_D;;D;234;Vert;D7;AR;se laisser dicter sa vie, manque de courage
+237_D;;D;237;Vert;D6;AR;attente, passivité, ne pas se sentir à la hauteur
+246_D;;D;246;Vert;nœud sinusal;AV;manque de flexibilité, de souplesse, baisser le rythme, sentiment d'inutilité
+248_D;;D;248;Vert;nœud atrioventriculaire;AV;moins se mettre la pression
+253_D;;D;253;Vert;péricarde;AV;se couper des autres, de ses émotions
+260_D;;D;260;Turquoise;poumons;AV;être dans sa bulle, se faire bouffer, introversion
+276_D;;D;276;Turquoise;thymus;AV;empathie, ne pas fixer de limite, ne pas dire non
+283_D;;D;283;Turquoise;D5;AR;envie de décompresser, moins s'engager
+284_D;;D;284;Turquoise;D4;AR;manque d'amour, besoins non comblés
+285_D;;D;285;Turquoise;D3;AR;empathie, submergé par ses émotions, manque de joie
+286_D;;D;286;Turquoise;D2;AR;manque de soutien
+287_D;;D;287;Turquoise;D1;AR;se libérer d'un poids, se faire bouffer
+300_D;;D;300;Turquoise;clavicules;AV;révolte, refuser l'autorité, limiter les obligations
+320_D;;D;320;Turquoise;œsophage;AV;faire pour les autres au lieu de faire pour soi, éviter les confrontations, peur de l'autorité
+340_D;;D;340;Cyan;C7;AR;fermeture, manque d'ambition, être dans sa carapace
+345_D;;D;345;Cyan;C6;AR;ne pas écouter ses besoins
+350_D;;D;350;Cyan;thyroïde;AV;non-dits, renoncer, abandonner
+380_D;;D;380;Cyan;gorge;AV;ne pas accepter le vécu, silence, non-dits
+385_D;;D;385;Cyan;"trachée; larynx";AV;silence, non-dits, se sentir étouffé, envahi, pas libre, plein d'obligations
+400_D;;D;400;Cyan;C5;AR;manque de décision, d'écoute de soi, pas de solution
+405_D;;D;405;Cyan;ganglions;AV;sensibilité accrue à tout, vulnérabilité
+420_D;;D;420;Bleu;menton;AV;manque de volonté, cesser de résister, apathie, suivre
+440_D;;D;440;Bleu;dents;AV;lâcher le morceau, accepter un compromis
+450_D;;D;450;Bleu;"bouche; langue";AV;garder le silence, ascétisme, renoncement aux plaisirs
+455_D;;D;455;Bleu;C4;AR;peur de ne pas en faire assez, ne pas voir ses priorités, 
+460_D;;D;460;Bleu;machoire;AV;se faire bouffer, se faire prendre sa place, abandonner, renoncer
+470_D;;D;470;Bleu;sinus;AV;forte empathie, être dans sa bulle, perte des repères
+480_D;;D;480;Bleu;nez;AV;être influencé, ne pas sentir un danger
+490_D;;D;490;Bleu;oreilles;AV;ne pas s'écouter, ne pas écouter les autres, besoin de silence
+495_D;;D;495;Bleu;C3;AR;ne pas s'écouter ou être écouté, ne pas affronter la réalité
+500_D;;D;500;Bleu;C2;AR;encaisser, se sentir perdu ou dispersé
+510_D;;D;510;Indigo;atlas;AR;se mettre moins de charges, ne plus se fixer d'objectifs contraignants, vide existentiel
+515_D;;D;515;Indigo;C1;AR;se mettre moins de charges, ne plus se fixer d'objectifs contraignants, vide existentiel
+520_D;;D;520;Indigo;cervelet;AR;ne pas sentir son corps, maladresse
+530_D;;D;530;Indigo;lobe occipital;AR;contemplation, vision intérieure, ne pas aimer le changement
+560_D;;D;560;Indigo;épiphyse;AR;contemplation, vision intérieure, ne pas aimer le changement
+580_D;;D;580;Indigo;tempes;AV;envie de décompresser, refus du changement
+590_D;;D;590;Indigo;yeux;AV;se couper du monde, ne pas voir ce qui arrive, ne pas vouloir voir certaines choses
+610_D;;D;610;Indigo;sourcils;AV;ne plus se focaliser sur ses problèmes
+620_D;;D;620;Indigo;front;AV;peur de la réalité, renoncer à affronter
+630_D;;D;630;Indigo;hypophyse;AV;ne pas choisir, passivité, générer des peurs, peur de l'inconnu
+640_D;;D;640;Indigo;hypothalamus;AV;laisser faire, indécision, suivre les autres
+660_D;;D;660;Indigo;lobes temporaux;AV;contrôler ou réprimer les émotions
+690_D;;D;690;Pourpre;lobes pariétaux;AR;peur de perdre le contrôle du corps
+740_D;;D;740;Pourpre;corps calleux;AR;patience, détente
+780_D;;D;780;Pourpre;thalamus;AV;ne pas vouloir écouter son corps, laisser faire
+810_D;;D;810;Magenta;lobe frontal;AV;croyances limitantes, peurs, ne pas aimer l’inconnu
+840_D;;D;840;Magenta;fontanelle;AV;détachement, pas d'attentes
+900_D;;D;900;Ecarlate;rose;;attachement à la matière et au corps, aimer concrétiser dans la matière, ne pas vouloir passer à la suite 
+995_D;;D;995;Rouge;rose;;ne voir que le beau côté des choses ou que certaines réalités, laisser faire, se laisser porter
+1055_D;;D;1055;Rouge;rose;;se contenter de peu, faire le bilan objectif de sa vie, vivre le détachement
+1100_D;;D;1100;Orange;cuivre;;se faire bouffer son espace, être éponge, être sous l'infuence du collectif, réprimer son potentiel
+1140_D;;D;1140;Orange;cuivre;;relâcher, se détendre, laisser agir, se laisser porter, être dans son corps
+1210_D;;D;1210;Orange;cuivre;;retour à son intériorité, se mettre dans un cocon, influencé par la conscience collective
+1260_D;;D;1260;Jaune;bronze;;absence de participation, désintérêt pour certaines choses
+1300_D;;D;1300;Jaune;bronze;;rester statique, ne pas agir, manque de densité énergétique, manque de positionnement, peur
+1385_D;;D;1385;Jaune;bronze;;diminution de la réflexion, calme dans la tête, ne plus agir momentanément, être influencé
+1470_D;;D;1470;Jaune;bronze;;diminution de la réflexion, calme dans la tête, ne plus agir momentanément, ne plus se disperser
+1570_D;;D;1570;Vert pomme;bronze;;subir une autorité injuste ou manipulatrice
+1620_D;;D;1620;Vert pomme;bronze;;positionnement, occuper son corps, ne pas laisser faire
+1680_D;;D;1680;Vert pomme;bronze;;perte de confiance, déception, ne plus se sentir à la hauteur
+1740_D;;D;1740;Vert pomme;bronze;;offrir de la place à d’autres énergies plus douces, diminuer l’envie de bouger, se calmer
+1820_D;;D;1820;Vert;argent;;peur de déranger, rester dans son coin
+1900_D;;D;1900;Vert;argent;;se laisser guider, moins décider, sabotage mental
+1960_D;;D;1960;Vert;argent;;être dans la lune, dans son monde, désengagement
+2020_D;;D;2020;Vert;argent;;être dans un cocon rassurant et bienveillant, maternel
+2100_D;;D;2100;Turquoise;argent;;subir l'environnement, empathie, hyper-sensibilité
+2190_D;;D;2190;Turquoise;argent;;vivre l'apaisement et la contemplation
+2250_D;;D;2250;Turquoise;argent;;ne s'occuper que de soi, ne pas vouloir de responsabilités
+2310_D;;D;2310;Turquoise;argent;;se laisser vivre, se laisser guider
+2410_D;;D;2410;Cyan;Or;;introversion, être influencé par les autres, suivre
+2510_D;;D;2510;Cyan;Or;;introversion, se retirer du monde, ermite
+2560_D;;D;2560;Cyan;Or;;ne jamais aller jusqu'au bout, abandonner en cours de route, se laisser influencer
+2655_D;;D;2655;Cyan;Or;;être dans sa bulle, dans son corps, en sécurité
+2850_D;;D;2850;Bleu;Or;;introversion, s'interdire de rayonner, vide intérieur
+2920_D;;D;2920;Bleu;Or;;ne pas écouter les autres, manque de curiosité
+3000_D;;D;3000;Bleu;Or;;être en retrait, en observation et à l'écoute
+3160_D;;D;3160;Indigo;Cristal;;manque de curiosité
+3290_D;;D;3290;Indigo;Cristal;;attaché à la matière, dans son corps, gérer les informations de la matière et du corps
+3390_D;;D;3390;Indigo;Cristal;;manque de structure mentale, éclectisme
+3500_D;;D;3500;Indigo;Cristal;;être calme pour se connecter à son intériorité
+3680_D;;D;3680;Pourpre;Cristal;;refus d'intégrer, tout reste dans la tête
+3785_D;;D;3785;Pourpre;Cristal;;capacité à déconnecter le mental du corps, imaginaire générant de la régénération
+4000_D;;D;4000;Pourpre;Cristal;;remplir le vide, peur du silence, besoin d'être hyperactif
+4220_D;;D;4220;Magenta;diamant;;se concentrer sur une seule chose à la fois, pensée linéaire, raisonnement 
+4500_D;;D;4500;Magenta;diamant;;manque de confiance dans le corps, ne pas trop sentir son corps, ne pas être dans la réalité, illusion
+4800_D;;D;4800;Noir;diamant;;manque de protection sur le plan spirituel, subir des attaques (entités, magie noire)
+5100_D;;D;5100;Noir;diamant;;retourner à son intériorité pour observer ce qui ne va pas
+5280_D;;D;5280;Brun;Blanc;;être dépendant des autres ou de son passé
+5460_D;;D;5460;Brun;Blanc;;constater les manques, vivre des frustations et des tensions
+5630_D;;D;5630;Brun;Blanc;;ne plus avoir d'énergie, stagner
+5890_D;;D;5890;Brun;Blanc;;toute action manifeste l'intériorité, sans intervention du mental (silence intérieur)
+6145_D;;D;6145;Bordeaux;Blanc;;capacité à observer, prendre du recul et écouter les différents besoins
+6450_D;;D;6450;Bordeaux;Blanc;;percevoir et constater les perturbations physiques et subtiles
+6750_D;;D;6750;Bordeaux;Blanc;;se laisser aller, se laisser porter
+7050_D;;D;7050;Bordeaux;Blanc;;envie de rien, apathie, démotivation
+7350_D;;D;7350;Ecarlate;Blanc;;avoir moins de responsabilités, reporter à plus tard
+7650_D;;D;7650;Ecarlate;Blanc;;n'écouter que ce que l'on veut entendre, laisser faire
+8250_D;;D;8250;Rouge;Blanc;;se sentir enfermé, s'enfermer soi-même, auto-persécution, victimisation
+8530_D;;D;8530;Rouge;Blanc;;se retirer de la vie active
+8850_D;;D;8850;Rouge;Blanc;;manque d'espace personnel, manque d'espace pour vivre
+9150_D;;D;9150;Orange;Blanc;;reporter ou réprimer ses émotions
+9450_D;;D;9450;Orange;Blanc;;subir les autres, être maltraité
+9750_D;;D;9750;Orange;Blanc;;ne plus se battre pour exister, vivre de l'instabilité
+10050_D;;D;10050;Orange;Blanc;;subir les autres, encaisser
+10350_D;;D;10350;Jaune;Blanc;;envie d'être ailleurs pour se sentir utile et à sa place, sentiment d'être inutile ou pas au bon endroit
+10650_D;;D;10650;Jaune;Blanc;;peur de se mettre des charges, se sentir vide à l'intérieur
+10950_D;;D;10950;Jaune;Blanc;;se laisser vivre, ne rien imposer aux autres
+11250_D;;D;11250;Jaune;Blanc;;n'agir que si l'on est sûr de son choix
+11550_D;;D;11550;Vert Pomme;Blanc;;ne pas pouvoir s'aimer soi-même
+11850_D;;D;11850;Vert Pomme;Blanc;;se sentir dévalorisé, pas soutenu par l'univers
+1_L;;L;1;Noir;extrémité du pied;AV;conscient de ses limites, passer à l'action quand c'est nécessaire
+2_L;;L;2;Noir;phalange distale;AV;puissance implacable, certitude d’y parvenir, absence de doutes
+3_L;;L;3;Noir;phalange moyenne;AR;être posé dans son corps, bonne protection énergétique
+4_L;;L;4;Noir;phalange proximale;AR;sérénité, plénitude, capacité de s’abandonner
+8_L;;L;8;Noir;voûte plantaire;AV;être dans le concret de la matière, calme et posé
+14_L;;L;14;Noir;calcanéum;AV;réaliser ses rêves, force et pouvoir intérieur 
+15_L;;L;15;Noir;talons;AR;état d’être sans retenue ou limitations, simplicité naturelle
+25_L;;L;25;Noir;cous-de-pied;AV;sentiment d’appartenance, être bien dans sa famille
+54_L;;L;54;Noir;malléoles;AR;se sentir soutenu, avoir une direction dans la vie 
+60_L;;L;60;Brun;tendons d'Achille;AR;capacité à réaliser ses rêves, force intérieure, attachement aux valeurs humaines 
+64_L;;L;64;Brun;tibias/péronés;AV;réalisation de soi, indépendance, grand potentiel de réalisation
+76_L;;L;76;Brun;mollets/veines;AR;équilibre entre donner et recevoir, équilibre dans les relations familiales
+93_L;;L;93;Brun;ligaments croisés;AV;adaptation, flexibilité, renoncement s'il le faut 
+98_L;;L;98;Mauve;arrière des genoux;AR;laisser passer l'énergie, en paix avec ses parents, fluidité 
+100_L;;L;100;Mauve;rotules;AV;humilité, être en paix avec l'autorité, avec ses parents 
+105_L;;L;105;Mauve;cuisses;AV;force tranquille, puissance 
+112_L;;L;112;Ecarlate;testicules;AV;créativité équilibrée 
+114_L;;L;114;Ecarlate;périnée;AR;capacité à relâcher, aimer son corps, s'offrir du plaisir 
+116_L;;L;116;Rouge;anus/rectum;AR;équilibre entre garder et rejeter, équilibre entre perdre et donner 
+118_L;;L;118;Rouge;côlon sigmoïde;AR;enfance heureuse, valorisation
+119_L;;L;119;Rouge;coccyx3;AR;assumer sa différence, son incarnation 
+120_L;;L;120;Rouge;coccyx2;AR;vivre l'instant présent  
+121_L;;L;121;Rouge;coccyx1;AR;se sentir aimé, savoir répondre à ses attentes
+123_L;;L;123;Orange;prostate;AV;savoir exprimer son potentiel
+124_L;;L;124;Orange;vessie;AV;à sa place, posé, sans peurs, sachant exprimer ses émotions
+127_L;;L;127;Orange;intestin grêle;AV;capacité à faire des choix justes, ne plus tout contrôler, faire confiance à son instinct
+131_L;;L;131;Orange;utérus;AV;potentiel exprimé 
+135_L;;L;135;Orange;côlon ascendant et descendant;AV;acceptation du vécu, capacité à (se) pardonner, résilience, indépendance affective
+137_L;;L;137;Orange;S5;AR;stabilité, sécurité, savoir prendre du temps pour soi 
+138_L;;L;138;Orange;S4;AR;savoir prendre du temps pour soi, ne pas entretenir de liens toxiques, savoir prendre de la distance
+139_L;;L;139;Orange;S3;AR;assumer sa différence, stable, à sa juste place
+140_L;;L;140;Orange;S2;AR;résilience, décision claire, abondance 
+141_L;;L;141;Orange;S1;AR;se laisser porter par la vie
+144_L;;L;144;Jaune;ovaires;AV;créativité équilibrée 
+147_L;;L;147;Jaune;côlon transverse;AV;affirmation de soi, positionnement adapté
+151_L;;L;151;Jaune;nombril;AV;égo équilibré, être à sa juste place 
+153_L;;L;153;Jaune;estomac;AV;satisfaction, acceptation du désir, ego équilibré 
+158_L;;L;158;Jaune;L5;AR;être valorisé, plein de gratitude envers les autres et la vie 
+159_L;;L;159;Jaune;L4;AR;se sentir soutenu, respecté, en sécurité 
+160_L;;L;160;Jaune;L3;AR;savoir apaiser les conflits, être conciliant 
+161_L;;L;161;Jaune;L2;AR;enfant intérieur calme et rassuré
+162_L;;L;162;Jaune;L1;AR;douceur envers soi, résilience émotionelle 
+164_L;;L;164;Vert Pomme;rate;AV;être à la hauteur, être sans attentes, apprécier le succès 
+166_L;;L;166;Vert Pomme;pancréas;;douceur envers soi, joie exprimée, maîtrise de soi
+168_L;;L;168;Vert Pomme;vésicule biliaire;AV;capacité de résilience émotionelle
+170_L;;L;170;Vert Pomme;foie;AV;calme intérieur, positionnement adapté, savoir dire non
+173_L;;L;173;Vert Pomme;reins;AR;savoir apaiser les conflits, être conciliant 
+175_L;;L;175;Vert Pomme;surrénales;AR;bonne gestion du stress
+176_L;;L;176;Vert Pomme;D12;AR;ne pas retenir ses émotions 
+178_L;;L;178;Vert Pomme;D11;AR;être valorisé, force intérieure 
+180_L;;L;180;Vert Pomme;D10;AR;être valorisé, force intérieure 
+181_L;;L;181;Vert Pomme;D9;AR;calme intérieur, tempérer sa colère 
+190_L;;L;190;Vert;poitrine;AV;être à sa juste place, liberté d'engagement, résilience émotionnelle 
+210_L;;L;210;Vert;diaphragme;AV;laisser passer les émotions, sentiment de paix intérieure 
+220_L;;L;220;Vert;aorte descendante;AV;calme, tranquillité, détente 
+231_L;;L;231;Vert;D8;AR;diminuer les tensions, vivre l'harmonie, le bien-être 
+234_L;;L;234;Vert;D7;AR;zen, égo équilibré, personnalité équilibrée et calme 
+237_L;;L;237;Vert;D6;AR;zen, égo équilibré, personnalité équilibrée et calme 
+246_L;;L;246;Vert;nœud sinusal;AV;adaptation aux événements, calme, tranquillité 
+248_L;;L;248;Vert;nœud atrioventriculaire;AV;être de bonne humeur 
+253_L;;L;253;Vert;péricarde;AV;intelligence du cœur, sécurité émotionnelle
+260_L;;L;260;Turquoise;poumons;AV;calmer les tensions et les conflits 
+276_L;;L;276;Turquoise;thymus;AV;sentiment de paix intérieure, ne pas être influencé, tolérance
+283_L;;L;283;Turquoise;D5;AR;ne pas se mettre la pression 
+284_L;;L;284;Turquoise;D4;AR;paix intérieure 
+285_L;;L;285;Turquoise;D3;AR;équilibre entre soi et les autres 
+286_L;;L;286;Turquoise;D2;AR;se laisser vivre 
+287_L;;L;287;Turquoise;D1;AR;liberté, autonomie, à l'abri du besoin 
+300_L;;L;300;Turquoise;clavicules;AV;pas de tensions 
+320_L;;L;320;Turquoise;œsophage;AV;accepter d'être un pionnier, grandir par les expériences, épanouissement, laisser passerles émotions, adaptation
+340_L;;L;340;Cyan;C7;AR;ouverture, avoir du temps pour soi 
+345_L;;L;345;Cyan;C6;AR;équilibre entre donner et recevoir 
+350_L;;L;350;Cyan;thyroïde;AV;exprimer ses sentiments, ce qui est important, prendre le temps 
+380_L;;L;380;Cyan;gorge;AV;laisser passer les émotions, résilience, équilibre des polarités 
+385_L;;L;385;Cyan;"trachée; larynx";AV;écouter son cœur, résilience, s'ouvrir aux autres 
+400_L;;L;400;Cyan;C5;AR;lâcher-prise, écoute intérieure 
+405_L;;L;405;Cyan;ganglions;AV;se sentir en sécurité, en confiance, protégé 
+420_L;;L;420;Bleu;menton;AV;autorité naturelle, inspirer confiance 
+440_L;;L;440;Bleu;dents;AV;rester neutre, être à sa place 
+450_L;;L;450;Bleu;"bouche; langue";AV;apprécier la vie
+455_L;;L;455;Bleu;C4;AR;voir ses priorité, avoir du recul
+460_L;;L;460;Bleu;machoire;AV;relâcher, ne plus résister, se détendre
+470_L;;L;470;Bleu;sinus;AV;enfant intérieur en sécurité 
+480_L;;L;480;Bleu;nez;AV;confiance naturelle dans la vie, bonne intuition 
+490_L;;L;490;Bleu;oreilles;AV;équilibre dans l'écoute de soi et des autres, confident 
+495_L;;L;495;Bleu;C3;AR;état de silence intérieur 
+500_L;;L;500;Bleu;C2;AR;chemin clair pour la suite, lâcher-prise 
+510_L;;L;510;Indigo;atlas;AR;voir les choses sous un angle différent, accepter d'autres points de vue
+515_L;;L;515;Indigo;C1;AR;voir les choses sous un angle différent, accepter d'autres points de vue
+520_L;;L;520;Indigo;cervelet;AR;détente dans tout le corps, écouter son corps
+530_L;;L;530;Indigo;lobe occipital;AR;avoir du recul, adaptation, vivre l'instant présent, intuition
+560_L;;L;560;Indigo;épiphyse;AR;voir ses priorités, vivre l'instant présent, adaptation, patience, perceptions 
+580_L;;L;580;Indigo;tempes;AV;ne pas se mettre la pression, s'adapter 
+590_L;;L;590;Indigo;yeux;AV;paix intérieure, regard intérieur
+610_L;;L;610;Indigo;sourcils;AV;paix intérieure, ne pas générer d'attentes 
+620_L;;L;620;Indigo;front;AV;se laisser vivre, lâcher-prise 
+630_L;;L;630;Indigo;hypophyse;AV;calme mental, lâcher-prise 
+640_L;;L;640;Indigo;hypothalamus;AV;sagesse, gestion des conflits 
+660_L;;L;660;Indigo;lobes temporaux;AV;calme émotionnel 
+690_L;;L;690;Pourpre;lobes pariétaux;AR;détente dans tout le corps, libération des tensions 
+740_L;;L;740;Pourpre;corps calleux;AR;détente dans tout le corps, vivre l'instant présent 
+780_L;;L;780;Pourpre;thalamus;AV;humeur constante, bonne humeur, écouter son corps 
+810_L;;L;810;Magenta;lobe frontal;AV;lâcher le contrôle mental, s'adapter 
+840_L;;L;840;Magenta;fontanelle;AV;être dans l'instant présent, sagesse, autorité naturelle 
+900_L;;L;900;Ecarlate;rose;;se contenter de peu, être dans l'instant présent, posé, en paix avec son incarnation et les moyens à dispositions
+995_L;;L;995;Rouge;rose;;bonne concentration et gestion des données, action concrète pour répondre aux besoins utiles, vision objective
+1055_L;;L;1055;Rouge;rose;;non-jugements de soi et des autres, regard objectif sur soi
+1100_L;;L;1100;Orange;cuivre;;sortir de la pression du collectif, exprimer son potentiel, sa différence, son individualité, avoir son espace vital
+1140_L;;L;1140;Orange;cuivre;;acceptation et relâchement, se sentir inspiré, vivre des synchronicités, fluidité énergétique
+1210_L;;L;1210;Orange;cuivre;;collaboration facile avec les autres, communication avec les autres règnes, paix intérieure, confiance
+1260_L;;L;1260;Jaune;bronze;;bonne collaboration, mise en commun des forces à disposition, bonne humeur
+1300_L;;L;1300;Jaune;bronze;;positionnement ferme, mais juste et adapté en toute circonstance
+1385_L;;L;1385;Jaune;bronze;;être centré, action sur les autres par le simple fait de rester centré, ne pas être influencé ou destabilisé
+1470_L;;L;1470;Jaune;bronze;;alignement mental, mental efficace, perceptions extrasensorielles
+1570_L;;L;1570;Vert pomme;bronze;;sortir des jeux de pouvoir, capacité à saisir les bonnes opportunités, pragmatisme
+1620_L;;L;1620;Vert pomme;bronze;;respectueux envers les autres et le monde, harmonie des rapports de force, capacité à jouer toutes sortes de rôles
+1680_L;;L;1680;Vert pomme;bronze;;respect de soi et des autres, connaître ses limites ou les leurs
+1740_L;;L;1740;Vert pomme;bronze;;être calme, inspirer confiance, être ordré
+1820_L;;L;1820;Vert;argent;;calme intérieur, retour à son intériorité
+1900_L;;L;1900;Vert;argent;;liberté d’engagement, sincérité, mental calme
+1960_L;;L;1960;Vert;argent;;savoir respecter ses limites, déléguer
+2020_L;;L;2020;Vert;argent;;être bienveillant et réconfortant, paisible dans le cœur, féminin sacré, amour maternel
+2100_L;;L;2100;Turquoise;argent;;être attentif et vigilant
+2190_L;;L;2190;Turquoise;argent;;être attentionné et compatissant
+2250_L;;L;2250;Turquoise;argent;;être lié à son environnement, ne pas dépendre des autres
+2310_L;;L;2310;Turquoise;argent;;intelligence du cœur, autorité douce et juste, être son maître intérieur, se sentir libre, rechercher l’équilibre
+2410_L;;L;2410;Cyan;Or;;charisme, être l'exemple, rayonner une autorité naturelle
+2510_L;;L;2510;Cyan;Or;;accepter et suivre sa destinée, ne défendre aucune cause
+2560_L;;L;2560;Cyan;Or;;imperturbable, non influençable
+2655_L;;L;2655;Cyan;Or;;être sage et authentique
+2850_L;;L;2850;Bleu;Or;;rayonner autour de soi, charisme
+2920_L;;L;2920;Bleu;Or;;ouverture au monde, tolérant et conciliant
+3000_L;;L;3000;Bleu;Or;;recevoir ce dont on a besoin, connexion à tout, foi, silence
+3160_L;;L;3160;Indigo;Cristal;;savoir intuitif, accès non conscient à l'information
+3290_L;;L;3290;Indigo;Cristal;;mental connecté au champ quantique, maîtrise de l’information, calme intérieur dû à une excellente gestion
+3390_L;;L;3390;Indigo;Cristal;;capacité à synthétiser l'information
+3500_L;;L;3500;Indigo;Cristal;;connexion au spirituel, connexion à son moi profond, être paisible
+3680_L;;L;3680;Pourpre;Cristal;;acceptation et intégration du vécu, résilience
+3785_L;;L;3785;Pourpre;Cristal;;intelligence du corps, confiance dans le corps, maîtrise de la régénération
+4000_L;;L;4000;Pourpre;Cristal;;capacité à se remettre en question, à remettre les compteurs à zéro, mourir à soi-même et renaître
+4220_L;;L;4220;Magenta;diamant;;sortir des conditionnements, maîtrise des limites, capacité à percevoir la direction adéquate
+4500_L;;L;4500;Magenta;diamant;;confiance totale, certitude dans ce que perçoit le corps, présent dans son corps, être soi-même
+4800_L;;L;4800;Noir;diamant;;perception des autres au-delà des apparences, reliance avec le spirituel, capacité à se rééquilibrer sur tous les plans
+5100_L;;L;5100;Noir;diamant;;capacité à observer, à décoder et transformer les informations dans le corps ou la matière, générer de l’ordre dans la matière ou le corps, télépathie
+5280_L;;L;5280;Brun;Blanc;;autonomie énergétique vis à vis des autres
+5460_L;;L;5460;Brun;Blanc;;capacité à répondre à ses besoins sur n'importe quel plan
+5630_L;;L;5630;Brun;Blanc;;être en syntonie, en phase avec le tout
+5890_L;;L;5890;Brun;Blanc;;capacité à vivre l'unité où tout est là, se sentir relié à tout, amour universel, silence intérieur
+6145_L;;L;6145;Bordeaux;Blanc;;détermination et force intérieure, capacité à répondre à ses besoins sur n’importe quel plan
+6450_L;;L;6450;Bordeaux;Blanc;;capacité à voyager et à se repérer dans les différents plans de conscience,  fluidité énergétique, bonnes perceptions
+6750_L;;L;6750;Bordeaux;Blanc;;n'agir que si c'est utile, disponibilité, non implication émotionnelle
+7050_L;;L;7050;Bordeaux;Blanc;;être prêt, disponible pour des actions utiles
+7350_L;;L;7350;Ecarlate;Blanc;;agir en fonction de ce que l'on est
+7650_L;;L;7650;Ecarlate;Blanc;;ressentir fortement les sons dans son corps, sensible aux harmoniques de la musique, jouer avec les sons
+8250_L;;L;8250;Rouge;Blanc;;auto-dérision et enthousiasme, légèreté de l'être, savoir dédramatiser, rire de tout
+8530_L;;L;8530;Rouge;Blanc;;esprit et mental au service du corps
+8850_L;;L;8850;Rouge;Blanc;;enthousiasme de création, vivre pleinement
+9150_L;;L;9150;Orange;Blanc;;auto-suffisance, spontanéité, suivre l'ordre naturel des choses, être heureux
+9450_L;;L;9450;Orange;Blanc;;capacité à laisser les émotions traverser le corps, fluidité émotionnelle, résilience
+9750_L;;L;9750;Orange;Blanc;;stabilité intérieure, stabilité psychologique et sprirituelle
+10050_L;;L;10050;Orange;Blanc;;non perturbé par les émotions négatives
+10350_L;;L;10350;Jaune;Blanc;;aller de l'avant tout en écoutant son corps, ne forcément répondre aux attentes des autres, posé
+10650_L;;L;10650;Jaune;Blanc;;autorité naturelle émanant du corps, puissance de rayonnement, présence en soi
+10950_L;;L;10950;Jaune;Blanc;;faire ce qui est juste de faire pour soi
+11250_L;;L;11250;Jaune;Blanc;;joie communicative, aimer les choses simples, humilité, s'en remettre à l'univers
+11550_L;;L;11550;Vert Pomme;Blanc;;s'accepter et s'aimer tel que l'on est
+11850_L;;L;11850;Vert Pomme;Blanc;;se sentir valorisé, en retirer une force inépuisable, se régénérer sans intervention du mental
+1_E;;E;1;Noir;extrémité du pied;AV;se forcer à agir, envie de dépasser ses limites
+2_E;;E;2;Noir;phalange distale;AV;absence de pitié, être impitoyable, agir pour se défendre ou survivre
+3_E;;E;3;Noir;phalange moyenne;AR;être en permanence aux aguets, sous tension
+4_E;;E;4;Noir;phalange proximale;AR;activation de l’instinct de survie, lutte pour vivre
+8_E;;E;8;Noir;voûte plantaire;AV;activation de l’instinct de survie, envie de fuir
+14_E;;E;14;Noir;calcanéum;AV;envie de bouger, de partir, de fuir
+15_E;;E;15;Noir;talons;AR;envie de fuir, de se défouler pour décompresser
+25_E;;E;25;Noir;cous-de-pied;AV;faire autrement que les autres, ne pas être avec les autres
+54_E;;E;54;Noir;malléoles;AR;devoir faire un choix, devoir soutenir les autres ou assurer son propre soutien
+60_E;;E;60;Brun;tendons d'Achille;AR;envie de bouger, de partir, de fuir
+64_E;;E;64;Brun;tibias/péronés;AV;générer des tensions vis à vis des autres
+76_E;;E;76;Brun;mollets/veines;AR;envie de fuir, liens toxiques avec la famille 
+93_E;;E;93;Brun;ligaments croisés;AV;résister, tenir tête, conflit avec les parents
+98_E;;E;98;Mauve;arrière des genoux;AR;conflit d'autorité avec les parents
+100_E;;E;100;Mauve;rotules;AV;conflit d'autorité, tendance à l'autoritarisme
+105_E;;E;105;Mauve;cuisses;AV;trop responsable, trop d'obligations
+112_E;;E;112;Ecarlate;testicules;AV;fuite en avant avec les projets, dispersion dans la créativité
+114_E;;E;114;Ecarlate;périnée;AR;en conflit avec son corps, conflit avec la sexualité
+116_E;;E;116;Rouge;anus/rectum;AR;envie de fuir mais rester, se retenir
+118_E;;E;118;Rouge;côlon sigmoïde;AR;problème d’argent, licenciement, deuil non fait d'un proche
+119_E;;E;119;Rouge;coccyx3;AR;conflit avec les autres, subir une pression
+120_E;;E;120;Rouge;coccyx2;AR;devoir aller de l'avant, envie de concrétiser
+121_E;;E;121;Rouge;coccyx1;AR;contrariété, frustrations, se sentir en danger, plein de peurs
+123_E;;E;123;Orange;prostate;AV;vouloir à tout prix aller de l'avant, envie de concrétiser
+124_E;;E;124;Orange;vessie;AV;contrariété, frustrations, se sentir agressé, plein de peurs
+127_E;;E;127;Orange;intestin grêle;AV;dispersion, contrariété
+131_E;;E;131;Orange;utérus;AV;besoin d'aller de l'avant, de concrétiser, stagnation
+135_E;;E;135;Orange;côlon ascendant et descendant;AV;encaisser, supporter les conflits et les critiques, vécu non-accepté, dépendance affective
+137_E;;E;137;Orange;S5;AR;fuite en avant, dispersion, devoir tout assumer
+138_E;;E;138;Orange;S4;AR;incapacité à se libérer d'une emprise, vouloir fuir
+139_E;;E;139;Orange;S3;AR;contrariété, frustrations, se sentir en danger, plein de peurs
+140_E;;E;140;Orange;S2;AR;fuite en avant, reporter des choix ou des besoins
+141_E;;E;141;Orange;S1;AR;hyperactivité, stress, devoir assumer
+144_E;;E;144;Jaune;ovaires;AV;besoin d'aller de l'avant avec les projets, créativité excessive, dispersion
+147_E;;E;147;Jaune;côlon transverse;AV;dispersion, peur de devoir faire un choix, devoir lutter pour sa place ou sa réputation
+151_E;;E;151;Jaune;nombril;AV;devoir défendre sa place ou sa position, devoir affronter la réalité
+153_E;;E;153;Jaune;estomac;AV;agressivité, devoir lutter pour sa place
+158_E;;E;158;Jaune;L5;AR;devoir lancer un projet, trop d'enthousiasme
+159_E;;E;159;Jaune;L4;AR;chercher à se libérer du passé, des manques
+160_E;;E;160;Jaune;L3;AR;en conflit avec d'autres personnes, générer des tensions
+161_E;;E;161;Jaune;L2;AR;se battre pour être respecté
+162_E;;E;162;Jaune;L1;AR;émotions contenues, parfois exprimées avec violence : rage, rancune, colère
+164_E;;E;164;Vert Pomme;rate;AV;devoir terminer quelque chose, se mettre des exigences élevées
+166_E;;E;166;Vert Pomme;pancréas;;colère, rage, affrontement avec la mère, mère autoritaire
+168_E;;E;168;Vert Pomme;vésicule biliaire;AV;contenir ses émotions : gros soucis, forte rancune, animosité, colère explosive
+170_E;;E;170;Vert Pomme;foie;AV;colère explosive, stress
+173_E;;E;173;Vert Pomme;reins;AR;peurs, en conflit avec d'autres personnes, générer des tensions
+175_E;;E;175;Vert Pomme;surrénales;AR;gros stress, peurs, survie
+176_E;;E;176;Vert Pomme;D12;AR;événement ou conflit à digérer
+178_E;;E;178;Vert Pomme;D11;AR;peurs
+180_E;;E;180;Vert Pomme;D10;AR;stress
+181_E;;E;181;Vert Pomme;D9;AR;stress
+190_E;;E;190;Vert;poitrine;AV;devoir s'engager, lutter pour sa place, angoisse, oppression, chagrin
+210_E;;E;210;Vert;diaphragme;AV;résister aux émotions
+220_E;;E;220;Vert;aorte descendante;AV;état d'excitation, trop de sensations, nervosité
+231_E;;E;231;Vert;D8;AR;stress, agitation, envie de bouger, nervosité
+234_E;;E;234;Vert;D7;AR;soucis, contrariété, égo fort
+237_E;;E;237;Vert;D6;AR;soucis, contrariété, égo fort
+246_E;;E;246;Vert;nœud sinusal;AV;stress, pression, besoin de passer à l'action
+248_E;;E;248;Vert;nœud atrioventriculaire;AV;se mettre ou subir une pression excessive, se sentir agressé, devoir lutter
+253_E;;E;253;Vert;péricarde;AV;encaisser, se sentir agressé, être saturé d’émotions
+260_E;;E;260;Turquoise;poumons;AV;être en tension, devoir faire sa place, tristesse
+276_E;;E;276;Turquoise;thymus;AV;devoir se protéger, se sentir agressé
+283_E;;E;283;Turquoise;D5;AR;se mettre la pression, vouloir tout contrôler, s'engager pleinement
+284_E;;E;284;Turquoise;D4;AR;conflits, frustrations, colères contenues
+285_E;;E;285;Turquoise;D3;AR;être envahi, besoin de respirer, d'espace pour soi
+286_E;;E;286;Turquoise;D2;AR;trop assumer, tenir le coup, encaisser
+287_E;;E;287;Turquoise;D1;AR;se sentir envahi, besoin de respirer, d'espace pour soi
+300_E;;E;300;Turquoise;clavicules;AV;devoir agir, passer à l'action, responsabilités excessives
+320_E;;E;320;Turquoise;œsophage;AV;résistance au changement, intransigeance, conflit avec la loi,la règle établie, l'autorité
+340_E;;E;340;Cyan;C7;AR;conflit, tenir tête, vouloir tout décider, avoir le dernier mot
+345_E;;E;345;Cyan;C6;AR;aller plus vite, stress, réprimer ses émotions
+350_E;;E;350;Cyan;thyroïde;AV;aller plus vite, stress, deuil non fait d'un proche
+380_E;;E;380;Cyan;gorge;AV;ressasser le passé, résister, déni
+385_E;;E;385;Cyan;"trachée; larynx";AV;devoir se battre pour plus de liberté, refuser d'écouter son cœur
+400_E;;E;400;Cyan;C5;AR;tourner en rond, trop réfléchir
+405_E;;E;405;Cyan;ganglions;AV;devoir se battre, devoir se protéger
+420_E;;E;420;Bleu;menton;AV;stress, peurs, insécurité, tenir tête, vouloir tout diriger
+440_E;;E;440;Bleu;dents;AV;devoir défendre sa place ou sa position, déterminé, en colère
+450_E;;E;450;Bleu;"bouche; langue";AV;avoir des envies excessives ou réprimer des envies
+455_E;;E;455;Bleu;C4;AR;ruminer sa culpabilité et sa colère
+460_E;;E;460;Bleu;machoire;AV;ne jamais relacher, serrer les dents
+470_E;;E;470;Bleu;sinus;AV;être à l'affût, sentir un danger, devoir défendre son espace vital
+480_E;;E;480;Bleu;nez;AV;être à l'affût, sur la défensive
+490_E;;E;490;Bleu;oreilles;AV;être à l'affût, refuser d'écouter
+495_E;;E;495;Bleu;C3;AR;se voiler la face, être à l'affût, être sur ses gardes
+500_E;;E;500;Bleu;C2;AR;questionnement pour la suite, serrer les dents
+510_E;;E;510;Indigo;atlas;AR;devoir assumer, tenir tête, maintenir ses décisions
+515_E;;E;515;Indigo;C1;AR;devoir assumer, tenir tête, maintenir ses décisions
+520_E;;E;520;Indigo;cervelet;AR;stress, agitation physique, besoin de bouger
+530_E;;E;530;Indigo;lobe occipital;AR;fuite en avant, hyperactivité, parer au plus pressé
+560_E;;E;560;Indigo;épiphyse;AR;fuite en avant, hyperactivité, parer au plus pressé
+580_E;;E;580;Indigo;tempes;AV;se mettre la pression, obligé de changer
+590_E;;E;590;Indigo;yeux;AV;être aux aguets, refus de ce qui arrive
+610_E;;E;610;Indigo;sourcils;AV;méfiance, capacité à régler les problèmes
+620_E;;E;620;Indigo;front;AV;tenir tête, maintenir ses décisions
+630_E;;E;630;Indigo;hypophyse;AV;hyperactivité, prise de tête, obsessions, pensées inutiles, doutes
+640_E;;E;640;Indigo;hypothalamus;AV;vouloir décider, besoin d’être un leader, contrôler sa vie, générer des conflits, tenir tête
+660_E;;E;660;Indigo;lobes temporaux;AV;agitation émotionnelle, émotivité, se sentir agressé
+690_E;;E;690;Pourpre;lobes pariétaux;AR;aimer les sensations fortes
+740_E;;E;740;Pourpre;corps calleux;AR;hyperactivité, perceptions corporelles accrues
+780_E;;E;780;Pourpre;thalamus;AV;hyperactivité, émotivité excessive, impulsif, réactif
+810_E;;E;810;Magenta;lobe frontal;AV;agitation mentale, contrôle mental, ne pas s'adapter
+840_E;;E;840;Magenta;fontanelle;AV;enthousiasme, plein de projets, de rêves
+900_E;;E;900;Ecarlate;rose;;vouloir être différent des autres, émotionnel amplifié par le collectif, impatience à passer à la suite
+995_E;;E;995;Rouge;rose;;prendre ses rêves pour la réalité, incapacité à dissocier réalité et imaginaire, révolte, résistance, conspirationisme
+1055_E;;E;1055;Rouge;rose;;jugements et émotionnel collectif amplifiés, réactivité contre le collectif
+1100_E;;E;1100;Orange;cuivre;;individualisme, défendre sa place, prendre beaucoup d'espace, s'étaler
+1140_E;;E;1140;Orange;cuivre;;activation des résistances, incapacité à s’arrêter, à se laisser porter ou à relâcher, réactivité à ce qui ne bouge pas
+1210_E;;E;1210;Orange;cuivre;;être sur le qui-vive, difficulté à collaborer, mais peur d’être tout seul 
+1260_E;;E;1260;Jaune;bronze;;enthousiasme excessif, dispersion dans la création, trop de pensées non suivies d'actions concrètes
+1300_E;;E;1300;Jaune;bronze;;envie d’agir, de pouvoir décider, maintenir ses décisions, réagir
+1385_E;;E;1385;Jaune;bronze;;réactivité contre les contraintes extérieures, bouillonnement intérieur
+1470_E;;E;1470;Jaune;bronze;;dispersion ou distraction, submergé par les informations, déconnecté de la réalité
+1570_E;;E;1570;Vert pomme;bronze;;tyrannisme, besoin d'avoir raison, tenir sa position à tout prix, ne pas supporter d'être contredit
+1620_E;;E;1620;Vert pomme;bronze;;être confronté ou aimer se confronter à d’autres forces
+1680_E;;E;1680;Vert pomme;bronze;;tester les limites, besoin de dépasser les limites, parfois irrespect
+1740_E;;E;1740;Vert pomme;bronze;;envie de bouger, de s’activer, envie d’aller plus vite, envie de passer à autre chose, faire de l’ordre, intérêt pour la géométrie sacrée
+1820_E;;E;1820;Vert;argent;;extraversion, exprimer son stress, besoin de se décharger sur les autres ou de se défouler
+1900_E;;E;1900;Vert;argent;;être acteur de sa destinée, être dans l’action, besoin d’agir et de s’engager
+1960_E;;E;1960;Vert;argent;;vouloir tout faire soi-même
+2020_E;;E;2020;Vert;argent;;dureté envers les autres, autoritarisme
+2100_E;;E;2100;Turquoise;argent;;se sentir agressé, envahi, oppressé
+2190_E;;E;2190;Turquoise;argent;;envie que l'on s'occupe de soi, envie de s'occuper des autres
+2250_E;;E;2250;Turquoise;argent;;se sentir responsable des autres
+2310_E;;E;2310;Turquoise;argent;;autoritarisme, besoin d’être un leader
+2410_E;;E;2410;Cyan;Or;;se mettre la pression pour montrer qui commande
+2510_E;;E;2510;Cyan;Or;;se sentir investi d'une mission à accomplir, vouloir entraîner les autres avec soi, prosélytisme
+2560_E;;E;2560;Cyan;Or;;tenacité, ne pas relâcher avant d'y être arrivé
+2655_E;;E;2655;Cyan;Or;;engagement pour une remise en ordre, être porte-parole
+2850_E;;E;2850;Bleu;Or;;contenir sa colère, serrez les dents
+2920_E;;E;2920;Bleu;Or;;devoir défendre ses idées, frustration, agressivité
+3000_E;;E;3000;Bleu;Or;;besoin de tout sentir, soif d’expérimentation, éparpillement
+3160_E;;E;3160;Indigo;Cristal;;avide de connaissances
+3290_E;;E;3290;Indigo;Cristal;;submergé d’informations, dispersion
+3390_E;;E;3390;Indigo;Cristal;;mental partant dans tous les sens, mélanger toutes les idées, tous les concepts
+3500_E;;E;3500;Indigo;Cristal;;fuite dans la spiritualité
+3680_E;;E;3680;Pourpre;Cristal;;résistance aux expériences vécues, ne pas en faire profiter le corps
+3785_E;;E;3785;Pourpre;Cristal;;ne pas respecter les limites de son corps, négliger les besoins du corps
+4000_E;;E;4000;Pourpre;Cristal;;besoin de se sentir vivant par peur ou refus de la mort, ou du vide existentiel
+4220_E;;E;4220;Magenta;diamant;;besoin de repousser les limites, de se dépasser
+4500_E;;E;4500;Magenta;diamant;;se sentir exister, vouloir se faire remarquer, attirer l'attention
+4800_E;;E;4800;Noir;diamant;;percevoir tout ce qui dérange, mise en évidence des résistances et des incohérences (constat sans jugement)
+5100_E;;E;5100;Noir;diamant;;résistance avant de passer à un autre palier de conscience, être exigeant et autoritaire pour changer les autres, peur de se retrouver seul
+5280_E;;E;5280;Brun;Blanc;;fuite en avant, tensions vis à vis des autres
+5460_E;;E;5460;Brun;Blanc;;envie de répondre immédiatement à tout besoin
+5630_E;;E;5630;Brun;Blanc;;se sentir agressé par tout
+5890_E;;E;5890;Brun;Blanc;;aller jusqu’au bout sans se préoccuper des obstacles, se sentir séparé du reste du monde
+6145_E;;E;6145;Bordeaux;Blanc;;besoin d’être le pouvoir décisionnel sur soi, les autres et la matière, besoin d'être un leader
+6450_E;;E;6450;Bordeaux;Blanc;;confusion dans les différents plans de conscience, résistance à l'énergie qui circule, refus des perceptions
+6750_E;;E;6750;Bordeaux;Blanc;;dépasser les limites, s'épuiser inutilement
+7050_E;;E;7050;Bordeaux;Blanc;;se mettre la pression pour des actions inutiles, être aux aguets, stressé
+7350_E;;E;7350;Ecarlate;Blanc;;esprit de provocation
+7650_E;;E;7650;Ecarlate;Blanc;;amplification des perceptions externes de tous les sens
+8250_E;;E;8250;Rouge;Blanc;;trop d'obligations, submergé d'informations, éclairs de génie
+8530_E;;E;8530;Rouge;Blanc;;souffrir pour se sentir exister, générer des douleurs inutiles, détruire pour exister
+8850_E;;E;8850;Rouge;Blanc;;se sentir obligé, vivre de la contrariété et des frustrations
+9150_E;;E;9150;Orange;Blanc;;résistance face à l'ordre inutile et imposé, s'imposer des règles et des contraintes inutiles
+9450_E;;E;9450;Orange;Blanc;;générer des tensions, résister aux émotions
+9750_E;;E;9750;Orange;Blanc;;devoir toujours résister, se battre contre l'ordre des choses
+10050_E;;E;10050;Orange;Blanc;;trop à assumer, contrarié, dispersé
+10350_E;;E;10350;Jaune;Blanc;;prendre des responsabilités ou jouer un rôle pour justifier sa place, son utilité
+10650_E;;E;10650;Jaune;Blanc;;prendre sur soi pour faire avancer les choses
+10950_E;;E;10950;Jaune;Blanc;;s'imposer aux autres, besoin excessif de faire
+11250_E;;E;11250;Jaune;Blanc;;la rage comme moteur pour avancer dans la vie
+11550_E;;E;11550;Vert Pomme;Blanc;;se créer des soucis inutilement
+11850_E;;E;11850;Vert Pomme;Blanc;;abuser de sa puissance pour un but personnel, dévaloriser l'autre pour avoir plus de pouvoir
+HS_900_A;HS;A;900;écarlate;rose;MILIEU;besoin d'avoir tout immédiatement, fuite dans le virtuel
+HS_995_A;HS;A;995;rouge;rose;AVANT;besoin de visualiser et de structurer la suite
+HS_1055_A;HS;A;1055;rouge;rose;MILIEU;besoin de visualiser la suite et passer à autre chose
+HS_1140_A;HS;A;1140;orange;cuivre;ARRIERE;besoin d'accepter, de relâcher, de libérer
+HS_1210_A;HS;A;1210;orange;cuivre;MILIEU;besoin de communiquer avec tout les règnes
+HS_1300_A;HS;A;1300;jaune;bronze;AVANT;besoin d'être dans son corps, de se sentir dense
+HS_1470_A;HS;A;1470;jaune;bronze;MILIEU;besoin de gérer des informations, de percevoir
+HS_1620_A;HS;A;1620;pomme;bronze;ARRIERE;besoin de laisser faire, de suivre les autres
+HS_1740_A;HS;A;1740;pomme;bronze;MILIEU;besoin de décider, besoin d'ordre
+HS_1900_A;HS;A;1900;vert;argent;AVANT;besoin d'être efficace, d'avoir les idées claires
+HS_2020_A;HS;A;2020;vert;argent;MILIEU;besoin d'une présence féminine douce
+HS_2190_A;HS;A;2190;turquoise;argent;ARRIERE;besoin de se sentir entouré avec douceur
+HS_2310_A;HS;A;2310;turquoise;argent;MILIEU;besoin d'avoir une autorité naturelle, ne pas être contesté
+HS_2510_A;HS;A;2510;cyan;or;AVANT;besoin d'être une autorité spirituelle
+HS_2655_A;HS;A;2655;cyan;or;MILIEU;besoin d'être une force tranquille, constructive et concrète
+HS_2850_A;HS;A;2850;bleu;or;ARRIERE;besoin d'énergie venant d'en-haut
+HS_3000_A;HS;A;3000;bleu;or;MILIEU;besoin d'agir concrètement, sens amplifiés
+HS_3290_A;HS;A;3290;indigo;cristal;AVANT;besoin de géométrie sacrée, de belles choses
+HS_3500_A;HS;A;3500;indigo;cristal;MILIEU;besoin de détachement, de prendre de la distance
+HS_3785_A;HS;A;3785;pourpre;cristal;ARRIERE;besoin de densité du corps, capacité à se régénérer
+HS_4000_A;HS;A;4000;pourpre;cristal;MILIEU;besoin de faire une pause, cesser de reporter à plus tard
+HS_4200_A;HS;A;4200;magenta;diamant;AVANT;besoin de voir plein de possibles pour la suite
+HS_4500_A;HS;A;4500;magenta;diamant;MILIEU;besoin d'être complètement dans son corps
+HS_4800_A;HS;A;4800;noir;diamant;ARRIERE;besoin de se sentir en totale sécurité
+HS_5100_A;HS;A;5100;noir;diamant;MILIEU;besoin de se connecter au champ quantique
+HS_5280_A;HS;A;5280;brun;blanc;AVANT;besoin de prendre du recul sur le passé
+HS_5460_A;HS;A;5460;brun;blanc;MILIEU;besoin d'être complètement absorbé par ce que l'on fait
+HS_5630_A;HS;A;5630;brun;blanc;ARRIERE;besoin d'être plein d'énergie pour la suite
+HS_5890_A;HS;A;5890;brun;blanc;MILIEU;besoin d'être complètement absorbé par ce que l'on fait
+HS_6145_A;HS;A;6145;bordeaux;blanc;AVANT;besoin de s'engager, d'utiliser sa force intérieure
+HS_6450_A;HS;A;6450;bordeaux;blanc;MILIEU;besoin de bouger, sensibilité aux formes
+HS_6750_A;HS;A;6750;bordeaux;blanc;ARRIERE;besoin de se positionner
+HS_7050_A;HS;A;7050;bordeaux;blanc;MILIEU;besoin de bouger, sensibilité aux formes
+HS_7350_A;HS;A;7350;écarlate;blanc;AVANT;besoin de passer à l'action sans dépendre des autres
+HS_7650_A;HS;A;7650;écarlate;blanc;MILIEU;besoin de se sentir en sécurité, sensibilité à la musique
+HS_7950_A;HS;A;7950;rouge;blanc;ARRIERE;besoin de vivre par procuration
+HS_8250_A;HS;A;8250;rouge;blanc;MILIEU;besoin de sortir des limitations, faire le fou
+HS_8530_A;HS;A;8530;rouge;blanc;AVANT;besoin d'assumer pour se sentir vivant
+HS_8850_A;HS;A;8850;rouge;blanc;MILIEU;besoin de sortir des limitations, faire le fou
+HS_9150_A;HS;A;9150;orange;blanc;ARRIERE;besoin de ressentir les besoins de son corps
+HS_9450_A;HS;A;9450;orange;blanc;MILIEU;besoin de décider, quitte à encaisser et à subir
+HS_9750_A;HS;A;9750;orange;blanc;AVANT;besoin de stabilité psychique et spirituelle
+HS_10050_A;HS;A;10050;orange;blanc;MILIEU;besoin de décider, quitte à encaisser et à subir
+HS_10350_A;HS;A;10350;jaune;blanc;ARRIERE;besoin d'avoir sa place sur Terre
+HS_10650_A;HS;A;10650;jaune;blanc;MILIEU;besoin de répondre à ses attentes
+HS_10950_A;HS;A;10950;jaune;blanc;AVANT;besoin de créer pour affirmer sa différence
+HS_11250_A;HS;A;11250;jaune;blanc;MILIEU;besoin de répondre à ses attentes
+HS_11550_A;HS;A;11550;pomme;blanc;ARRIERE;besoin d'être dur avec soi
+HS_11850_A;HS;A;11850;pomme;blanc;MILIEU;besoin d'être soutenu par l'univers
+HS_900_D;HS;D;900;écarlate;rose;MILIEU;être attaché à la matière, à son corps, aimer collectioner
+HS_995_D;HS;D;995;rouge;rose;AVANT;ne voir que le beau côté des choses, laisser faire
+HS_1055_D;HS;D;1055;rouge;rose;MILIEU;se contenter de peu, faire le bilan objectif de sa vie
+HS_1140_D;HS;D;1140;orange;cuivre;ARRIERE;relâcher et détendre son corps
+HS_1210_D;HS;D;1210;orange;cuivre;MILIEU;être dans un cocon, retourner à son intériorité
+HS_1300_D;HS;D;1300;jaune;bronze;AVANT;stagner dans la vie, rester sur place, ne pas bouger
+HS_1470_D;HS;D;1470;jaune;bronze;MILIEU;moins réfléchir, ne plus agir, moins se disperser
+HS_1620_D;HS;D;1620;pomme;bronze;ARRIERE;se positionner, ne pas se laisser faire
+HS_1740_D;HS;D;1740;pomme;bronze;MILIEU;se calmer, accueillir des énergies plus douces
+HS_1900_D;HS;D;1900;vert;argent;AVANT;se saboter mentalement, ne pas décider
+HS_2020_D;HS;D;2020;vert;argent;MILIEU;être dans un cocon rassurant et bienveillant, maternel
+HS_2190_D;HS;D;2190;turquoise;argent;ARRIERE;vivre l'apaisement et la contemplation
+HS_2310_D;HS;D;2310;turquoise;argent;MILIEU;se laisser vivre, se laisser guider
+HS_2510_D;HS;D;2510;cyan;or;AVANT;faire l'ermite, être au service des autres
+HS_2655_D;HS;D;2655;cyan;or;MILIEU;être dans sa bulle, dans son corps, en sécurité
+HS_2850_D;HS;D;2850;bleu;or;ARRIERE;se purifier, se décharger
+HS_3000_D;HS;D;3000;bleu;or;MILIEU;être en retrait, en observation et à l'écoute
+HS_3290_D;HS;D;3290;indigo;cristal;AVANT;être attaché à la matière, à son corps
+HS_3500_D;HS;D;3500;indigo;cristal;MILIEU;être calme pour se connecter à son intériorité
+HS_3785_D;HS;D;3785;pourpre;cristal;ARRIERE;visualiser la régénération de son corps
+HS_4000_D;HS;D;4000;pourpre;cristal;MILIEU;être hyperactif par peur du silence ou du vide
+HS_4200_D;HS;D;4200;magenta;diamant;AVANT;se concentrer sur une seule chose à la fois
+HS_4500_D;HS;D;4500;magenta;diamant;MILIEU;moins sentir son corps, aimer sortir de son corps
+HS_4800_D;HS;D;4800;noir;diamant;ARRIERE;avoir un protection spirituelle
+HS_5100_D;HS;D;5100;noir;diamant;MILIEU;retourner à son intériorité pour observer ce qui ne va pas
+HS_5280_D;HS;D;5280;brun;blanc;AVANT;être dépendant des autres ou de son passé
+HS_5460_D;HS;D;5460;brun;blanc;MILIEU;prendre du recul pour écouter les différents besoins
+HS_5630_D;HS;D;5630;brun;blanc;ARRIERE;ne plus avoir d'énergie, stagner
+HS_5890_D;HS;D;5890;brun;blanc;MILIEU;prendre du recul pour écouter les différents besoins
+HS_6145_D;HS;D;6145;bordeaux;blanc;AVANT;se désengager, en faire moins
+HS_6450_D;HS;D;6450;bordeaux;blanc;MILIEU;constater et mettre en évidence ce qui ne vas pas
+HS_6750_D;HS;D;6750;bordeaux;blanc;ARRIERE;se laisser aller, se laisser porter
+HS_7050_D;HS;D;7050;bordeaux;blanc;MILIEU;constater et mettre en évidence ce qui ne vas pas
+HS_7350_D;HS;D;7350;écarlate;blanc;AVANT;avoir moins de responsabilités, reporter à plus tard
+HS_7650_D;HS;D;7650;écarlate;blanc;MILIEU;n'écouter que ce que l'on veut entendre, laisser faire
+HS_7950_D;HS;D;7950;rouge;blanc;ARRIERE;ne plus sentir son corps
+HS_8250_D;HS;D;8250;rouge;blanc;MILIEU;se sentir enfermé, victimiser
+HS_8530_D;HS;D;8530;rouge;blanc;AVANT;se retirer de la vie active
+HS_8850_D;HS;D;8850;rouge;blanc;MILIEU;se sentir enfermé, victimiser
+HS_9150_D;HS;D;9150;orange;blanc;ARRIERE;reporter ou réprimer ses émotions
+HS_9450_D;HS;D;9450;orange;blanc;MILIEU;arrêter d'encaisser ou d'être maltraité
+HS_9750_D;HS;D;9750;orange;blanc;AVANT;ne plus se battre pour exister, vivre de l'instabilité
+HS_10050_D;HS;D;10050;orange;blanc;MILIEU;arrêter d'encaisser ou d'être maltraité
+HS_10350_D;HS;D;10350;jaune;blanc;ARRIERE;aller ailleurs pour se sentir utile et à sa place
+HS_10650_D;HS;D;10650;jaune;blanc;MILIEU;n'agir que si l'on est sûr de son choix
+HS_10950_D;HS;D;10950;jaune;blanc;AVANT;se laisser vivre, ne rien imposer à d'autres
+HS_11250_D;HS;D;11250;jaune;blanc;MILIEU;n'agir que si l'on est sûr de son choix
+HS_11550_D;HS;D;11550;pomme;blanc;ARRIERE;ne pas pouvoir s'aimer soi-même
+HS_11850_D;HS;D;11850;pomme;blanc;MILIEU;ne plus être dévalorisé, se sentir soutenu par l'univers
+HS_900_E;HS;E;900;écarlate;rose;MILIEU;penser que le futur sera mieux 
+HS_995_E;HS;E;995;rouge;rose;AVANT;révolte ou résistance vis à vis du collectif
+HS_1055_E;HS;E;1055;rouge;rose;MILIEU;réactivité contre le collectif
+HS_1140_E;HS;E;1140;orange;cuivre;ARRIERE;incapacité à s'arrêter, vouloir résister à tout
+HS_1210_E;HS;E;1210;orange;cuivre;MILIEU;difficulté à collaborer
+HS_1300_E;HS;E;1300;jaune;bronze;AVANT;être trop dans l'action, hyperactif
+HS_1470_E;HS;E;1470;jaune;bronze;MILIEU;être submergé d'information ou trop dispersé
+HS_1620_E;HS;E;1620;pomme;bronze;ARRIERE;se confronter tout le temps aux autres
+HS_1740_E;HS;E;1740;pomme;bronze;MILIEU;aller toujours plus vite, vouloir trop d'ordre
+HS_1900_E;HS;E;1900;vert;argent;AVANT;vouloir trop s'engager, être trop dans l'action
+HS_2020_E;HS;E;2020;vert;argent;MILIEU;autoritarisme, dureté envers soi et les autres
+HS_2190_E;HS;E;2190;turquoise;argent;ARRIERE;trop s'occuper des autres ou de soi
+HS_2310_E;HS;E;2310;turquoise;argent;MILIEU;envie de commander, de diriger
+HS_2510_E;HS;E;2510;cyan;or;AVANT;devoir accomplir une mission
+HS_2655_E;HS;E;2655;cyan;or;MILIEU;engagement excessif pour une cause
+HS_2850_E;HS;E;2850;bleu;or;ARRIERE;contenir sa colère, serrez les dents
+HS_3000_E;HS;E;3000;bleu;or;MILIEU;vouloir tout ressentir, tout expérimenter
+HS_3290_E;HS;E;3290;indigo;cristal;AVANT;submergé d'informations
+HS_3500_E;HS;E;3500;indigo;cristal;MILIEU;fuite dans la spiritualité
+HS_3785_E;HS;E;3785;pourpre;cristal;ARRIERE;ne pas respecter son corps, ses besoins
+HS_4000_E;HS;E;4000;pourpre;cristal;MILIEU;se sentir vivant par peur de la mort
+HS_4200_E;HS;E;4200;magenta;diamant;AVANT;besoin de se dépasser, de repousser les limites
+HS_4500_E;HS;E;4500;magenta;diamant;MILIEU;vouloir se faire remarquer, attirer l'attention
+HS_4800_E;HS;E;4800;noir;diamant;ARRIERE;percevoir et dire tout ce qui dérange
+HS_5100_E;HS;E;5100;noir;diamant;MILIEU;vouloir changer les autres
+HS_5280_E;HS;E;5280;brun;blanc;AVANT;fuite en avant
+HS_5460_E;HS;E;5460;brun;blanc;MILIEU;aller jusqu'au bout sans se préoccuper du reste
+HS_5630_E;HS;E;5630;brun;blanc;ARRIERE;se sentir agressé par tout
+HS_5890_E;HS;E;5890;brun;blanc;MILIEU;aller jusqu'au bout sans se préoccuper du reste
+HS_6145_E;HS;E;6145;bordeaux;blanc;AVANT;impatience à décider
+HS_6450_E;HS;E;6450;bordeaux;blanc;MILIEU;se mettre la pression pour des actions inutiles
+HS_6750_E;HS;E;6750;bordeaux;blanc;ARRIERE;dépasser les limites, s'épuiser inutilement
+HS_7050_E;HS;E;7050;bordeaux;blanc;MILIEU;se mettre la pression pour des actions inutiles
+HS_7350_E;HS;E;7350;écarlate;blanc;AVANT;esprit de provocation
+HS_7650_E;HS;E;7650;écarlate;blanc;MILIEU;sens toujours en alerte, intérêt pour les sons
+HS_7950_E;HS;E;7950;rouge;blanc;ARRIERE;subir la pression de l'extérieur
+HS_8250_E;HS;E;8250;rouge;blanc;MILIEU;trop d'obligations, submergé
+HS_8530_E;HS;E;8530;rouge;blanc;AVANT;souffrir pour se sentir exister
+HS_8850_E;HS;E;8850;rouge;blanc;MILIEU;trop d'obligations, submergé
+HS_9150_E;HS;E;9150;orange;blanc;ARRIERE;ne pas supporter les ordres ou l'ordre
+HS_9450_E;HS;E;9450;orange;blanc;MILIEU;trop à assumer, contrarié, dispersé
+HS_9750_E;HS;E;9750;orange;blanc;AVANT;se battre contre l'ordre des choses
+HS_10050_E;HS;E;10050;orange;blanc;MILIEU;trop à assumer, contrarié, dispersé
+HS_10350_E;HS;E;10350;jaune;blanc;ARRIERE;prendre des responsabilités pour justifier sa place
+HS_10650_E;HS;E;10650;jaune;blanc;MILIEU;prendre sur soi pour faire avancer les choses
+HS_10950_E;HS;E;10950;jaune;blanc;AVANT;lancer toujours de nouvelles choses
+HS_11250_E;HS;E;11250;jaune;blanc;MILIEU;prendre sur soi pour faire avancer les choses
+HS_11550_E;HS;E;11550;pomme;blanc;ARRIERE;se créer des soucis inutilement
+HS_11850_E;HS;E;11850;pomme;blanc;MILIEU;dévaloriser l'autre pour avoir plus de pouvoir
+HS_900_L;HS;L;900;écarlate;rose;MILIEU;se contenter de peu
+HS_995_L;HS;L;995;rouge;rose;AVANT;bonne concentration et gestion des données
+HS_1055_L;HS;L;1055;rouge;rose;MILIEU;non-jugement de soi et des autres
+HS_1140_L;HS;L;1140;orange;cuivre;ARRIERE;acceptation et adaptation
+HS_1210_L;HS;L;1210;orange;cuivre;MILIEU;collaboration facile avec les autres
+HS_1300_L;HS;L;1300;jaune;bronze;AVANT;positionnement ferme, mais adapté
+HS_1470_L;HS;L;1470;jaune;bronze;MILIEU;alignement mental
+HS_1620_L;HS;L;1620;pomme;bronze;ARRIERE;respectueux envers les autres et le monde
+HS_1740_L;HS;L;1740;pomme;bronze;MILIEU;être calme et inspirer confiance
+HS_1900_L;HS;L;1900;vert;argent;AVANT;liberté d'engagement, sincérité
+HS_2020_L;HS;L;2020;vert;argent;MILIEU;être bienveillant et réconfortant
+HS_2190_L;HS;L;2190;turquoise;argent;ARRIERE;attentionné et compatissant
+HS_2310_L;HS;L;2310;turquoise;argent;MILIEU;intelligence du cœur
+HS_2510_L;HS;L;2510;cyan;or;AVANT;accepter et suivre sa destinée, résilience
+HS_2655_L;HS;L;2655;cyan;or;MILIEU;être sage et authentique
+HS_2850_L;HS;L;2850;bleu;or;ARRIERE;rayonner autour de soi
+HS_3000_L;HS;L;3000;bleu;or;MILIEU;recevoir ce dont on a besoin
+HS_3290_L;HS;L;3290;indigo;cristal;AVANT;mental connecté au champ quantique
+HS_3500_L;HS;L;3500;indigo;cristal;MILIEU;connexion au spirituel
+HS_3785_L;HS;L;3785;pourpre;cristal;ARRIERE;confiance dans son corps et sa capacité de régénération
+HS_4000_L;HS;L;4000;pourpre;cristal;MILIEU;capacité à se remettre en question
+HS_4200_L;HS;L;4200;magenta;diamant;AVANT;sortir des conditionnements
+HS_4500_L;HS;L;4500;magenta;diamant;MILIEU;confiance dans ce que perçoit le corps
+HS_4800_L;HS;L;4800;noir;diamant;ARRIERE;reliance avec le spirituel, équilibre des polarités
+HS_5100_L;HS;L;5100;noir;diamant;MILIEU;capacité à (re)informer le corps ou la matière
+HS_5280_L;HS;L;5280;brun;blanc;AVANT;autonomie énergétique vis à vis des autres
+HS_5460_L;HS;L;5460;brun;blanc;MILIEU;répondre à tous ses besoins
+HS_5630_L;HS;L;5630;brun;blanc;ARRIERE;être en syntonie avec tout
+HS_5890_L;HS;L;5890;brun;blanc;MILIEU;répondre à tous ses besoins
+HS_6145_L;HS;L;6145;bordeaux;blanc;AVANT;détermination et force intérieure
+HS_6450_L;HS;L;6450;bordeaux;blanc;MILIEU;être disponible pour passer à l'action
+HS_6750_L;HS;L;6750;bordeaux;blanc;ARRIERE;pas d'agissements inutiles
+HS_7050_L;HS;L;7050;bordeaux;blanc;MILIEU;être disponible pour passer à l'action
+HS_7350_L;HS;L;7350;écarlate;blanc;AVANT;agir en fonction de ce que l'on est
+HS_7650_L;HS;L;7650;écarlate;blanc;MILIEU;ressentir les sons dans son corps
+HS_7950_L;HS;L;7950;rouge;blanc;ARRIERE;assumer son incarnation, sa différence
+HS_8250_L;HS;L;8250;rouge;blanc;MILIEU;auto-dérision et enthousiasme
+HS_8530_L;HS;L;8530;rouge;blanc;AVANT;esprit et mental au service du corps
+HS_8850_L;HS;L;8850;orange;blanc;MILIEU;pas perturbé par les émotions négatives
+HS_9150_L;HS;L;9150;orange;blanc;ARRIERE;laisser l'équilibre naturel faire son œuvre
+HS_9450_L;HS;L;9450;orange;blanc;MILIEU;pas perturbé par les émotions négatives
+HS_9750_L;HS;L;9750;orange;blanc;AVANT;stabilité intérieure
+HS_10050_L;HS;L;10050;orange;blanc;MILIEU;pas perturbé par les émotions négatives
+HS_10350_L;HS;L;10350;jaune;blanc;ARRIERE;aller de l'avant en écoutant son corps
+HS_10650_L;HS;L;10650;jaune;blanc;MILIEU;joie communicative, s'en remettre à l'univers
+HS_10950_L;HS;L;10950;jaune;blanc;AVANT;faire ce qui est juste de faire pour soi
+HS_11250_L;HS;L;11250;jaune;blanc;MILIEU;joie communicative, s'en remettre à l'univers
+HS_11550_L;HS;L;11550;pomme;blanc;ARRIERE;s'accepter tel que l'on est
+HS_11850_L;HS;L;11850;pomme;blanc;MILIEU;se sentir valorisé, en retirer une force inépuisable

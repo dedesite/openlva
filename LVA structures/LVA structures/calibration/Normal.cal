@@ -1,0 +1,289 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+  <section name="Noise_filter" label="Filtre_bruit">
+    <setting name="Severity_coef_noise" tagname="[Coef_sévérite]" readonly="false" datatype="string" label="Coef_sévérite_bruit" controltype="textbox">
+      <tooltip>Entrez le coéfficient de sévérité entre 0 et 10</tooltip>
+      <value>1.5</value>
+    </setting>
+  </section>
+  <section name="Noise_filter_01" label="__" />
+  <section name="Noise_filter_02" label="__" />
+  <section name="Filter_50hz" label="Filtre_50Hz">
+    <setting name="Filter_50hz" tagname="[Filtre_50hz]" readonly="false" datatype="string" label="Filtre_50hz" controltype="textbox">
+      <tooltip>Entrez le coéfficient pour filtrer le 50 hz 0 et 10</tooltip>
+      <value>1</value>
+    </setting>
+  </section>
+  <section name="Filter_50hz_01" label="__" />
+  <section name="Filter_50hz_02" label="__" />
+  <section name="Side_effect" label="Limitation_effet de bord">
+    <setting name="Diminution_TBF" tagname="[Diminution_TBF]" readonly="false" datatype="string" label="Diminution_TBassesF" controltype="textbox">
+      <tooltip>Entrez le coéfficient pour diminuer les Tres Basses Fréquences 0 et 10</tooltip>
+      <value>0</value>
+    </setting>
+    <setting name="Diminution_THF" tagname="[Diminution_THF]" readonly="false" datatype="string" label="Diminution_THautesF" controltype="textbox">
+      <tooltip>Entrez le coéfficient pour diminuer les Tres Hautes Fréquences 0 et 10</tooltip>
+      <value>7</value>
+    </setting>
+  </section>
+  <section name="Side_effect_01" label="__" />
+  <section name="Side_effect_02" label="__" />
+  <section name="Treshold" label="Autres">
+    <setting name="TresholdMinimumMagnitude" tagname="[treshold_minimum_magnitude]" readonly="false" datatype="string" label="Amplitude minimum" controltype="textbox">
+      <tooltip>Entrez le seuil d'amplitude minimum</tooltip>
+      <value>0</value>
+    </setting>
+    <setting name="TresholdMinimumForm" tagname="[treshold_minimum_form]" readonly="false" datatype="string" label="Forme minimum" controltype="textbox">
+      <tooltip>Entrez le seuil de forme minimum</tooltip>
+      <value>0</value>
+    </setting>
+    <setting name="RoundFactor" tagname="[round_factor]" readonly="false" datatype="string" label="Arrondi" controltype="textbox">
+      <tooltip>Entrez le nombre maximum de chiffres après la virgule</tooltip>
+      <value>0</value>
+    </setting>
+    <setting name="Amplification_image_couleur_corps" tagname="[Coefficient_correcteur_du_signal]" readonly="false" datatype="string" label="Coefficient_correcteur_du_signal" controltype="textbox">
+      <tooltip>Entrez le Coefficient correcteur du signal</tooltip>
+      <value>0</value>
+    </setting>
+    <setting name="Amplification_image_couleur_totale" tagname="[Amplification_image_couleur_totale]" readonly="false" datatype="string" label="Amplification_image_couleur_totale" controltype="textbox">
+      <tooltip>Entrez le facteur d'Amplification pour l'image des couleurs complètes</tooltip>
+      <value>2</value>
+    </setting>
+    <setting name="Minimum_pour_interpretation" tagname="[Minimum_pour_interpretation]" readonly="false" datatype="string" label="Minimum_pour_interpretation" controltype="textbox">
+      <tooltip>Entrez le facteur d'Amplification pour l'image des couleurs complètes</tooltip>
+      <value>5</value>
+    </setting>
+  </section>
+  <section name="Treshold_01" label=".." />
+  <section name="Treshold_02" label=".." />
+  <section name="Cal_detail" label="Activation Calibration détaillée">
+    <setting name="Calibration_detail" tagname="[50HZ_Filter]" readonly="false" datatype="string" label="Calibration détaillée" controltype="textbox">
+      <tooltip>Entrez 1 si calibration détaillée est souhaitée</tooltip>
+      <value>0</value>
+    </setting>
+  </section>
+  <section name="Cal_detail_01" label=".." />
+  <section name="Cal_detail_02" label=".." />
+  <section name="Filter" label="Filtre">
+    <setting name="50HZ_Filter" tagname="[50HZ_Filter]" readonly="false" datatype="string" label="50HZ_Filter" controltype="textbox">
+      <tooltip>Entrez 1 pour filtrer 50Hz et Harmonique</tooltip>
+      <value>0</value>
+    </setting>
+    <setting name="50HZ_Filter_range" tagname="[50HZ_Filter_range]" readonly="false" datatype="string" label="50HZ_Filter_range" controltype="textbox">
+      <tooltip>50HZ_Filter_range</tooltip>
+      <value>2</value>
+    </setting>
+    <setting name="Severity_coef_magn" tagname="[Severity_coef_magn]" readonly="false" datatype="string" label="Coef_sévérite_amplitude" controltype="textbox">
+      <tooltip>Entrez le coéfficient de sévérité pour l'amplitude</tooltip>
+      <value>1</value>
+    </setting>
+    <setting name="Severity_coef_form" tagname="[Severity_coef_form]" readonly="false" datatype="string" label="Coef_sévérite_form" controltype="textbox">
+      <tooltip>Entrez le coéfficient de sévérité pour la forme d'onde</tooltip>
+      <value>2</value>
+    </setting>
+    <setting name="noise_filter" tagname="[increment_factor]" readonly="false" datatype="string" label="noise_filter" controltype="textbox">
+      <tooltip>1 pour activer le filtre bruit</tooltip>
+      <value>1</value>
+    </setting>
+    <setting name="noise_filter_severity" tagname="[increment_factor]" readonly="false" datatype="string" label="noise_filter_severity" controltype="textbox">
+      <tooltip>noise_filter_severity entre 1 et 9</tooltip>
+      <value>1</value>
+    </setting>
+  </section>
+  <section name="Filter_01" label=".." />
+  <section name="Filter_02" label=".." />
+  <section name="Increasing_factor" label="Facteur d'amplification">
+    <setting name="Range_01_FreqMin" tagname="[Range_01_FreqMin]" readonly="false" datatype="string" label="Range_01_FreqMin" controltype="textbox">
+      <tooltip>Entrez la frequence minimum pour ce range</tooltip>
+      <value>0</value>
+    </setting>
+    <setting name="Range_01_FreqMax" tagname="[Range_01_FreqMax]" readonly="false" datatype="string" label="Range_01_FreqMax" controltype="textbox">
+      <tooltip>Entrez la frequence maximum pour ce range</tooltip>
+      <value>15</value>
+    </setting>
+    <setting name="Range_01_signalbase" tagname="[Range_01_FreqMin]" readonly="false" datatype="string" label="Range_01_Facteur_signal base" controltype="textbox">
+      <tooltip>Entrez une valeur entre 0 et 99.9</tooltip>
+      <value>98.5</value>
+    </setting>
+    <setting name="Range_01_diminution" tagname="[Range_01_FreqMin]" readonly="false" datatype="string" label="Range_01_diminution" controltype="textbox">
+      <tooltip>Entrez une valeur entre 1 et 99.9</tooltip>
+      <value>8</value>
+    </setting>
+    <setting name="Range_02_FreqMin" tagname="[Range_02_FreqMin]" readonly="false" datatype="string" label="Range_02_FreqMin" controltype="textbox">
+      <tooltip>Entrez la frequence minimum pour ce range</tooltip>
+      <value>16</value>
+    </setting>
+    <setting name="Range_02_FreqMax" tagname="[Range_02_FreqMax]" readonly="false" datatype="string" label="Range_02_FreqMax" controltype="textbox">
+      <tooltip>Entrez la frequence maximum pour ce range</tooltip>
+      <value>44</value>
+    </setting>
+    <setting name="Range_02_signalbase" tagname="[Range_02_FreqMin]" readonly="false" datatype="string" label="Range_02_Facteur_signal base" controltype="textbox">
+      <tooltip>Entrez une valeur entre 0 et 99.9</tooltip>
+      <value>97</value>
+    </setting>
+    <setting name="Range_02_diminution" tagname="[Range_02_FreqMin]" readonly="false" datatype="string" label="Range_02_diminution" controltype="textbox">
+      <tooltip>Entrez une valeur entre 1 et 99.9</tooltip>
+      <value>2</value>
+    </setting>
+    <setting name="Range_03_FreqMin" tagname="[Range_03_FreqMin]" readonly="false" datatype="string" label="Range_03_FreqMin" controltype="textbox">
+      <tooltip>Entrez la frequence minimum pour ce range</tooltip>
+      <value>45</value>
+    </setting>
+    <setting name="Range_03_FreqMax" tagname="[Range_03_FreqMax]" readonly="false" datatype="string" label="Range_03_FreqMax" controltype="textbox">
+      <tooltip>Entrez la frequence maximum pour ce range</tooltip>
+      <value>55</value>
+    </setting>
+    <setting name="Range_03_signalbase" tagname="[Range_03_FreqMin]" readonly="false" datatype="string" label="Range_03_Facteur_signal base" controltype="textbox">
+      <tooltip>Entrez une valeur entre 0 et 99.9</tooltip>
+      <value>98.5</value>
+    </setting>
+    <setting name="Range_03_diminution" tagname="[Range_03_FreqMin]" readonly="false" datatype="string" label="Range_03_diminution" controltype="textbox">
+      <tooltip>Entrez une valeur entre 1 et 99.9</tooltip>
+      <value>4</value>
+    </setting>
+    <setting name="Range_04_FreqMin" tagname="[Range_04_FreqMin]" readonly="false" datatype="string" label="Range_04_FreqMin" controltype="textbox">
+      <tooltip>Entrez la frequence minimum pour ce range</tooltip>
+      <value>56</value>
+    </setting>
+    <setting name="Range_04_FreqMax" tagname="[Range_04_FreqMax]" readonly="false" datatype="string" label="Range_04_FreqMax" controltype="textbox">
+      <tooltip>Entrez la frequence maximum pour ce range</tooltip>
+      <value>140</value>
+    </setting>
+    <setting name="Range_04_signalbase" tagname="[Range_04_FreqMin]" readonly="false" datatype="string" label="Range_04_Facteur_signal base" controltype="textbox">
+      <tooltip>Entrez une valeur entre 0 et 99.9</tooltip>
+      <value>97.5</value>
+    </setting>
+    <setting name="Range_04_diminution" tagname="[Range_04_FreqMin]" readonly="false" datatype="string" label="Range_04_diminution" controltype="textbox">
+      <tooltip>Entrez une valeur entre 1 et 99.9</tooltip>
+      <value>1</value>
+    </setting>
+    <setting name="Range_05_FreqMin" tagname="[Range_05_FreqMin]" readonly="false" datatype="string" label="Range_05_FreqMin" controltype="textbox">
+      <tooltip>Entrez la frequence minimum pour ce range</tooltip>
+      <value>141</value>
+    </setting>
+    <setting name="Range_05_FreqMax" tagname="[Range_05_FreqMax]" readonly="false" datatype="string" label="Range_05_FreqMax" controltype="textbox">
+      <tooltip>Entrez la frequence maximum pour ce range</tooltip>
+      <value>854</value>
+    </setting>
+    <setting name="Range_05_signalbase" tagname="[Range_05_FreqMin]" readonly="false" datatype="string" label="Range_05_Facteur_signal base" controltype="textbox">
+      <tooltip>Entrez une valeur entre 0 et 99.9</tooltip>
+      <value>96.5</value>
+    </setting>
+    <setting name="Range_05_diminution" tagname="[Range_05_FreqMin]" readonly="false" datatype="string" label="Range_05_diminution" controltype="textbox">
+      <tooltip>Entrez une valeur entre 1 et 99.9</tooltip>
+      <value>1</value>
+    </setting>
+    <setting name="Range_06_FreqMin" tagname="[Range_06_FreqMin]" readonly="false" datatype="string" label="Range_06_FreqMin" controltype="textbox">
+      <tooltip>Entrez la frequence minimum pour ce range</tooltip>
+      <value>855</value>
+    </setting>
+    <setting name="Range_06_FreqMax" tagname="[Range_06_FreqMax]" readonly="false" datatype="string" label="Range_06_FreqMax" controltype="textbox">
+      <tooltip>Entrez la frequence maximum pour ce range</tooltip>
+      <value>1520</value>
+    </setting>
+    <setting name="Range_06_signalbase" tagname="[Range_06_FreqMin]" readonly="false" datatype="string" label="Range_06_Facteur_signal base" controltype="textbox">
+      <tooltip>Entrez une valeur entre 0 et 99.9</tooltip>
+      <value>96</value>
+    </setting>
+    <setting name="Range_06_diminution" tagname="[Range_06_FreqMin]" readonly="false" datatype="string" label="Range_06_diminution" controltype="textbox">
+      <tooltip>Entrez une valeur entre 1 et 99.9</tooltip>
+      <value>1</value>
+    </setting>
+    <setting name="Range_07_FreqMin" tagname="[Range_07_FreqMin]" readonly="false" datatype="string" label="Range_07_FreqMin" controltype="textbox">
+      <tooltip>Entrez la frequence minimum pour ce range</tooltip>
+      <value>1521</value>
+    </setting>
+    <setting name="Range_07_FreqMax" tagname="[Range_07_FreqMax]" readonly="false" datatype="string" label="Range_07_FreqMax" controltype="textbox">
+      <tooltip>Entrez la frequence maximum pour ce range</tooltip>
+      <value>3000</value>
+    </setting>
+    <setting name="Range_07_signalbase" tagname="[Range_07_FreqMin]" readonly="false" datatype="string" label="Range_07_Facteur_signal base" controltype="textbox">
+      <tooltip>Entrez une valeur entre 0 et 99.9</tooltip>
+      <value>96</value>
+    </setting>
+    <setting name="Range_07_diminution" tagname="[Range_07_FreqMin]" readonly="false" datatype="string" label="Range_07_diminution" controltype="textbox">
+      <tooltip>Entrez une valeur entre 1 et 99.9</tooltip>
+      <value>1.2</value>
+    </setting>
+    <setting name="Range_08_FreqMin" tagname="[Range_08_FreqMin]" readonly="false" datatype="string" label="Range_08_FreqMin" controltype="textbox">
+      <tooltip>Entrez la frequence minimum pour ce range</tooltip>
+      <value>3001</value>
+    </setting>
+    <setting name="Range_08_FreqMax" tagname="[Range_08_FreqMax]" readonly="false" datatype="string" label="Range_08_FreqMax" controltype="textbox">
+      <tooltip>Entrez la frequence maximum pour ce range</tooltip>
+      <value>6000</value>
+    </setting>
+    <setting name="Range_08_signalbase" tagname="[Range_08_FreqMin]" readonly="false" datatype="string" label="Range_08_Facteur_signal base" controltype="textbox">
+      <tooltip>Entrez une valeur entre 0 et 99.9</tooltip>
+      <value>96</value>
+    </setting>
+    <setting name="Range_08_diminution" tagname="[Range_08_FreqMin]" readonly="false" datatype="string" label="Range_08_diminution" controltype="textbox">
+      <tooltip>Entrez une valeur entre 1 et 99.9</tooltip>
+      <value>2</value>
+    </setting>
+    <setting name="Range_09_FreqMin" tagname="[Range_09_FreqMin]" readonly="false" datatype="string" label="Range_09_FreqMin" controltype="textbox">
+      <tooltip>Entrez la frequence minimum pour ce range</tooltip>
+      <value>6001</value>
+    </setting>
+    <setting name="Range_09_FreqMax" tagname="[Range_09_FreqMax]" readonly="false" datatype="string" label="Range_09_FreqMax" controltype="textbox">
+      <tooltip>Entrez la frequence maximum pour ce range</tooltip>
+      <value>12000</value>
+    </setting>
+    <setting name="Range_09_signalbase" tagname="[Range_09_FreqMin]" readonly="false" datatype="string" label="Range_09_Facteur_signal base" controltype="textbox">
+      <tooltip>Entrez une valeur entre 0 et 99.9</tooltip>
+      <value>95</value>
+    </setting>
+    <setting name="Range_09_diminution" tagname="[Range_09_FreqMin]" readonly="false" datatype="string" label="Range_09_diminution" controltype="textbox">
+      <tooltip>Entrez une valeur entre 1 et 99.9</tooltip>
+      <value>2.5</value>
+    </setting>
+    <setting name="Range_10_FreqMin" tagname="[Range_10_FreqMin]" readonly="false" datatype="string" label="Range_10_FreqMin" controltype="textbox">
+      <tooltip>Entrez la frequence minimum pour ce range</tooltip>
+      <value>12001</value>
+    </setting>
+    <setting name="Range_10_FreqMax" tagname="[Range_10_FreqMax]" readonly="false" datatype="string" label="Range_10_FreqMax" controltype="textbox">
+      <tooltip>Entrez la frequence maximum pour ce range</tooltip>
+      <value>16000</value>
+    </setting>
+    <setting name="Range_10_signalbase" tagname="[Range_10_FreqMin]" readonly="false" datatype="string" label="Range_10_Facteur_signal base" controltype="textbox">
+      <tooltip>Entrez une valeur entre 0 et 99.9</tooltip>
+      <value>95</value>
+    </setting>
+    <setting name="Range_10_diminution" tagname="[Range_10_FreqMin]" readonly="false" datatype="string" label="Range_10_diminution" controltype="textbox">
+      <tooltip>Entrez une valeur entre 1 et 99.9</tooltip>
+      <value>3</value>
+    </setting>
+    <setting name="Range_11_FreqMin" tagname="[Range_11_FreqMin]" readonly="false" datatype="string" label="Range_11_FreqMin" controltype="textbox">
+      <tooltip>Entrez la frequence minimum pour ce range</tooltip>
+      <value>16001</value>
+    </setting>
+    <setting name="Range_11_FreqMax" tagname="[Range_11_FreqMax]" readonly="false" datatype="string" label="Range_11_FreqMax" controltype="textbox">
+      <tooltip>Entrez la frequence maximum pour ce range</tooltip>
+      <value>20000</value>
+    </setting>
+    <setting name="Range_11_signalbase" tagname="[Range_11_FreqMin]" readonly="false" datatype="string" label="Range_11_Facteur_signal base" controltype="textbox">
+      <tooltip>Entrez une valeur entre 0 et 99.9</tooltip>
+      <value>95</value>
+    </setting>
+    <setting name="Range_11_diminution" tagname="[Range_11_FreqMin]" readonly="false" datatype="string" label="Range_11_diminution" controltype="textbox">
+      <tooltip>Entrez une valeur entre 1 et 99.9</tooltip>
+      <value>4.5</value>
+    </setting>
+    <setting name="Range_12_FreqMin" tagname="[Range_12_FreqMin]" readonly="false" datatype="string" label="Range_12_FreqMin" controltype="textbox">
+      <tooltip>Entrez la frequence minimum pour ce range</tooltip>
+      <value>20001</value>
+    </setting>
+    <setting name="Range_12_FreqMax" tagname="[Range_12_FreqMax]" readonly="false" datatype="string" label="Range_12_FreqMax" controltype="textbox">
+      <tooltip>Entrez la frequence maximum pour ce range</tooltip>
+      <value>24000</value>
+    </setting>
+    <setting name="Range_12_signalbase" tagname="[Range_12_FreqMin]" readonly="false" datatype="string" label="Range_12_Facteur_signal base" controltype="textbox">
+      <tooltip>Entrez une valeur entre 0 et 99.9</tooltip>
+      <value>95</value>
+    </setting>
+    <setting name="Range_12_diminution" tagname="[Range_12_FreqMin]" readonly="false" datatype="string" label="Range_12_diminution" controltype="textbox">
+      <tooltip>Entrez une valeur entre 1 et 99.9</tooltip>
+      <value>5.5</value>
+    </setting>
+  </section>
+</settings>

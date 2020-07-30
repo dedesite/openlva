@@ -1,0 +1,858 @@
+FreqPresent01;#FF009B86;100;20;#9966FF;lobe pariétal;confiance dans la vie / gratitude / connexion aux plans supérieurs / langage symbolique ;1000
+FreqPresent01;#FF009B86;90;18;#92D050;D9;calme intérieur / tempérer sa colère ;530
+FreqPresent01;#FF009B86;90;18;#333399;épiphyse;vivre l'instant présent / adaptation / bonnes perceptions / capacité de synthèse ;910
+FreqPresent01;#FF009B86;75;15;#00FF99;poumon;capacité à calmer les tensions et les conflits ;630
+FreqPresent01;#FF009B86;70;14;#FFFF00;estomac;satisfaction / sentiment de sécurité et de plénitude / capacité à se réconcilier;380
+FreqPresent01;#FF00AEA7;65;13;#990033;arrière du genou;laisser passer l'énergie / être fluide / en paix avec ses parents ou ses enfants ;150
+FreqPresent01;#FF00AEA7;65;13;#0070C0;nez;confiance naturelle dans la vie / bonne intuition ;840
+FreqPresent01;#FF00AEA7;60;12;#FFFF00;L4;se sentir soutenu / respecté / en sécurité ;410
+FreqPresent01;#FF00AEA7;60;12;#333399;lobe temporal;calme émotionnel / sérénité;990
+FreqPresent01;#FF00AEA7;55;11;#000000;malléole;se sentir soutenu / avoir une direction dans la vie ;90
+FreqPresent02;#FFDD5340;100;20;#C65911;tibia/péroné;générer des tensions vis à vis des autres;110
+FreqPresent02;#FFDD5340;75;15;#9966FF;corps calleux;aimer les sensations fortes / trop sentir dans son corps;1010
+FreqPresent02;#FFDD5340;75;15;#000000;cou-de-pied;faire autrement que les autres / ne pas être avec les autres;80
+FreqPresent02;#FFDD5340;75;15;#000000;astragale;envie de fuir / de se défouler pour décompresser;70
+FreqPresent02;#FFE57A62;65;13;#333399;lobe occipital;fuite en avant / hyperactivité / parer au plus pressé / être dans l'illusion ou la fantaisie;900
+FreqPresent02;#FFE57A62;60;12;#0070C0;C2;questionnement pour la suite / serrer les dents;870
+FreqPresent02;#FFE57A62;60;12;#00B050;cœur/nœud septal;se mettre ou subir une pression excessive / se sentir agressé / devoir lutter;600
+FreqPresent02;#FFE57A62;60;12;#00B050;D6;égo fort / contrariété / irrespect / rabaisser les autres;590
+FreqPresent02;#FFE57A62;50;10;#00CCFF;C7;conflit / tenir tête / vouloir tout décider / avoir le dernier mot;720
+FreqPresent02;#FFE57A62;50;10;#00B050;D7;égo fort / contrariété / perfectionnisme;580
+FreqPresent03;#FF1B79B0;100;20;#C65911;tibia/péroné;sentiment de subir / se sentir dévalorisé ou impuissant;110
+FreqPresent03;#FF1B79B0;100;20;#333399;tempe;envie de décompresser / refus du changement;930
+FreqPresent03;#FF7195C1;50;10;#92D050;surrénales;se sentir victime / être stressé / vivre dans la peur ;490
+FreqPresent03;#FF7195C1;45;9;#9966FF;corps calleux;manque de cohérence entre la tête et le corps / ne pas vouloir sentir son corps;1010
+FreqPresent03;#FF7195C1;40;8;#333399;hypophyse;ne pas choisir / passivité / générer des peurs / peur de l'inconnu / négligence;970
+FreqPresent03;#FF7195C1;35;7;#00CCFF;thyroïde;non-dits / renoncer / ne pas accepter le vécu / nostalgie / manque de protection / secret de famille;740
+FreqPresent03;#FFB3CADF;30;6;#000000;cou-de-pied;solitude imposée ou mal vécue / empêchement d’avancer;80
+FreqPresent03;#FFB3CADF;30;6;#0070C0;menton;manque de volonté / cesser de résister / apathie / suivre;780
+FreqPresent03;#FFB3CADF;25;5;#00B050;cœur/nœud septal;moins se mettre la pression;600
+FreqPresent03;#FFB3CADF;25;5;#333399;lobe temporal;contrôler ou réprimer les émotions / mémoire courte;990
+FreqPresent04;#FFED9E52;50;10;#FF00FF;lobe préfrontal;besoin de ne pas se limiter / besoin de voir plus grand / besoin de penser autrement / besoin d'être soi-même ;1030
+FreqPresent04;#FFF4C58F;25;5;#9966FF;lobe pariétal;besoin de se connecter à plus haut / aimer percevoir par le corps / aimer la symbolique ;1000
+FreqPresent04;#FFF4C58F;20;4;#0070C0;bouche/langue;besoin de s'ouvrir à l'environnement ou aux autres / besoin de s'ouvrir aux plaisirs de la vie ;800
+FreqPresent04;#FFF4C58F;20;4;#00B050;diaphragme;besoin de garder son énergie pour quelque chose d'autre / besoin de contenir ses émotions ;550
+FreqPresent04;#FFF4C58F;20;4;#FFC000;utérus/avant-bras;besoin d'aller de l'avant / de concrétiser / besoin de réaliser son potentiel ou ses projets ;270
+FreqPresent04;#FFF4C58F;15;3;#00CCFF;C7;besoin de temps / besoin d'écouter son corps ;720
+FreqPresent04;#FFF4C58F;15;3;#00FF99;thymus;besoin de se protéger de l'environnement ;640
+FreqPresent04;#FFF4C58F;15;3;#FFC000;prostate/poignet;besoin d'aller de l'avant / besoin de concrétiser / besoin de réaliser son potentiel ou ses projets ;240
+FreqPresent04;#FFF4C58F;15;3;#990033;ligaments croisés;besoin de stabilité / besoin de sécurité / d'assumer / besoins accrus en tant que parent;130
+FreqPresent04;#FFF4C58F;10;2;#00FF99;poumon;besoin de se sentir vivant / besoin d'être libre / besoin d'espace ;630
+FreqPresent05;#FF009B86;90;18;#92D050;D9;calme intérieur / tempérer sa colère ;530
+FreqPresent05;#FF009B86;75;15;#00FF99;poumon;capacité à calmer les tensions et les conflits ;630
+FreqPresent05;#FF009B86;70;14;#FFFF00;estomac;satisfaction / sentiment de sécurité et de plénitude / capacité à se réconcilier;380
+FreqPresent05;#FF00AEA7;65;13;#0070C0;nez;confiance naturelle dans la vie / bonne intuition ;840
+FreqPresent05;#FF00AEA7;60;12;#FFFF00;L4;se sentir soutenu / respecté / en sécurité ;410
+FreqPresent05;#FF00AEA7;60;12;#333399;lobe temporal;calme émotionnel / sérénité;990
+FreqPresent05;#FF00AEA7;55;11;#00B050;poitrine;être à sa juste place / liberté d'engagement / résilience émotionnelle / générosité / altruisme;540
+FreqPresent05;#FF00AEA7;55;11;#00FF99;œsophage/trachée;grandir par les expériences / être un pionnier / laisser passer les émotions / adaptation;710
+FreqPresent05;#FF00AEA7;50;10;#FFC000;S1;se laisser porter par la vie / prendre ce qui vient / avoir une base solide / sexualité équilibrée;330
+FreqPresent05;#FF00AEA7;50;10;#FFFF00;ovaire/bras;créativité équilibrée ;340
+FreqPresent06;#FF6FC0BD;25;5;#00B050;cœur/nœud septal;être de bonne humeur / joie ;600
+FreqPresent06;#FF6FC0BD;15;3;#00B050;D8;diminuer les tensions / vivre l'harmonie / le bien-être / tendresse envers soi ;570
+FreqPresent06;#FF6FC0BD;5;1;#FF00FF;lobe préfrontal;lâcher le contrôle mental / s'adapter / être soi-même en toute circonstance ;1030
+FreqPresent07;#FFDD5340;100;20;#C65911;tibia/péroné;générer des tensions vis à vis des autres;110
+FreqPresent07;#FFE57A62;60;12;#00B050;D6;égo fort / contrariété / irrespect / rabaisser les autres;590
+FreqPresent07;#FFE57A62;50;10;#00B050;D7;égo fort / contrariété / perfectionnisme;580
+FreqPresent07;#FFE57A62;40;8;#333399;cervelet;stress / agitation physique / besoin de bouger;890
+FreqPresent07;#FFE57A62;40;8;#00CCFF;larynx;devoir se battre pour plus de liberté / refuser d'écouter son cœur / déni;750
+FreqPresent07;#FFE57A62;40;8;#00FF99;D1;se sentir envahi / besoin de respirer / se battre pour plus d'espace pour soi;690
+FreqPresent07;#FFE57A62;40;8;#990033;cuisse;trop responsable / trop d'obligations;160
+FreqPresent07;#FFE57A62;35;7;#333399;lobe temporal;agitation émotionnelle / émotivité / se sentir agressé;990
+FreqPresent07;#FFE57A62;35;7;#333399;amygdale (cerveau);peur de l’environnement / anxiété en public / fortes réactions émotionnelles;920
+FreqPresent07;#FFE0A38B;30;6;#0070C0;menton;stress / peurs / insécurité / tenir tête / vouloir tout diriger;780
+FreqPresent08;#FFDD5340;75;15;#9966FF;corps calleux;aimer les sensations fortes / trop sentir dans son corps;1010
+FreqPresent08;#FFDD5340;75;15;#000000;astragale;envie de fuir / de se défouler pour décompresser;70
+FreqPresent08;#FFE57A62;60;12;#00B050;cœur/nœud septal;se mettre ou subir une pression excessive / se sentir agressé / devoir lutter;600
+FreqPresent08;#FFE57A62;40;8;#9966FF;thalamus;hyperactivité / émotivité excessive / impulsif / réactif;1020
+FreqPresent08;#FFE0A38B;20;4;#00B050;D8;stress / agitation / envie de bouger / nervosité / devoir régler une situation (familiale ou professionnelle);570
+FreqPresent08;#FFE0A38B;10;2;#333399;sourcil;méfiance / devoir régler des problèmes / focalisation sur les problèmes;950
+FreqPresent09;#FFF4C58F;25;5;#9966FF;lobe pariétal;besoin de se connecter à plus haut / aimer percevoir par le corps / aimer la symbolique ;1000
+FreqPresent09;#FFF4C58F;20;4;#00B050;diaphragme;besoin de garder son énergie pour quelque chose d'autre / besoin de contenir ses émotions ;550
+FreqPresent09;#FFF4C58F;20;4;#FFC000;utérus/avant-bras;besoin d'aller de l'avant / de concrétiser / besoin de réaliser son potentiel ou ses projets ;270
+FreqPresent09;#FFF4C58F;15;3;#333399;lobe temporal;besoin d'exprimer certaines émotions / ne pas contrôler ses émotions;990
+FreqPresent09;#FFF4C58F;15;3;#00CCFF;C7;besoin de temps / besoin d'écouter son corps ;720
+FreqPresent09;#FFF4C58F;15;3;#00FF99;thymus;besoin de se protéger de l'environnement ;640
+FreqPresent09;#FFF4C58F;15;3;#FFC000;prostate/poignet;besoin d'aller de l'avant / besoin de concrétiser / besoin de réaliser son potentiel ou ses projets ;240
+FreqPresent09;#FFF4C58F;15;3;#990033;ligaments croisés;besoin de stabilité / besoin de sécurité / d'assumer / besoins accrus en tant que parent;130
+FreqPresent09;#FFF4C58F;10;2;#00FF99;poumon;besoin de se sentir vivant / besoin d'être libre / besoin d'espace ;630
+FreqPresent09;#FFF4C58F;10;2;#FFC000;côlon asc. et desc.;besoin de garder pour soi ses problèmes, les critiques ou les conflits non digérés;280
+FreqPresent10;#FFED9E52;50;10;#FF00FF;lobe préfrontal;besoin de ne pas se limiter / besoin de voir plus grand / besoin de penser autrement / besoin d'être soi-même ;1030
+FreqPresent10;#FFF4C58F;20;4;#0070C0;bouche/langue;besoin de s'ouvrir à l'environnement ou aux autres / besoin de s'ouvrir aux plaisirs de la vie ;800
+FreqPresent11;#FF1B79B0;100;20;#C65911;tibia/péroné;sentiment de subir / se sentir dévalorisé ou impuissant;110
+FreqPresent11;#FF7195C1;45;9;#9966FF;corps calleux;manque de cohérence entre la tête et le corps / ne pas vouloir sentir son corps;1010
+FreqPresent11;#FFB3CADF;30;6;#000000;cou-de-pied;solitude imposée ou mal vécue / empêchement d’avancer;80
+FreqPresent11;#FFB3CADF;25;5;#00B050;cœur/nœud septal;moins se mettre la pression;600
+FreqPresent11;#FFB3CADF;25;5;#FF00FF;fontanelle;détachement / pas d'attentes / déprime / père absent / idéal mis de côté;1060
+FreqPresent11;#FFB3CADF;15;3;#333399;cervelet;ne pas sentir son corps / maladresse;890
+FreqPresent11;#FFB3CADF;5;1;#00FF99;D1;se libérer d'un poids / se faire bouffer / vécu une séparation douloureuse;690
+FreqPresent12;#FF1B79B0;100;20;#333399;tempe;envie de décompresser / refus du changement;930
+FreqPresent12;#FF7195C1;50;10;#92D050;surrénales;se sentir victime / être stressé / vivre dans la peur ;490
+FreqPresent12;#FF7195C1;35;7;#00CCFF;thyroïde;non-dits / renoncer / ne pas accepter le vécu / nostalgie / manque de protection / secret de famille;740
+FreqPresent12;#FFB3CADF;30;6;#0070C0;menton;manque de volonté / cesser de résister / apathie / suivre;780
+FreqPresent12;#FFB3CADF;25;5;#333399;lobe temporal;contrôler ou réprimer les émotions / mémoire courte;990
+FreqPresent12;#FFB3CADF;25;5;#FF00FF;cortex moteur;peur du changement / rêves personnels abandonnés / idéal mis de côté / se fermer aux vibrations des autres / isolement;1040
+FreqPresent12;#FFB3CADF;20;4;#FFC000;côlon asc. et desc.;tout garder à l'intérieur / dépendant des autres / subir des critiques / peur des conflits;280
+
+FreqFutur01;#FF009B86;100;20;#0070C0;I;recevoir ce dont on a besoin / connexion à tout / foi / silence;1450
+FreqFutur01;#FF009B86;70;14;#9966FF;I;écoute du cœur / être un leader charismatique;1520
+FreqFutur01;#FF00AEA7;45;9;#000000;II;savoir observer / décoder et transformer les informations dans le corps ou la matière;1570
+FreqFutur01;#FF00AEA7;35;7;#FF3300;I;visionnaire / vision objective sur la réalité / capacité à observer des synchronicités;1140
+FreqFutur01;#FF6FC0BD;10;2;#FF00FF;III;ne pas se prendre au sérieux / obligé de rien / libération profonde;2150
+FreqFutur02;#FFDD5340;100;20;#00FF99;I;se sentir agressé / envahi / oppressé;1340
+FreqFutur02;#FFDD5340;85;17;#00B050;I;extraversion / besoin de se décharger sur les autres ou de se défouler;1300
+FreqFutur02;#FFE57A62;55;11;#00CCFF;III;refus d'utiliser cette incarnation pour se transformer / refus d'évoluer;2070
+FreqFutur02;#FFE57A62;50;10;#00B050;I;vouloir tout faire soi-même;1320
+FreqFutur02;#FFE57A62;35;7;#990033;III;refus de toute autorité / stress de devoir passer à un acte concret;1910
+FreqFutur02;#FFE0A38B;30;6;#9966FF;I;résistance aux expériences vécues / ne pas en faire profiter le corps;1500
+FreqFutur03;#FF1B79B0;100;20;#990033;I;attachement à la matière ou à son corps / aimer ce qui ne change pas;1120
+FreqFutur03;#FF1B79B0;95;19;#FFFF00;I;laisser faire / être influençable / subir un rapport de force / ne pas jouer son rôle;1270
+FreqFutur03;#FF1B79B0;75;15;#92D050;I;offrir de la place à d’autres énergies plus douces / moins bouger / se calmer;1290
+FreqFutur03;#FF7195C1;65;13;#FFFF00;I;absence de participation / désintérêt pour certaines choses / vivre par procuration;1220
+FreqFutur03;#FF7195C1;65;13;#0070C0;I;être en retrait / en observation et à l'écoute;1450
+FreqFutur03;#FF7195C1;55;11;#000000;III;manque ou perte d'enthousiasme;1870
+FreqFutur04;#FFE57E26;100;20;#C65911;I;besoin d'exprimer son potentiel de céativité;1100
+FreqFutur04;#FFE57E26;80;16;#9966FF;I;besoin d'intégrer les expériences vécues dans son corps;1500
+FreqFutur04;#FFED9E52;65;13;#FFFF00;I;besoin de gérer des informations / imaginaire et claire-information actifs / mental clair;1250
+FreqFutur04;#FFED9E52;60;12;#FFFF00;I;besoin d'affirmer son autorité;1260
+FreqFutur04;#FFED9E52;45;9;#FF3300;I;besoin de voir la suite / besoin de digérer le passé;1140
+FreqFutur04;#FFF4C58F;25;5;#FFC000;II;besoin d'agir de manière indépendante;1660
+FreqFutur05;#FF009B86;100;20;#00FF99;I;être attentif et vigilant;1340
+FreqFutur05;#FF6FC0BD;30;6;#00B050;I;savoir respecter ses limites / savoir déléguer;1320
+FreqFutur06;#FFDD5340;85;17;#00B050;I;extraversion / besoin de se décharger sur les autres ou de se défouler;1300
+FreqFutur06;#FFE57A62;50;10;#00B050;I;vouloir tout faire soi-même;1320
+FreqFutur06;#FFDD5340;100;20;#00FF99;I;se sentir agressé / envahi / oppressé;1340
+FreqFutur06;#FFE0A38B;30;6;#9966FF;I;résistance aux expériences vécues / ne pas en faire profiter le corps;1500
+FreqFutur06;#FFE57A62;35;7;#990033;III;refus de toute autorité / stress de devoir passer à un acte concret;1910
+FreqFutur06;#FFE57A62;55;11;#00CCFF;III;refus d'utiliser cette incarnation pour se transformer / refus d'évoluer;2070
+FreqFutur07;#FF009B86;100;20;#0070C0;I;recevoir ce dont on a besoin / connexion à tout / foi / silence;1450
+FreqFutur07;#FF00AEA7;45;9;#000000;II;savoir observer / décoder et transformer les informations dans le corps ou la matière;1570
+FreqFutur07;#FF00AEA7;35;7;#FF3300;I;visionnaire / vision objective sur la réalité / capacité à observer des synchronicités;1140
+FreqFutur08;#FF009B86;100;20;#00FF99;I;être attentif et vigilant;1340
+FreqFutur08;#FF6FC0BD;30;6;#00B050;I;savoir respecter ses limites / savoir déléguer;1320
+FreqFutur08;#FF6FC0BD;10;2;#FF00FF;III;ne pas se prendre au sérieux / obligé de rien / libération profonde;2150
+FreqFutur09;#FFDD5340;85;17;#00B050;I;extraversion / besoin de se décharger sur les autres ou de se défouler;1300
+FreqFutur09;#FFE57A62;55;11;#00CCFF;III;refus d'utiliser cette incarnation pour se transformer / refus d'évoluer;2070
+FreqFutur09;#FFE57A62;35;7;#000000;II;résistance avant de passer à un autre palier de conscience / vouloir changer les autres;1570
+FreqFutur10;#FFDD5340;100;20;#00FF99;I;se sentir agressé / envahi / oppressé;1340
+FreqFutur10;#FFE57A62;50;10;#00B050;I;vouloir tout faire soi-même;1320
+FreqFutur10;#FFE0A38B;30;6;#9966FF;I;résistance aux expériences vécues / ne pas en faire profiter le corps;1500
+FreqFutur11;#FFE57E26;100;20;#C65911;I;besoin d'exprimer son potentiel de céativité;1100
+FreqFutur11;#FFE57E26;80;16;#9966FF;I;besoin d'intégrer les expériences vécues dans son corps;1500
+FreqFutur11;#FFED9E52;60;12;#FFFF00;I;besoin d'affirmer son autorité;1260
+FreqFutur11;#FFED9E52;45;9;#FF3300;I;besoin de voir la suite / besoin de digérer le passé;1140
+FreqFutur12;#FFF4C58F;25;5;#FFC000;II;besoin d'agir de manière indépendante;1660
+
+FreqProD01;#FF009B86;100;20;#00FF99;I;être attentif et vigilant;1340
+FreqProD01;#FF00AEA7;55;11;#9966FF;F;confiance dans la vie / gratitude / connexion aux plans supérieurs / langage symbolique ;1000
+FreqProD01;#FF6FC0BD;30;6;#00B050;I;savoir respecter ses limites / savoir déléguer;1320
+FreqProD01;#FF6FC0BD;25;5;#00B050;F;être de bonne humeur / joie ;600
+FreqProD01;#FF6FC0BD;25;5;#333399;F;vivre l'instant présent / adaptation / bonnes perceptions / capacité de synthèse ;910
+FreqProD01;#FF6FC0BD;20;4;#990033;F;laisser passer l'énergie / être fluide / en paix avec ses parents ou ses enfants ;150
+FreqProD01;#FF6FC0BD;20;4;#9966FF;I;écoute du cœur / être un leader charismatique;1520
+FreqProD01;#FF6FC0BD;15;3;#00B050;F;diminuer les tensions / vivre l'harmonie / le bien-être / tendresse envers soi ;570
+FreqProD01;#FF6FC0BD;15;3;#0070C0;F;voir ses priorités / avoir du recul / capacité à rire de soi;810
+FreqProD01;#FF6FC0BD;15;3;#FF00FF;F;bonne perception de son corps;1050
+FreqProD02;#FFDD5340;100;20;#C65911;F;générer des tensions vis à vis des autres;110
+FreqProD02;#FFDD5340;85;17;#00B050;I;extraversion / besoin de se décharger sur les autres ou de se défouler;1300
+FreqProD02;#FFE57A62;60;12;#00B050;F;égo fort / contrariété / irrespect / rabaisser les autres;590
+FreqProD02;#FFE57A62;55;11;#00CCFF;III;refus d'utiliser cette incarnation pour se transformer / refus d'évoluer;2070
+FreqProD02;#FFE57A62;55;11;#333399;F;fuite en avant / hyperactivité / parer au plus pressé / être dans l'illusion ou la fantaisie;900
+FreqProD02;#FFE57A62;50;10;#00B050;F;égo fort / contrariété / perfectionnisme;580
+FreqProD02;#FFE57A62;45;9;#FF0000;F;conflit avec les autres / subir une pression /  résister et souffrir;210
+FreqProD02;#FFE57A62;40;8;#333399;F;stress / agitation physique / besoin de bouger;890
+FreqProD02;#FFE57A62;40;8;#00CCFF;F;devoir se battre pour plus de liberté / refuser d'écouter son cœur / déni;750
+FreqProD02;#FFE57A62;40;8;#00FF99;F;se sentir envahi / besoin de respirer / se battre pour plus d'espace pour soi;690
+FreqProD03;#FF1B79B0;100;20;#C65911;F;sentiment de subir / se sentir dévalorisé ou impuissant;110
+FreqProD03;#FF1B79B0;95;19;#FFFF00;I;laisser faire / être influençable / subir un rapport de force / ne pas jouer son rôle;1270
+FreqProD03;#FF7195C1;65;13;#FFFF00;I;absence de participation / désintérêt pour certaines choses / vivre par procuration;1220
+FreqProD03;#FF7195C1;65;13;#0070C0;I;être en retrait / en observation et à l'écoute;1450
+FreqProD03;#FF7195C1;55;11;#000000;III;manque ou perte d'enthousiasme;1870
+FreqProD03;#FF7195C1;45;9;#9966FF;F;manque de cohérence entre la tête et le corps / ne pas vouloir sentir son corps;1010
+FreqProD03;#FFB3CADF;30;6;#000000;F;solitude imposée ou mal vécue / empêchement d’avancer;80
+FreqProD03;#FFB3CADF;25;5;#00B050;F;moins se mettre la pression;600
+FreqProD03;#FFB3CADF;25;5;#FF00FF;F;détachement / pas d'attentes / déprime / père absent / idéal mis de côté;1060
+FreqProD03;#FFB3CADF;15;3;#333399;F;ne pas sentir son corps / maladresse;890
+FreqProD04;#FFE57E26;100;20;#C65911;I;besoin d'exprimer son potentiel de céativité;1100
+FreqProD04;#FFE57E26;80;16;#9966FF;I;besoin d'intégrer les expériences vécues dans son corps;1500
+FreqProD04;#FFED9E52;65;13;#FFFF00;I;besoin de gérer des informations / imaginaire et claire-information actifs / mental clair;1250
+FreqProD04;#FFED9E52;60;12;#FFFF00;I;besoin d'affirmer son autorité;1260
+FreqProD04;#FFED9E52;45;9;#FF3300;I;besoin de voir la suite / besoin de digérer le passé;1140
+FreqProD04;#FFF4C58F;25;5;#9966FF;F;besoin de se connecter à plus haut / aimer percevoir par le corps / aimer la symbolique ;1000
+FreqProD04;#FFF4C58F;20;4;#00B050;F;besoin de garder son énergie pour quelque chose d'autre / besoin de contenir ses émotions ;550
+FreqProD04;#FFF4C58F;20;4;#FFC000;F;besoin d'aller de l'avant / de concrétiser / besoin de réaliser son potentiel ou ses projets ;270
+FreqProD04;#FFF4C58F;15;3;#333399;F;besoin d'exprimer certaines émotions / ne pas contrôler ses émotions;990
+FreqProD04;#FFF4C58F;15;3;#00CCFF;F;besoin de temps / besoin d'écouter son corps ;720
+FreqProG01;#FF009B86;100;20;#9966FF;F;confiance dans la vie / gratitude / connexion aux plans supérieurs / langage symbolique ;1000
+FreqProG01;#FF009B86;100;20;#0070C0;I;recevoir ce dont on a besoin / connexion à tout / foi / silence;1450
+FreqProG01;#FF009B86;90;18;#92D050;F;calme intérieur / tempérer sa colère ;530
+FreqProG01;#FF009B86;90;18;#333399;F;vivre l'instant présent / adaptation / bonnes perceptions / capacité de synthèse ;910
+FreqProG01;#FF009B86;75;15;#00FF99;F;capacité à calmer les tensions et les conflits ;630
+FreqProG01;#FF009B86;70;14;#FFFF00;F;satisfaction / sentiment de sécurité et de plénitude / capacité à se réconcilier;380
+FreqProG01;#FF009B86;70;14;#9966FF;I;écoute du cœur / être un leader charismatique;1520
+FreqProG01;#FF00AEA7;65;13;#990033;F;laisser passer l'énergie / être fluide / en paix avec ses parents ou ses enfants ;150
+FreqProG01;#FF00AEA7;65;13;#0070C0;F;confiance naturelle dans la vie / bonne intuition ;840
+FreqProG01;#FF00AEA7;60;12;#FFFF00;F;se sentir soutenu / respecté / en sécurité ;410
+FreqProG02;#FFDD5340;100;20;#00FF99;I;se sentir agressé / envahi / oppressé;1340
+FreqProG02;#FFDD5340;75;15;#9966FF;F;aimer les sensations fortes / trop sentir dans son corps;1010
+FreqProG02;#FFDD5340;75;15;#000000;F;faire autrement que les autres / ne pas être avec les autres;80
+FreqProG02;#FFDD5340;75;15;#000000;F;envie de fuir / de se défouler pour décompresser;70
+FreqProG02;#FFE57A62;65;13;#333399;F;fuite en avant / hyperactivité / parer au plus pressé / être dans l'illusion ou la fantaisie;900
+FreqProG02;#FFE57A62;60;12;#0070C0;F;questionnement pour la suite / serrer les dents;870
+FreqProG02;#FFE57A62;60;12;#00B050;F;se mettre ou subir une pression excessive / se sentir agressé / devoir lutter;600
+FreqProG02;#FFE57A62;50;10;#00B050;I;vouloir tout faire soi-même;1320
+FreqProG02;#FFE57A62;50;10;#00CCFF;F;conflit / tenir tête / vouloir tout décider / avoir le dernier mot;720
+FreqProG02;#FFE57A62;40;8;#9966FF;F;hyperactivité / émotivité excessive / impulsif / réactif;1020
+FreqProG03;#FF1B79B0;100;20;#333399;F;envie de décompresser / refus du changement;930
+FreqProG03;#FF1B79B0;100;20;#990033;I;attachement à la matière ou à son corps / aimer ce qui ne change pas;1120
+FreqProG03;#FF1B79B0;75;15;#92D050;I;offrir de la place à d’autres énergies plus douces / moins bouger / se calmer;1290
+FreqProG03;#FF7195C1;50;10;#92D050;F;se sentir victime / être stressé / vivre dans la peur ;490
+FreqProG03;#FF7195C1;40;8;#333399;F;ne pas choisir / passivité / générer des peurs / peur de l'inconnu / négligence;970
+FreqProG03;#FF7195C1;35;7;#00CCFF;F;non-dits / renoncer / ne pas accepter le vécu / nostalgie / manque de protection / secret de famille;740
+FreqProG03;#FFB3CADF;30;6;#0070C0;F;manque de volonté / cesser de résister / apathie / suivre;780
+FreqProG03;#FFB3CADF;25;5;#333399;F;contrôler ou réprimer les émotions / mémoire courte;990
+FreqProG03;#FFB3CADF;25;5;#FF00FF;F;peur du changement / rêves personnels abandonnés / idéal mis de côté / se fermer aux vibrations des autres / isolement;1040
+FreqProG03;#FFB3CADF;20;4;#FFC000;F;tout garder à l'intérieur / dépendant des autres / subir des critiques / peur des conflits;280
+FreqProG04;#FFED9E52;50;10;#FF00FF;F;besoin de ne pas se limiter / besoin de voir plus grand / besoin de penser autrement / besoin d'être soi-même ;1030
+FreqProG04;#FFED9E52;40;8;#FFFF00;I;besoin de gérer des informations / imaginaire et claire-information actifs / mental clair;1250
+FreqProG04;#FFF4C58F;25;5;#FFC000;II;besoin d'agir de manière indépendante;1660
+FreqProG04;#FFF4C58F;20;4;#0070C0;F;besoin de s'ouvrir à l'environnement ou aux autres / besoin de s'ouvrir aux plaisirs de la vie ;800
+
+FreqMemoireD01;#FF00AEA7;55;11;#9966FF;lobe pariétal;confiance dans la vie / gratitude / connexion aux plans supérieurs / langage symbolique ;1000
+FreqMemoireD01;#FF6FC0BD;25;5;#92D050;cœur/nœud septal;être de bonne humeur / joie ;600
+FreqMemoireD01;#FF6FC0BD;25;5;#333399;épiphyse;vivre l'instant présent / adaptation / bonnes perceptions / capacité de synthèse ;910
+FreqMemoireD01;#FF6FC0BD;20;4;#990033;arrière du genou;laisser passer l'énergie / être fluide / en paix avec ses parents ou ses enfants ;150
+FreqMemoireD01;#FF6FC0BD;15;3;#92D050;D8;diminuer les tensions / vivre l'harmonie / le bien-être / tendresse envers soi ;570
+FreqMemoireD01;#FF6FC0BD;15;3;#0070C0;C4;voir ses priorités / avoir du recul / capacité à rire de soi;810
+FreqMemoireD01;#FF6FC0BD;15;3;#FF00FF;cortex somato-sensitif;bonne perception de son corps;1050
+FreqMemoireD01;#FF6FC0BD;10;2;#000000;malléole;se sentir soutenu / avoir une direction dans la vie ;90
+FreqMemoireD01;#FF6FC0BD;10;2;#00CCFF;ganglions;se sentir en sécurité / se sentir en confiance / se sentir protégé ;770
+FreqMemoireD01;#FF6FC0BD;10;2;#333399;hypophyse;calme mental / capacité de discernement / pensées structurées / capacité d'analyse ;970
+FreqMemoireD02;#FFDD5340;100;20;#C65911;tibia/péroné;générer des tensions vis à vis des autres;110
+FreqMemoireD02;#FFE57A62;60;12;#92D050;D6;égo fort / contrariété / irrespect / rabaisser les autres;590
+FreqMemoireD02;#FFE57A62;55;11;#333399;lobe occipital;fuite en avant / hyperactivité / parer au plus pressé / être dans l'illusion ou la fantaisie;900
+FreqMemoireD02;#FFE57A62;50;10;#92D050;D7;égo fort / contrariété / perfectionnisme;580
+FreqMemoireD02;#FFE57A62;45;9;#FF0000;coccyx3;conflit avec les autres / subir une pression /  résister et souffrir;210
+FreqMemoireD02;#FFE57A62;40;8;#333399;cervelet;stress / agitation physique / besoin de bouger;890
+FreqMemoireD02;#FFE57A62;40;8;#00CCFF;larynx;devoir se battre pour plus de liberté / refuser d'écouter son cœur / déni;750
+FreqMemoireD02;#FFE57A62;40;8;#00FF99;D1;se sentir envahi / besoin de respirer / se battre pour plus d'espace pour soi;690
+FreqMemoireD02;#FFE57A62;40;8;#FF0000;coccyx2;devoir aller de l'avant / envie de concrétiser;220
+FreqMemoireD02;#FFE57A62;40;8;#FF0000;côlon sigmoïde;problème d’argent / licenciement / deuil non fait d'un proche;200
+FreqMemoireD03;#FF1B79B0;100;20;#C65911;tibia/péroné;sentiment de subir / se sentir dévalorisé ou impuissant;110
+FreqMemoireD03;#FF7195C1;45;9;#9966FF;corps calleux;manque de cohérence entre la tête et le corps / ne pas vouloir sentir son corps;1010
+FreqMemoireD03;#FFB3CADF;30;6;#000000;cou-de-pied;solitude imposée ou mal vécue / empêchement d’avancer;80
+FreqMemoireD03;#FFB3CADF;25;5;#92D050;cœur/nœud septal;moins se mettre la pression;600
+FreqMemoireD03;#FFB3CADF;25;5;#FF00FF;fontanelle;détachement / pas d'attentes / déprime / père absent / idéal mis de côté;1060
+FreqMemoireD03;#FFB3CADF;15;3;#333399;cervelet;ne pas sentir son corps / maladresse;890
+FreqMemoireD03;#FFB3CADF;10;2;#00CCFF;larynx;silence / non-dits / se sentir étouffé / envahi / pas libre / plein d'obligations;750
+FreqMemoireD03;#FFB3CADF;10;2;#333399;hypophyse;ne pas choisir / passivité / générer des peurs / peur de l'inconnu / négligence;970
+FreqMemoireD03;#FFB3CADF;5;1;#00FF99;D1;se libérer d'un poids / se faire bouffer / vécu une séparation douloureuse;690
+FreqMemoireD04;#FFF4C58F;25;5;#9966FF;lobe pariétal;besoin de se connecter à plus haut / aimer percevoir par le corps / aimer la symbolique ;1000
+FreqMemoireD04;#FFF4C58F;20;4;#92D050;diaphragme;besoin de garder son énergie pour quelque chose d'autre / besoin de contenir ses émotions ;550
+FreqMemoireD04;#FFF4C58F;20;4;#FFC000;utérus/avant-bras;besoin d'aller de l'avant / de concrétiser / besoin de réaliser son potentiel ou ses projets ;270
+FreqMemoireD04;#FFF4C58F;15;3;#333399;lobe temporal;besoin d'exprimer certaines émotions / ne pas contrôler ses émotions;990
+FreqMemoireD04;#FFF4C58F;15;3;#00CCFF;C7;besoin de temps / besoin d'écouter son corps ;720
+FreqMemoireD04;#FFF4C58F;15;3;#00FF99;thymus;besoin de se protéger de l'environnement ;640
+FreqMemoireD04;#FFF4C58F;15;3;#FFC000;prostate/poignet;besoin d'aller de l'avant / besoin de concrétiser / besoin de réaliser son potentiel ou ses projets ;240
+FreqMemoireD04;#FFF4C58F;15;3;#990033;ligaments croisés;besoin de stabilité / besoin de sécurité / d'assumer / besoins accrus en tant que parent;130
+FreqMemoireD04;#FFF4C58F;10;2;#00FF99;poumon;besoin de se sentir vivant / besoin d'être libre / besoin d'espace ;630
+FreqMemoireD04;#FFF4C58F;10;2;#FFC000;côlon asc.t et desc.;besoin de garder pour soi ses problèmes, les critiques ou les conflits non digérés;280
+FreqMemoireG01;#FF009B86;100;20;#9966FF;lobe pariétal;confiance dans la vie / gratitude / connexion aux plans supérieurs / langage symbolique ;1000
+FreqMemoireG01;#FF009B86;90;18;#00B050;D9;calme intérieur / tempérer sa colère ;530
+FreqMemoireG01;#FF009B86;90;18;#333399;épiphyse;vivre l'instant présent / adaptation / bonnes perceptions / capacité de synthèse ;910
+FreqMemoireG01;#FF009B86;75;15;#00FF99;poumon;capacité à calmer les tensions et les conflits ;630
+FreqMemoireG01;#FF009B86;70;14;#FFFF00;estomac;satisfaction / sentiment de sécurité et de plénitude / capacité à se réconcilier;380
+FreqMemoireG01;#FF00AEA7;65;13;#990033;arrière du genou;laisser passer l'énergie / être fluide / en paix avec ses parents ou ses enfants ;150
+FreqMemoireG01;#FF00AEA7;65;13;#0070C0;nez;confiance naturelle dans la vie / bonne intuition ;840
+FreqMemoireG01;#FF00AEA7;60;12;#FFFF00;L4;se sentir soutenu / respecté / en sécurité ;410
+FreqMemoireG01;#FF00AEA7;60;12;#333399;lobe temporal;calme émotionnel / sérénité;990
+FreqMemoireG01;#FF00AEA7;55;11;#000000;malléole;se sentir soutenu / avoir une direction dans la vie ;90
+FreqMemoireG02;#FFDD5340;75;15;#9966FF;corps calleux;aimer les sensations fortes / trop sentir dans son corps;1010
+FreqMemoireG02;#FFDD5340;75;15;#000000;cou-de-pied;faire autrement que les autres / ne pas être avec les autres;80
+FreqMemoireG02;#FFDD5340;75;15;#000000;astragale;envie de fuir / de se défouler pour décompresser;70
+FreqMemoireG02;#FFE57A62;65;13;#333399;lobe occipital;fuite en avant / hyperactivité / parer au plus pressé / être dans l'illusion ou la fantaisie;900
+FreqMemoireG02;#FFE57A62;60;12;#0070C0;C2;questionnement pour la suite / serrer les dents;870
+FreqMemoireG02;#FFE57A62;60;12;#92D050;cœur/nœud septal;se mettre ou subir une pression excessive / se sentir agressé / devoir lutter;600
+FreqMemoireG02;#FFE57A62;50;10;#00CCFF;C7;conflit / tenir tête / vouloir tout décider / avoir le dernier mot;720
+FreqMemoireG02;#FFE57A62;40;8;#9966FF;thalamus;hyperactivité / émotivité excessive / impulsif / réactif;1020
+FreqMemoireG02;#FFE57A62;40;8;#FF0000;coccyx3;conflit avec les autres / subir une pression /  résister et souffrir;210
+FreqMemoireG02;#FFE57A62;35;7;#FF0000;coccyx2;devoir aller de l'avant / envie de concrétiser;220
+FreqMemoireG03;#FF1B79B0;100;20;#333399;tempe;envie de décompresser / refus du changement;930
+FreqMemoireG03;#FF7195C1;50;10;#00B050;surrénales;se sentir victime / être stressé / vivre dans la peur ;490
+FreqMemoireG03;#FF7195C1;40;8;#333399;hypophyse;ne pas choisir / passivité / générer des peurs / peur de l'inconnu / négligence;970
+FreqMemoireG03;#FF7195C1;35;7;#00CCFF;thyroïde;non-dits / renoncer / ne pas accepter le vécu / nostalgie / manque de protection / secret de famille;740
+FreqMemoireG03;#FFB3CADF;30;6;#0070C0;menton;manque de volonté / cesser de résister / apathie / suivre;780
+FreqMemoireG03;#FFB3CADF;25;5;#333399;lobe temporal;contrôler ou réprimer les émotions / mémoire courte;990
+FreqMemoireG03;#FFB3CADF;25;5;#FF00FF;cortex moteur;peur du changement / rêves personnels abandonnés / idéal mis de côté / se fermer aux vibrations des autres / isolement;1040
+FreqMemoireG03;#FFB3CADF;20;4;#FFC000;côlon asc.t et desc.;tout garder à l'intérieur / dépendant des autres / subir des critiques / peur des conflits;280
+FreqMemoireG03;#FFB3CADF;20;4;#00CCFF;larynx;silence / non-dits / se sentir étouffé / envahi / pas libre / plein d'obligations;750
+FreqMemoireG04;#FFED9E52;50;10;#FF00FF;lobe préfrontal;besoin de ne pas se limiter / besoin de voir plus grand / besoin de penser autrement / besoin d'être soi-même ;1030
+FreqMemoireG04;#FFF4C58F;20;4;#0070C0;bouche/langue;besoin de s'ouvrir à l'environnement ou aux autres / besoin de s'ouvrir aux plaisirs de la vie ;800
+
+CouleurGSelection1;26;#FFF4C58F00
+CouleurDSelection1;26;#FFF4C58F00
+CouleurGSelection1;25;#FFF4C58F00
+CouleurDSelection1;25;#FFF4C58F00
+CouleurGSelection1;24;#FFF4C58F00
+CouleurDSelection1;24;#FFF4C58F00
+CouleurGSelection1;23;#FFF4C58F00
+CouleurDSelection1;23;#FFF4C58F255
+CouleurGSelection1;22;#FFF4C58F00
+CouleurDSelection1;22;#FFF4C58F00
+CouleurGSelection1;21;#FFE57E268016
+CouleurDSelection1;21;#FFF4C58F00
+CouleurGSelection1;20;#FFF4C58F00
+CouleurDSelection1;20;#FFF4C58F00
+CouleurGSelection1;19;#FFF4C58F00
+CouleurDSelection1;19;#FFF4C58F00
+CouleurGSelection1;18;#FFED9E526513
+CouleurDSelection1;18;#FFED9E52408
+CouleurGSelection1;17;#FFF4C58F00
+CouleurDSelection1;17;#FFF4C58F00
+CouleurGSelection1;16;#FFE57E2610020
+CouleurDSelection1;16;#FFF4C58F00
+CouleurGSelection1;15;#FFF4C58F00
+CouleurDSelection1;15;#FFED9E525010
+CouleurGSelection1;14;#FFF4C58F255
+CouleurDSelection1;14;#FFF4C58F00
+CouleurGSelection1;13;#FFF4C58F153
+CouleurDSelection1;13;#FFF4C58F00
+CouleurGSelection1;12;#FFF4C58F00
+CouleurDSelection1;12;#FFF4C58F204
+CouleurGSelection1;11;#FFF4C58F153
+CouleurDSelection1;11;#FFF4C58F00
+CouleurGSelection1;10;#FFF4C58F153
+CouleurDSelection1;10;#FFF4C58F00
+CouleurGSelection1;9;#FFF4C58F204
+CouleurDSelection1;9;#FFF4C58F00
+CouleurGSelection1;8;#FFF4C58F00
+CouleurDSelection1;8;#FFF4C58F00
+CouleurGSelection1;7;#FFF4C58F00
+CouleurDSelection1;7;#FFF4C58F00
+CouleurGSelection1;6;#FFF4C58F204
+CouleurDSelection1;6;#FFF4C58F00
+CouleurGSelection1;5;#FFF4C58F00
+CouleurDSelection1;5;#FFF4C58F00
+CouleurGSelection1;4;#FFF4C58F00
+CouleurDSelection1;4;#FFF4C58F00
+CouleurGSelection1;3;#FFF4C58F153
+CouleurDSelection1;3;#FFF4C58F00
+CouleurGSelection1;2;#FFF4C58F00
+CouleurDSelection1;2;#FFF4C58F00
+CouleurGSelection1;1;#FFF4C58F00
+CouleurDSelection1;1;#FFF4C58F00
+CouleurGSelection2;26;#FFB3CADF00
+CouleurDSelection2;26;#FFB3CADF00
+CouleurGSelection2;25;#FF7195C15511
+CouleurDSelection2;25;#FFB3CADF00
+CouleurGSelection2;24;#FFB3CADF00
+CouleurDSelection2;24;#FFB3CADF00
+CouleurGSelection2;23;#FFB3CADF00
+CouleurDSelection2;23;#FFB3CADF00
+CouleurGSelection2;22;#FFB3CADF00
+CouleurDSelection2;22;#FFB3CADF00
+CouleurGSelection2;21;#FFB3CADF00
+CouleurDSelection2;21;#FFB3CADF00
+CouleurGSelection2;20;#FF7195C16513
+CouleurDSelection2;20;#FFB3CADF00
+CouleurGSelection2;19;#FFB3CADF00
+CouleurDSelection2;19;#FFB3CADF00
+CouleurGSelection2;18;#FF1B79B09519
+CouleurDSelection2;18;#FF1B79B07515
+CouleurGSelection2;17;#FFB3CADF00
+CouleurDSelection2;17;#FFB3CADF00
+CouleurGSelection2;16;#FFB3CADF00
+CouleurDSelection2;16;#FF1B79B010020
+CouleurGSelection2;15;#FFB3CADF255
+CouleurDSelection2;15;#FFB3CADF255
+CouleurGSelection2;14;#FF7195C1459
+CouleurDSelection2;14;#FFB3CADF00
+CouleurGSelection2;13;#FFB3CADF153
+CouleurDSelection2;13;#FF1B79B010020
+CouleurGSelection2;12;#FFB3CADF00
+CouleurDSelection2;12;#FFB3CADF306
+CouleurGSelection2;11;#FFB3CADF102
+CouleurDSelection2;11;#FF7195C1357
+CouleurGSelection2;10;#FFB3CADF51
+CouleurDSelection2;10;#FFB3CADF00
+CouleurGSelection2;9;#FFB3CADF255
+CouleurDSelection2;9;#FFB3CADF00
+CouleurGSelection2;8;#FFB3CADF00
+CouleurDSelection2;8;#FF7195C15010
+CouleurGSelection2;7;#FFB3CADF00
+CouleurDSelection2;7;#FFB3CADF00
+CouleurGSelection2;6;#FFB3CADF00
+CouleurDSelection2;6;#FFB3CADF204
+CouleurGSelection2;5;#FFB3CADF00
+CouleurDSelection2;5;#FFB3CADF00
+CouleurGSelection2;4;#FFB3CADF00
+CouleurDSelection2;4;#FFB3CADF00
+CouleurGSelection2;3;#FFB3CADF00
+CouleurDSelection2;3;#FFB3CADF00
+CouleurGSelection2;2;#FF1B79B010020
+CouleurDSelection2;2;#FFB3CADF00
+CouleurGSelection2;1;#FFB3CADF306
+CouleurDSelection2;1;#FFB3CADF00
+CouleurGSelection3;26;#FF6FC0BD102
+CouleurDSelection3;26;#FF6FC0BD00
+CouleurGSelection3;25;#FF6FC0BD00
+CouleurDSelection3;25;#FF6FC0BD00
+CouleurGSelection3;24;#FF6FC0BD00
+CouleurDSelection3;24;#FF6FC0BD00
+CouleurGSelection3;23;#FF6FC0BD00
+CouleurDSelection3;23;#FF6FC0BD00
+CouleurGSelection3;22;#FF6FC0BD00
+CouleurDSelection3;22;#FF00AEA7459
+CouleurGSelection3;21;#FF6FC0BD204
+CouleurDSelection3;21;#FF009B867014
+CouleurGSelection3;20;#FF6FC0BD00
+CouleurDSelection3;20;#FF009B8610020
+CouleurGSelection3;19;#FF009B8610020
+CouleurDSelection3;19;#FF6FC0BD00
+CouleurGSelection3;18;#FF6FC0BD00
+CouleurDSelection3;18;#FF6FC0BD00
+CouleurGSelection3;17;#FF6FC0BD00
+CouleurDSelection3;17;#FF6FC0BD00
+CouleurGSelection3;16;#FF6FC0BD00
+CouleurDSelection3;16;#FF00AEA7357
+CouleurGSelection3;15;#FF6FC0BD153
+CouleurDSelection3;15;#FF6FC0BD306
+CouleurGSelection3;14;#FF00AEA75511
+CouleurDSelection3;14;#FF009B8610020
+CouleurGSelection3;13;#FF6FC0BD255
+CouleurDSelection3;13;#FF009B869018
+CouleurGSelection3;12;#FF6FC0BD153
+CouleurDSelection3;12;#FF00AEA76513
+CouleurGSelection3;11;#FF6FC0BD102
+CouleurDSelection3;11;#FF00AEA7459
+CouleurGSelection3;10;#FF6FC0BD00
+CouleurDSelection3;10;#FF009B867515
+CouleurGSelection3;9;#FF6FC0BD255
+CouleurDSelection3;9;#FF00AEA75511
+CouleurGSelection3;8;#FF6FC0BD00
+CouleurDSelection3;8;#FF009B869018
+CouleurGSelection3;7;#FF6FC0BD00
+CouleurDSelection3;7;#FF009B867014
+CouleurGSelection3;6;#FF6FC0BD00
+CouleurDSelection3;6;#FF00AEA75010
+CouleurGSelection3;5;#FF6FC0BD00
+CouleurDSelection3;5;#FF00AEA7357
+CouleurGSelection3;4;#FF6FC0BD00
+CouleurDSelection3;4;#FF6FC0BD153
+CouleurGSelection3;3;#FF6FC0BD204
+CouleurDSelection3;3;#FF00AEA76513
+CouleurGSelection3;2;#FF6FC0BD00
+CouleurDSelection3;2;#FF00AEA7408
+CouleurGSelection3;1;#FF6FC0BD102
+CouleurDSelection3;1;#FF00AEA75511
+CouleurGSelection4;26;#FFE57A625511
+CouleurDSelection4;26;#FFE0A38B00
+CouleurGSelection4;25;#FFE0A38B255
+CouleurDSelection4;25;#FFE57A62357
+CouleurGSelection4;24;#FFE0A38B00
+CouleurDSelection4;24;#FFE0A38B00
+CouleurGSelection4;23;#FFE0A38B00
+CouleurDSelection4;23;#FFE0A38B00
+CouleurGSelection4;22;#FFE57A62357
+CouleurDSelection4;22;#FFE0A38B00
+CouleurGSelection4;21;#FFE0A38B00
+CouleurDSelection4;21;#FFE0A38B306
+CouleurGSelection4;20;#FFE0A38B00
+CouleurDSelection4;20;#FFE0A38B00
+CouleurGSelection4;19;#FFDD53408517
+CouleurDSelection4;19;#FFDD534010020
+CouleurGSelection4;18;#FFE0A38B00
+CouleurDSelection4;18;#FFE0A38B00
+CouleurGSelection4;17;#FFE0A38B00
+CouleurDSelection4;17;#FFE0A38B00
+CouleurGSelection4;16;#FFE0A38B00
+CouleurDSelection4;16;#FFE0A38B00
+CouleurGSelection4;15;#FFE0A38B00
+CouleurDSelection4;15;#FFE0A38B00
+CouleurGSelection4;14;#FFE0A38B00
+CouleurDSelection4;14;#FFDD53407515
+CouleurGSelection4;13;#FFE57A625511
+CouleurDSelection4;13;#FFE57A626513
+CouleurGSelection4;12;#FFE0A38B306
+CouleurDSelection4;12;#FFE57A626012
+CouleurGSelection4;11;#FFE57A62408
+CouleurDSelection4;11;#FFE57A625010
+CouleurGSelection4;10;#FFE57A62408
+CouleurDSelection4;10;#FFE0A38B00
+CouleurGSelection4;9;#FFE57A626012
+CouleurDSelection4;9;#FFE57A626012
+CouleurGSelection4;8;#FFE0A38B00
+CouleurDSelection4;8;#FFE0A38B00
+CouleurGSelection4;7;#FFE0A38B51
+CouleurDSelection4;7;#FFE0A38B00
+CouleurGSelection4;6;#FFE0A38B255
+CouleurDSelection4;6;#FFE0A38B00
+CouleurGSelection4;5;#FFE57A62459
+CouleurDSelection4;5;#FFE57A62408
+CouleurGSelection4;4;#FFE0A38B00
+CouleurDSelection4;4;#FFE0A38B00
+CouleurGSelection4;3;#FFE57A62408
+CouleurDSelection4;3;#FFE0A38B00
+CouleurGSelection4;2;#FFDD534010020
+CouleurDSelection4;2;#FFE0A38B00
+CouleurGSelection4;1;#FFE0A38B255
+CouleurDSelection4;1;#FFDD53407515
+CouleurGSelection5;26;#FFF4C58F00
+CouleurDSelection5;26;#FFF4C58F00
+CouleurGSelection5;25;#FF7195C15511
+CouleurDSelection5;25;#FFF4C58F00
+CouleurGSelection5;24;#FFF4C58F00
+CouleurDSelection5;24;#FFF4C58F00
+CouleurGSelection5;23;#FFF4C58F00
+CouleurDSelection5;23;#FFF4C58F255
+CouleurGSelection5;22;#FFF4C58F00
+CouleurDSelection5;22;#FFF4C58F00
+CouleurGSelection5;21;#FFE57E268016
+CouleurDSelection5;21;#FFF4C58F00
+CouleurGSelection5;20;#FF7195C16513
+CouleurDSelection5;20;#FFF4C58F00
+CouleurGSelection5;19;#FFF4C58F00
+CouleurDSelection5;19;#FFF4C58F00
+CouleurGSelection5;18;#FF1B79B09519
+CouleurDSelection5;18;#FF1B79B07515
+CouleurGSelection5;17;#FFF4C58F00
+CouleurDSelection5;17;#FFF4C58F00
+CouleurGSelection5;16;#FFE57E2610020
+CouleurDSelection5;16;#FF1B79B010020
+CouleurGSelection5;15;#FFB3CADF255
+CouleurDSelection5;15;#FFED9E525010
+CouleurGSelection5;14;#FF7195C1459
+CouleurDSelection5;14;#FFF4C58F00
+CouleurGSelection5;13;#FFF4C58F00
+CouleurDSelection5;13;#FF1B79B010020
+CouleurGSelection5;12;#FFF4C58F00
+CouleurDSelection5;12;#FFB3CADF306
+CouleurGSelection5;11;#FFF4C58F153
+CouleurDSelection5;11;#FF7195C1357
+CouleurGSelection5;10;#FFF4C58F153
+CouleurDSelection5;10;#FFF4C58F00
+CouleurGSelection5;9;#FFB3CADF255
+CouleurDSelection5;9;#FFF4C58F00
+CouleurGSelection5;8;#FFF4C58F00
+CouleurDSelection5;8;#FF7195C15010
+CouleurGSelection5;7;#FFF4C58F00
+CouleurDSelection5;7;#FFF4C58F00
+CouleurGSelection5;6;#FFF4C58F204
+CouleurDSelection5;6;#FFB3CADF204
+CouleurGSelection5;5;#FFF4C58F00
+CouleurDSelection5;5;#FFF4C58F00
+CouleurGSelection5;4;#FFF4C58F00
+CouleurDSelection5;4;#FFF4C58F00
+CouleurGSelection5;3;#FFF4C58F153
+CouleurDSelection5;3;#FFF4C58F00
+CouleurGSelection5;2;#FF1B79B010020
+CouleurDSelection5;2;#FFF4C58F00
+CouleurGSelection5;1;#FFB3CADF306
+CouleurDSelection5;1;#FFF4C58F00
+CouleurGSelection6;26;#FFE57A625511
+CouleurDSelection6;26;#FFF4C58F00
+CouleurGSelection6;25;#FFE0A38B255
+CouleurDSelection6;25;#FFE57A62357
+CouleurGSelection6;24;#FFF4C58F00
+CouleurDSelection6;24;#FFF4C58F00
+CouleurGSelection6;23;#FFF4C58F00
+CouleurDSelection6;23;#FFF4C58F00
+CouleurGSelection6;22;#FFE57A62357
+CouleurDSelection6;22;#FF00AEA7459
+CouleurGSelection6;21;#FF6FC0BD204
+CouleurDSelection6;21;#FF009B867014
+CouleurGSelection6;20;#FFF4C58F00
+CouleurDSelection6;20;#FF009B8610020
+CouleurGSelection6;19;#FF009B8610020
+CouleurDSelection6;19;#FFDD534010020
+CouleurGSelection6;18;#FFF4C58F00
+CouleurDSelection6;18;#FFF4C58F00
+CouleurGSelection6;17;#FFF4C58F00
+CouleurDSelection6;17;#FFF4C58F00
+CouleurGSelection6;16;#FFF4C58F00
+CouleurDSelection6;16;#FF00AEA7357
+CouleurGSelection6;15;#FF6FC0BD153
+CouleurDSelection6;15;#FF6FC0BD306
+CouleurGSelection6;14;#FF00AEA75511
+CouleurDSelection6;14;#FF009B8610020
+CouleurGSelection6;13;#FFE57A625511
+CouleurDSelection6;13;#FF009B869018
+CouleurGSelection6;12;#FFE0A38B306
+CouleurDSelection6;12;#FF00AEA76513
+CouleurGSelection6;11;#FFE57A62408
+CouleurDSelection6;11;#FFE57A625010
+CouleurGSelection6;10;#FFE57A62408
+CouleurDSelection6;10;#FF009B867515
+CouleurGSelection6;9;#FFE57A626012
+CouleurDSelection6;9;#FFE57A626012
+CouleurGSelection6;8;#FFF4C58F00
+CouleurDSelection6;8;#FF009B869018
+CouleurGSelection6;7;#FFE0A38B51
+CouleurDSelection6;7;#FF009B867014
+CouleurGSelection6;6;#FFE0A38B255
+CouleurDSelection6;6;#FF00AEA75010
+CouleurGSelection6;5;#FFE57A62459
+CouleurDSelection6;5;#FFE57A62408
+CouleurGSelection6;4;#FFF4C58F00
+CouleurDSelection6;4;#FFF4C58F00
+CouleurGSelection6;3;#FFE57A62408
+CouleurDSelection6;3;#FF00AEA76513
+CouleurGSelection6;2;#FFDD534010020
+CouleurDSelection6;2;#FF00AEA7408
+CouleurGSelection6;1;#FFE0A38B255
+CouleurDSelection6;1;#FFDD53407515
+CouleurGSelection7;26;#FFE57A625511
+CouleurDSelection7;26;#FFF4C58F00
+CouleurGSelection7;25;#FF7195C15511
+CouleurDSelection7;25;#FFE57A62357
+CouleurGSelection7;24;#FFF4C58F00
+CouleurDSelection7;24;#FFF4C58F00
+CouleurGSelection7;23;#FFF4C58F00
+CouleurDSelection7;23;#FFF4C58F255
+CouleurGSelection7;22;#FFE57A62357
+CouleurDSelection7;22;#FF00AEA7459
+CouleurGSelection7;21;#FFE57E268016
+CouleurDSelection7;21;#FF009B867014
+CouleurGSelection7;20;#FF7195C16513
+CouleurDSelection7;20;#FF009B8610020
+CouleurGSelection7;19;#FF009B8610020
+CouleurDSelection7;19;#FFDD534010020
+CouleurGSelection7;18;#FF1B79B09519
+CouleurDSelection7;18;#FF1B79B07515
+CouleurGSelection7;17;#FFF4C58F00
+CouleurDSelection7;17;#FFF4C58F00
+CouleurGSelection7;16;#FFE57E2610020
+CouleurDSelection7;16;#FF1B79B010020
+CouleurGSelection7;15;#FFB3CADF255
+CouleurDSelection7;15;#FFED9E525010
+CouleurGSelection7;14;#FF00AEA75511
+CouleurDSelection7;14;#FF009B8610020
+CouleurGSelection7;13;#FFE57A625511
+CouleurDSelection7;13;#FF1B79B010020
+CouleurGSelection7;12;#FFE0A38B306
+CouleurDSelection7;12;#FF00AEA76513
+CouleurGSelection7;11;#FFE57A62408
+CouleurDSelection7;11;#FFE57A625010
+CouleurGSelection7;10;#FFE57A62408
+CouleurDSelection7;10;#FF009B867515
+CouleurGSelection7;9;#FFE57A626012
+CouleurDSelection7;9;#FFE57A626012
+CouleurGSelection7;8;#FFF4C58F00
+CouleurDSelection7;8;#FF009B869018
+CouleurGSelection7;7;#FFE0A38B51
+CouleurDSelection7;7;#FF009B867014
+CouleurGSelection7;6;#FFE0A38B255
+CouleurDSelection7;6;#FF00AEA75010
+CouleurGSelection7;5;#FFE57A62459
+CouleurDSelection7;5;#FFE57A62408
+CouleurGSelection7;4;#FFF4C58F00
+CouleurDSelection7;4;#FFF4C58F00
+CouleurGSelection7;3;#FFE57A62408
+CouleurDSelection7;3;#FF00AEA76513
+CouleurGSelection7;2;#FFDD534010020
+CouleurDSelection7;2;#FF00AEA7408
+CouleurGSelection7;1;#FFB3CADF306
+CouleurDSelection7;1;#FFDD53407515
+
+CircleD;0;417;734;10;10;10;00F5FF;50;#FF00AEA7;10;cœur/nœud septal;600;être de bonne humeur / joie ;50;#FF7195C1;10;cœur/nœud septal;600;moins se mettre la pression
+CircleD;1;337;364;13;13;16;FFFF00;80;#FF009B86;16;lobe pariétal;1000;confiance dans la vie / gratitude / connexion aux plans supérieurs / langage symbolique ;80;#FFE57E26;16;lobe pariétal;1000;besoin de se connecter à plus haut / aimer percevoir par le corps / aimer la symbolique 
+CircleD;2;409;276;15;15;20;FFA500;100;#FFE57E26;20;rose;1080;besoin de constance et de stabilité dans les choses à faire
+CircleD;3;409;101;14;14;19;0000EE;95;#FF1B79B0;19;rose;1130;se couper du monde / ne pas avoir sa place / ne pas évoluer / vivre par procuration
+StarD;4;412;1969;21;21;11;000000;55;#FFE57A62;11;cou-de-pied;80;faire autrement que les autres / ne pas être avec les autres;55;#FF7195C1;11;cou-de-pied;80;solitude imposée ou mal vécue / empêchement d’avancer
+StarD;5;381;1859;50;50;40;000000;200;#FFDD5340;40;tibia/péroné;110;générer des tensions vis à vis des autres;200;#FF1B79B0;40;tibia/péroné;110;sentiment de subir / se sentir dévalorisé ou impuissant
+StarD;6;181;1859;40;40;40;000000;200;#FFDD5340;40;tibia/péroné;110;générer des tensions vis à vis des autres;200;#FF1B79B0;40;tibia/péroné;110;sentiment de subir / se sentir dévalorisé ou impuissant
+StarD;7;271;750;20;20;10;FF0000;50;#FFE57A62;10;D7;580;égo fort / contrariété / perfectionnisme
+StarD;8;294;724;22;22;12;FF0000;60;#FFE57A62;12;D6;590;égo fort / contrariété / irrespect / rabaisser les autres
+StarD;9;430;561;20;20;10;000000;50;#FFE57A62;10;larynx;750;devoir se battre pour plus de liberté / refuser d'écouter son cœur / déni;50;#FF7195C1;10;larynx;750;silence / non-dits / se sentir étouffé / envahi / pas libre / plein d'obligations
+StarD;10;362;444;21;21;11;000000;55;#FFE57A62;11;cervelet;890;stress / agitation physique / besoin de bouger;55;#FF7195C1;11;cervelet;890;ne pas sentir son corps / maladresse
+StarD;11;347;424;21;21;11;FF0000;55;#FFE57A62;11;lobe occipital;900;fuite en avant / hyperactivité / parer au plus pressé / être dans l'illusion ou la fantaisie
+StarD;12;412;403;20;20;10;8B0000;50;#FFE57A62;10;lobe temporal;990;agitation émotionnelle / émotivité / se sentir agressé;50;#FFED9E52;10;lobe temporal;990;besoin d'exprimer certaines émotions / ne pas contrôler ses émotions
+CircleAv;13;480;709;10;10;10;00F5FF;50;#FF00AEA7;10;cœur/nœud septal;600;être de bonne humeur / joie ;50;#FF7195C1;10;cœur/nœud septal;600;moins se mettre la pression
+CircleAv;14;437;256;15;15;20;FFA500;100;#FFE57E26;20;rose;1080;besoin de constance et de stabilité dans les choses à faire
+CircleAv;15;437;131;14;14;19;0000EE;95;#FF1B79B0;19;rose;1130;se couper du monde / ne pas avoir sa place / ne pas évoluer / vivre par procuration
+CircleAv;16;736;1912;10;10;11;008B00;55;#FF00AEA7;11;malléole;90;se sentir soutenu / avoir une direction dans la vie 
+CircleAv;17;538;1073;10;10;10;008B00;50;#FF00AEA7;10;ovaire/bras;340;créativité équilibrée 
+CircleAv;18;461;979;12;12;14;008B00;70;#FF009B86;14;estomac;380;satisfaction / sentiment de sécurité et de plénitude / capacité à se réconcilier
+CircleAv;19;533;787;10;10;11;008B00;55;#FF00AEA7;11;poitrine;540;être à sa juste place / liberté d'engagement / résilience émotionnelle / générosité / altruisme
+CircleAv;20;533;649;12;12;15;008B00;75;#FF009B86;15;poumon;630;capacité à calmer les tensions et les conflits 
+CircleAv;21;464;585;10;10;11;008B00;55;#FF00AEA7;11;œsophage/trachée;710;grandir par les expériences / être un pionnier / laisser passer les émotions / adaptation
+CircleAv;22;460;561;13;13;16;00F5FF;80;#FF009B86;16;thyroïde;740;exprimer ses sentiments / spontanéité / honnêteté / prendre le temps ;80;#FF1B79B0;16;thyroïde;740;non-dits / renoncer / ne pas accepter le vécu / nostalgie / manque de protection / secret de famille
+CircleAv;23;462;548;10;10;10;00F5FF;50;#FF00AEA7;10;larynx;750;écouter son cœur / résilience / s'ouvrir aux autres / équilibre des polarités / sincérité ;50;#FF7195C1;10;larynx;750;silence / non-dits / se sentir étouffé / envahi / pas libre / plein d'obligations
+CircleAv;24;446;521;12;12;14;00F5FF;70;#FF009B86;14;menton;780;autorité naturelle / inspirer confiance ;70;#FF1B79B0;14;menton;780;manque de volonté / cesser de résister / apathie / suivre
+CircleAv;25;426;461;11;11;13;008B00;65;#FF00AEA7;13;nez;840;confiance naturelle dans la vie / bonne intuition 
+CircleAv;26;488;439;15;15;20;0000EE;100;#FF1B79B0;20;tempe;930;envie de décompresser / refus du changement
+CircleAv;27;525;412;10;10;10;00F5FF;50;#FF00AEA7;10;hypophyse;970;calme mental / capacité de discernement / pensées structurées / capacité d'analyse ;50;#FF7195C1;10;hypophyse;970;ne pas choisir / passivité / générer des peurs / peur de l'inconnu / négligence
+CircleAv;28;512;374;13;13;17;00F5FF;85;#FF009B86;17;lobe temporal;990;calme émotionnel / sérénité;85;#FF1B79B0;17;lobe temporal;990;contrôler ou réprimer les émotions / mémoire courte
+CircleAv;29;437;350;10;10;10;FFA500;50;#FFED9E52;10;lobe préfrontal;1030;besoin de ne pas se limiter / besoin de voir plus grand / besoin de penser autrement / besoin d'être soi-même 
+CircleAv;30;510;231;15;15;20;0000EE;100;#FF1B79B0;20;rose;1090;refus de la réalité / refus du futur / ne pas être dans le concret / illusion dans les perceptions
+CircleAv;31;510;106;12;12;15;0000EE;75;#FF1B79B0;15;rose;1140;ne pas voir la suite / ne voir que le beau côté des choses / manque de discernement
+StarAv;32;413;1752;50;50;40;000000;200;#FFDD5340;40;tibia/péroné;110;générer des tensions vis à vis des autres;200;#FF1B79B0;40;tibia/péroné;110;sentiment de subir / se sentir dévalorisé ou impuissant
+StarAv;33;113;1752;40;40;40;000000;200;#FFDD5340;40;tibia/péroné;110;générer des tensions vis à vis des autres;200;#FF1B79B0;40;tibia/péroné;110;sentiment de subir / se sentir dévalorisé ou impuissant
+StarAv;34;439;548;20;20;10;000000;50;#FFE57A62;10;larynx;750;devoir se battre pour plus de liberté / refuser d'écouter son cœur / déni;50;#FF7195C1;10;larynx;750;silence / non-dits / se sentir étouffé / envahi / pas libre / plein d'obligations
+StarAv;35;484;374;20;20;10;8B0000;50;#FFE57A62;10;lobe temporal;990;agitation émotionnelle / émotivité / se sentir agressé;50;#FFED9E52;10;lobe temporal;990;besoin d'exprimer certaines émotions / ne pas contrôler ses émotions
+StarAv;36;510;709;22;22;12;FF0000;60;#FFE57A62;12;cœur/nœud septal;600;se mettre ou subir une pression excessive / se sentir agressé / devoir lutter
+CircleAr;37;376;1584;11;11;13;008B00;65;#FF00AEA7;13;arrière du genou;150;laisser passer l'énergie / être fluide / en paix avec ses parents ou ses enfants 
+CircleAr;38;519;1136;10;10;10;008B00;50;#FF00AEA7;10;S1;330;se laisser porter par la vie / prendre ce qui vient / avoir une base solide / sexualité équilibrée
+CircleAr;39;529;1086;11;11;12;008B00;60;#FF00AEA7;12;L4;410;se sentir soutenu / respecté / en sécurité 
+CircleAr;40;534;1046;10;10;10;008B00;50;#FF00AEA7;10;L3;420;savoir apaiser les conflits / être conciliant 
+CircleAr;41;539;1006;10;10;10;008B00;50;#FF00AEA7;10;L2;430;enfant intérieur calme et rassuré / joie / confiance en soi
+CircleAr;42;499;937;10;10;10;0000EE;50;#FF7195C1;10;surrénales;490;se sentir victime / être stressé / vivre dans la peur 
+CircleAr;43;539;831;14;14;18;008B00;90;#FF009B86;18;D9;530;calme intérieur / tempérer sa colère 
+CircleAr;44;540;386;14;14;18;008B00;90;#FF009B86;18;épiphyse;910;vivre l'instant présent / adaptation / bonnes perceptions / capacité de synthèse 
+CircleAr;45;490;361;15;15;20;008B00;100;#FF009B86;20;lobe pariétal;1000;confiance dans la vie / gratitude / connexion aux plans supérieurs / langage symbolique 
+CircleAr;46;537;231;15;15;20;0000EE;100;#FF1B79B0;20;rose;1090;refus de la réalité / refus du futur / ne pas être dans le concret / illusion dans les perceptions
+CircleAr;47;537;106;12;12;15;0000EE;75;#FF1B79B0;15;rose;1140;ne pas voir la suite / ne voir que le beau côté des choses / manque de discernement
+CircleAr;48;618;361;13;13;16;FFFF00;80;#FF009B86;16;lobe pariétal;1000;confiance dans la vie / gratitude / connexion aux plans supérieurs / langage symbolique ;80;#FFE57E26;16;lobe pariétal;1000;besoin de se connecter à plus haut / aimer percevoir par le corps / aimer la symbolique 
+CircleAr;49;610;256;15;15;20;FFA500;100;#FFE57E26;20;rose;1080;besoin de constance et de stabilité dans les choses à faire
+CircleAr;50;610;131;14;14;19;0000EE;95;#FF1B79B0;19;rose;1130;se couper du monde / ne pas avoir sa place / ne pas évoluer / vivre par procuration
+StarAr;51;287;1903;25;25;15;FF0000;75;#FFDD5340;15;astragale;70;envie de fuir / de se défouler pour décompresser
+StarAr;52;250;1940;25;25;15;FF0000;75;#FFDD5340;15;cou-de-pied;80;faire autrement que les autres / ne pas être avec les autres
+StarAr;53;544;576;20;20;10;FF0000;50;#FFE57A62;10;C7;720;conflit / tenir tête / vouloir tout décider / avoir le dernier mot
+StarAr;54;538;476;22;22;12;FF0000;60;#FFE57A62;12;C2;870;questionnement pour la suite / serrer les dents
+StarAr;55;490;416;23;23;13;FF0000;65;#FFE57A62;13;lobe occipital;900;fuite en avant / hyperactivité / parer au plus pressé / être dans l'illusion ou la fantaisie
+StarAr;56;540;341;25;25;15;FF0000;75;#FFDD5340;15;corps calleux;1010;aimer les sensations fortes / trop sentir dans son corps
+StarAr;57;646;1969;21;21;11;000000;55;#FFE57A62;11;cou-de-pied;80;faire autrement que les autres / ne pas être avec les autres;55;#FF7195C1;11;cou-de-pied;80;solitude imposée ou mal vécue / empêchement d’avancer
+StarAr;58;577;761;20;20;10;FF0000;50;#FFE57A62;10;D7;580;égo fort / contrariété / perfectionnisme
+StarAr;59;576;726;22;22;12;FF0000;60;#FFE57A62;12;D6;590;égo fort / contrariété / irrespect / rabaisser les autres
+StarAr;60;570;426;21;21;11;000000;55;#FFE57A62;11;cervelet;890;stress / agitation physique / besoin de bouger;55;#FF7195C1;11;cervelet;890;ne pas sentir son corps / maladresse
+StarAr;61;597;416;21;21;11;FF0000;55;#FFE57A62;11;lobe occipital;900;fuite en avant / hyperactivité / parer au plus pressé / être dans l'illusion ou la fantaisie
+CircleG;62;453;1956;10;10;11;008B00;55;#FF00AEA7;11;malléole;90;se sentir soutenu / avoir une direction dans la vie 
+CircleG;63;482;1563;11;11;13;008B00;65;#FF00AEA7;13;arrière du genou;150;laisser passer l'énergie / être fluide / en paix avec ses parents ou ses enfants 
+CircleG;64;500;1104;10;10;10;008B00;50;#FF00AEA7;10;S1;330;se laisser porter par la vie / prendre ce qui vient / avoir une base solide / sexualité équilibrée
+CircleG;65;392;1036;10;10;10;008B00;50;#FF00AEA7;10;ovaire/bras;340;créativité équilibrée 
+CircleG;66;348;962;12;12;14;008B00;70;#FF009B86;14;estomac;380;satisfaction / sentiment de sécurité et de plénitude / capacité à se réconcilier
+CircleG;67;475;1043;11;11;12;008B00;60;#FF00AEA7;12;L4;410;se sentir soutenu / respecté / en sécurité 
+CircleG;68;468;1011;10;10;10;008B00;50;#FF00AEA7;10;L3;420;savoir apaiser les conflits / être conciliant 
+CircleG;69;469;974;10;10;10;008B00;50;#FF00AEA7;10;L2;430;enfant intérieur calme et rassuré / joie / confiance en soi
+CircleG;70;457;878;10;10;10;0000EE;50;#FF7195C1;10;surrénales;490;se sentir victime / être stressé / vivre dans la peur 
+CircleG;71;493;821;14;14;18;008B00;90;#FF009B86;18;D9;530;calme intérieur / tempérer sa colère 
+CircleG;72;265;793;10;10;11;008B00;55;#FF00AEA7;11;poitrine;540;être à sa juste place / liberté d'engagement / résilience émotionnelle / générosité / altruisme
+CircleG;73;344;674;12;12;15;008B00;75;#FF009B86;15;poumon;630;capacité à calmer les tensions et les conflits 
+CircleG;74;406;585;10;10;11;008B00;55;#FF00AEA7;11;œsophage/trachée;710;grandir par les expériences / être un pionnier / laisser passer les émotions / adaptation
+CircleG;75;397;569;13;13;16;00F5FF;80;#FF009B86;16;thyroïde;740;exprimer ses sentiments / spontanéité / honnêteté / prendre le temps ;80;#FF1B79B0;16;thyroïde;740;non-dits / renoncer / ne pas accepter le vécu / nostalgie / manque de protection / secret de famille
+CircleG;76;372;561;10;10;10;00F5FF;50;#FF00AEA7;10;larynx;750;écouter son cœur / résilience / s'ouvrir aux autres / équilibre des polarités / sincérité ;50;#FF7195C1;10;larynx;750;silence / non-dits / se sentir étouffé / envahi / pas libre / plein d'obligations
+CircleG;77;310;528;12;12;14;00F5FF;70;#FF009B86;14;menton;780;autorité naturelle / inspirer confiance ;70;#FF1B79B0;14;menton;780;manque de volonté / cesser de résister / apathie / suivre
+CircleG;78;288;469;11;11;13;008B00;65;#FF00AEA7;13;nez;840;confiance naturelle dans la vie / bonne intuition 
+CircleG;79;410;409;14;14;18;008B00;90;#FF009B86;18;épiphyse;910;vivre l'instant présent / adaptation / bonnes perceptions / capacité de synthèse 
+CircleG;80;328;432;15;15;20;0000EE;100;#FF1B79B0;20;tempe;930;envie de décompresser / refus du changement
+CircleG;81;332;423;10;10;10;00F5FF;50;#FF00AEA7;10;hypophyse;970;calme mental / capacité de discernement / pensées structurées / capacité d'analyse ;50;#FF7195C1;10;hypophyse;970;ne pas choisir / passivité / générer des peurs / peur de l'inconnu / négligence
+CircleG;82;390;403;13;13;17;00F5FF;85;#FF009B86;17;lobe temporal;990;calme émotionnel / sérénité;85;#FF1B79B0;17;lobe temporal;990;contrôler ou réprimer les émotions / mémoire courte
+CircleG;83;467;364;15;15;20;008B00;100;#FF009B86;20;lobe pariétal;1000;confiance dans la vie / gratitude / connexion aux plans supérieurs / langage symbolique 
+CircleG;84;324;365;10;10;10;FFA500;50;#FFED9E52;10;lobe préfrontal;1030;besoin de ne pas se limiter / besoin de voir plus grand / besoin de penser autrement / besoin d'être soi-même 
+CircleG;85;388;251;15;15;20;0000EE;100;#FF1B79B0;20;rose;1090;refus de la réalité / refus du futur / ne pas être dans le concret / illusion dans les perceptions
+CircleG;86;388;51;12;12;15;0000EE;75;#FF1B79B0;15;rose;1140;ne pas voir la suite / ne voir que le beau côté des choses / manque de discernement
+StarG;87;455;1980;25;25;15;FF0000;75;#FFDD5340;15;astragale;70;envie de fuir / de se défouler pour décompresser
+StarG;88;380;1969;25;25;15;FF0000;75;#FFDD5340;15;cou-de-pied;80;faire autrement que les autres / ne pas être avec les autres
+StarG;89;416;734;22;22;12;FF0000;60;#FFE57A62;12;cœur/nœud septal;600;se mettre ou subir une pression excessive / se sentir agressé / devoir lutter
+StarG;90;462;580;20;20;10;FF0000;50;#FFE57A62;10;C7;720;conflit / tenir tête / vouloir tout décider / avoir le dernier mot
+StarG;91;438;481;22;22;12;FF0000;60;#FFE57A62;12;C2;870;questionnement pour la suite / serrer les dents
+StarG;92;458;424;23;23;13;FF0000;65;#FFE57A62;13;lobe occipital;900;fuite en avant / hyperactivité / parer au plus pressé / être dans l'illusion ou la fantaisie
+StarG;93;418;357;25;25;15;FF0000;75;#FFDD5340;15;corps calleux;1010;aimer les sensations fortes / trop sentir dans son corps
+
+
+
+BlocageAr;Besoin;#FF009B86;0
+BlocageAr;Besoin;#FFDD5340;0
+BlocageAr;Besoin;#FF1B79B0;0
+BlocageAr;Besoin;#FFE57E26;0
+BlocageAr;Besoin;#FF009B86;140
+BlocageAr;Besoin;#FFDD5340;0
+BlocageAr;Besoin;#FF1B79B0;25
+BlocageAr;Besoin;#FFE57E26;0
+BlocageAr;Besoin;#FF009B86;145
+BlocageAr;Besoin;#FFDD5340;49
+BlocageAr;Besoin;#FF1B79B0;9
+BlocageAr;Besoin;#FFE57E26;17
+BlocageAr;Besoin;#FF009B86;167
+BlocageAr;Besoin;#FFDD5340;212
+BlocageAr;Besoin;#FF1B79B0;4
+BlocageAr;Besoin;#FFE57E26;0
+BlocageAr;Besoin;#FF009B86;260
+BlocageAr;Besoin;#FFDD5340;65
+BlocageAr;Besoin;#FF1B79B0;0
+BlocageAr;Besoin;#FFE57E26;0
+BlocageAr;Besoin;#FF009B86;62
+BlocageAr;Besoin;#FFDD5340;108
+BlocageAr;Besoin;#FF1B79B0;0
+BlocageAr;Besoin;#FFE57E26;9
+BlocageAr;Besoin;#FF009B86;78
+BlocageAr;Besoin;#FFDD5340;105
+BlocageAr;Besoin;#FF1B79B0;6
+BlocageAr;Besoin;#FFE57E26;0
+BlocageAr;Besoin;#FF009B86;339
+BlocageAr;Besoin;#FFDD5340;270
+BlocageAr;Besoin;#FF1B79B0;0
+BlocageAr;Besoin;#FFE57E26;0
+BlocageAr;Besoin;#FF009B86;118
+BlocageAr;Besoin;#FFDD5340;0
+BlocageAr;Besoin;#FF1B79B0;65
+BlocageAr;Besoin;#FFE57E26;0
+BlocageAr;Besoin;#FF009B86;499
+BlocageAr;Besoin;#FFDD5340;26
+BlocageAr;Besoin;#FF1B79B0;0
+BlocageAr;Besoin;#FFE57E26;0
+BlocageAr;Besoin;#FF009B86;486
+BlocageAr;Besoin;#FFDD5340;118
+BlocageAr;Besoin;#FF1B79B0;0
+BlocageAr;Besoin;#FFE57E26;0
+BlocageAr;Besoin;#FF009B86;133
+BlocageAr;Besoin;#FFDD5340;480
+BlocageAr;Besoin;#FF1B79B0;0
+BlocageAr;Besoin;#FFE57E26;0
+BlocageAr;Besoin;#FF009B86;191
+BlocageAr;Besoin;#FFDD5340;95
+BlocageAr;Besoin;#FF1B79B0;0
+BlocageAr;Besoin;#FFE57E26;0
+BlocageAv;Besoin;#FF009B86;18
+BlocageAv;Besoin;#FFDD5340;0
+BlocageAv;Besoin;#FF1B79B0;20
+BlocageAv;Besoin;#FFE57E26;29
+BlocageAv;Besoin;#FF009B86;8
+BlocageAv;Besoin;#FFDD5340;0
+BlocageAv;Besoin;#FF1B79B0;20
+BlocageAv;Besoin;#FFE57E26;41
+BlocageAv;Besoin;#FF009B86;3
+BlocageAv;Besoin;#FFDD5340;146
+BlocageAv;Besoin;#FF1B79B0;0
+BlocageAv;Besoin;#FFE57E26;0
+BlocageAv;Besoin;#FF009B86;66
+BlocageAv;Besoin;#FFDD5340;46
+BlocageAv;Besoin;#FF1B79B0;44
+BlocageAv;Besoin;#FFE57E26;3
+BlocageAv;Besoin;#FF009B86;133
+BlocageAv;Besoin;#FFDD5340;68
+BlocageAv;Besoin;#FF1B79B0;10
+BlocageAv;Besoin;#FFE57E26;6
+BlocageAv;Besoin;#FF009B86;131
+BlocageAv;Besoin;#FFDD5340;109
+BlocageAv;Besoin;#FF1B79B0;29
+BlocageAv;Besoin;#FFE57E26;0
+BlocageAv;Besoin;#FF009B86;209
+BlocageAv;Besoin;#FFDD5340;33
+BlocageAv;Besoin;#FF1B79B0;0
+BlocageAv;Besoin;#FFE57E26;10
+BlocageAv;Besoin;#FF009B86;68
+BlocageAv;Besoin;#FFDD5340;125
+BlocageAv;Besoin;#FF1B79B0;11
+BlocageAv;Besoin;#FFE57E26;9
+BlocageAv;Besoin;#FF009B86;500
+BlocageAv;Besoin;#FFDD5340;0
+BlocageAv;Besoin;#FF1B79B0;0
+BlocageAv;Besoin;#FFE57E26;0
+BlocageAv;Besoin;#FF009B86;432
+BlocageAv;Besoin;#FFDD5340;48
+BlocageAv;Besoin;#FF1B79B0;0
+BlocageAv;Besoin;#FFE57E26;0
+BlocageAv;Besoin;#FF009B86;116
+BlocageAv;Besoin;#FFDD5340;17
+BlocageAv;Besoin;#FF1B79B0;35
+BlocageAv;Besoin;#FFE57E26;80
+BlocageAv;Besoin;#FF009B86;93
+BlocageAv;Besoin;#FFDD5340;0
+BlocageAv;Besoin;#FF1B79B0;0
+BlocageAv;Besoin;#FFE57E26;0
+BlocageAv;Besoin;#FF009B86;160
+BlocageAv;Besoin;#FFDD5340;297
+BlocageAv;Besoin;#FF1B79B0;106
+BlocageAv;Besoin;#FFE57E26;10
+
