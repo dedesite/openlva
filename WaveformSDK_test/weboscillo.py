@@ -38,18 +38,31 @@ if hdwf.value == hdwfNone.value:
     print("failed to open device")
     quit()
 
-# enable wavegen channel 1, set the waveform to sine, set the frequency to 1 Hz, the amplitude to 2v and start the wavegen
-dwf.FDwfAnalogOutNodeEnableSet(hdwf, c_int(0), AnalogOutNodeCarrier, c_bool(True))
-dwf.FDwfAnalogOutNodeFunctionSet(hdwf, c_int(0), AnalogOutNodeCarrier, funcSquare)
-dwf.FDwfAnalogOutNodeFrequencySet(hdwf, c_int(0), AnalogOutNodeCarrier, c_double(1))
-dwf.FDwfAnalogOutNodeAmplitudeSet(hdwf, c_int(0), AnalogOutNodeCarrier, c_double(2))
-dwf.FDwfAnalogOutConfigure(hdwf, c_int(0), c_bool(True))
 
-cMin = c_int();
-cMax = c_int();
-dwf.FDwfAnalogOutNodeDataInfo(hdwf, c_int(0), AnalogOutNodeCarrier, byref(cMin), byref(cMax))
+print("Generating custom waveform...")
 
-print("Min:"+str(cMin.value) + " Max:" + str(cMax.value))
+hzFreq = 1e4
+cSamples = 4096
+hdwf = c_int()
+testSamples = (c_double*cSamples)()
+channel = c_int(0)
+
+# samples between -1 and +1
+for i in range(0,len(testSamples)):
+    testSamples[i] = 1.0*i/cSamples;
+
+dwf.FDwfAnalogOutNodeEnableSet(hdwf, channel, AnalogOutNodeCarrier, c_bool(True))
+dwf.FDwfAnalogOutNodeFunctionSet(hdwf, channel, AnalogOutNodeCarrier, funcCustom) 
+dwf.FDwfAnalogOutNodeDataSet(hdwf, channel, AnalogOutNodeCarrier, testSamples, c_int(cSamples))
+dwf.FDwfAnalogOutNodeFrequencySet(hdwf, channel, AnalogOutNodeCarrier, c_double(hzFreq)) 
+dwf.FDwfAnalogOutNodeAmplitudeSet(hdwf, channel, AnalogOutNodeCarrier, c_double(2.0)) 
+
+dwf.FDwfAnalogOutRunSet(hdwf, channel, c_double(2.0/hzFreq)) # run for 2 periods
+dwf.FDwfAnalogOutWaitSet(hdwf, channel, c_double(1.0/hzFreq)) # wait one pulse time
+dwf.FDwfAnalogOutRepeatSet(hdwf, channel, c_int(3)) # repeat 5 times
+
+dwf.FDwfAnalogOutConfigure(hdwf, channel, c_bool(True))
+
 
 # enable scope channel 1, set the input range to 5v, set acquisition mode to record, set the sample frequency to 100kHz and set the record length to 2 seconds
 dwf.FDwfAnalogInChannelEnableSet(hdwf, c_int(0), c_bool(True))
