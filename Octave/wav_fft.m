@@ -3,7 +3,6 @@
 # Et de
 # https://stackoverflow.com/questions/25797670/plotting-fft-on-octave
 
-
 #
 # Affichage du contenu du wav
 #
@@ -43,12 +42,8 @@ xlabel('Seconds'); ylabel('Amplitude');
 #
 # Affichage des composantes spectrales du wav
 #
-
-L=length(clean_right);        
-NFFT=L;    
-X=fft(clean_right,NFFT);       
-Px=X.*conj(X)/(NFFT*L); %Power of each freq components       
-fVals=fs*(0:NFFT/2-1)/NFFT;  
+  
+[Px, fVals, NFFT] = fft_one_sided(clean_right, fs);
 subplot(4,1,3);     
 # Test de limit à 845Hz
 plot(fVals,Px(1:NFFT/2),'b'); axis([0 845 0 0.0000001]);
